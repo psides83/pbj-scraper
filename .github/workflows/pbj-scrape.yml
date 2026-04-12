@@ -14,6 +14,7 @@ jobs:
     timeout-minutes: 90
     env:
       TZ: America/Chicago
+      PLAYWRIGHT_BROWSERS_PATH: /tmp/pw-browsers
       DATA_FILE: docs/pbj-detailed.json
       TOTAL_CARDS: "250"
       CHUNK_SIZE: "30"
@@ -67,6 +68,13 @@ jobs:
       - name: Install Playwright Chromium
         if: steps.gate.outputs.run == 'true'
         run: npx playwright install --with-deps chromium
+
+      - name: Verify Playwright Browser Path
+        if: steps.gate.outputs.run == 'true'
+        shell: bash
+        run: |
+          echo "PLAYWRIGHT_BROWSERS_PATH=$PLAYWRIGHT_BROWSERS_PATH"
+          ls -la "$PLAYWRIGHT_BROWSERS_PATH" || true
 
       - name: Run Scrape + Merge
         if: steps.gate.outputs.run == 'true'
