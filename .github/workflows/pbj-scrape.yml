@@ -11,6 +11,7 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     env:
       TZ: America/Chicago
       DATA_FILE: docs/pbj-detailed.json
@@ -20,7 +21,7 @@ jobs:
       REFRESH_EVERY: "10"
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Should Run This Saturday
         id: gate
@@ -44,14 +45,24 @@ jobs:
 
       - name: Setup Node
         if: steps.gate.outputs.run == 'true'
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: "20"
+          node-version: "22"
           cache: npm
+          cache-dependency-path: package-lock.json
+
+      - name: Debug Runtime
+        if: steps.gate.outputs.run == 'true'
+        shell: bash
+        run: |
+          node -v
+          npm -v
+          pwd
+          ls -la
 
       - name: Install Dependencies
         if: steps.gate.outputs.run == 'true'
-        run: npm ci
+        run: npm ci --no-audit --no-fund
 
       - name: Install Playwright Chromium
         if: steps.gate.outputs.run == 'true'
