@@ -1,0 +1,80 @@
+name: PBJ Scrape And Publish
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 14 * * 6"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/Chicago
+      DATA_FILE: docs/pbj-detailed.json
+      TOTAL_CARDS: "250"
+      CHUNK_SIZE: "30"
+      CHUNK_RETRIES: "2"
+      REFRESH_EVERY: "10"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Should Run This Saturday
+        id: gate
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          dow=$(date +%u)
+          dom=$(date +%d)
+          if [[ "$dow" -ne 6 ]]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          if (( (dom >= 1 && dom <= 7) || (dom >= 15 && dom <= 21) )); then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Setup Node
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install Dependencies
+        if: steps.gate.outputs.run == 'true'
+        run: npm ci
+
+      - name: Install Playwright Chromium
+        if: steps.gate.outputs.run == 'true'
+        run: npx playwright install --with-deps chromium
+
+      - name: Run Scrape + Merge
+        if: steps.gate.outputs.run == 'true'
+        run: npm run update:data
+
+      - name: Commit Updated JSON
+        if: steps.gate.outputs.run == 'true'
+        shell: bash
+        run: |
+          if [[ ! -f docs/pbj-detailed.json ]]; then
+            echo "Missing docs/pbj-detailed.json"
+            exit 1
+          fi
+          if git diff --quiet -- docs/pbj-detailed.json; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/pbj-detailed.json
+          git commit -m "chore: update PBJ data"
+          git push
