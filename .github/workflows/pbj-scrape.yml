@@ -3,7 +3,7 @@ name: PBJ Scrape And Publish
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 14 * * 6"
+    - cron: "0 9 * * 6"
 
 permissions:
   contents: write
@@ -11,41 +11,20 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 180
     env:
       TZ: America/Chicago
       PLAYWRIGHT_BROWSERS_PATH: /tmp/pw-browsers
       DATA_FILE: docs/pbj-detailed.json
-      TOTAL_CARDS: "250"
-      CHUNK_SIZE: "30"
-      CHUNK_RETRIES: "2"
+      TOTAL_CARDS: "180"
+      CHUNK_SIZE: "40"
+      CHUNK_RETRIES: "1"
       REFRESH_EVERY: "10"
     steps:
       - name: Checkout
         uses: actions/checkout@v5
 
-      - name: Should Run This Saturday
-        id: gate
-        shell: bash
-        run: |
-          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-          dow=$(date +%u)
-          dom=$(date +%d)
-          if [[ "$dow" -ne 6 ]]; then
-            echo "run=false" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-          if (( (dom >= 1 && dom <= 7) || (dom >= 15 && dom <= 21) )); then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=false" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: Setup Node
-        if: steps.gate.outputs.run == 'true'
         uses: actions/setup-node@v5
         with:
           node-version: "22"
@@ -53,7 +32,6 @@ jobs:
           cache-dependency-path: package-lock.json
 
       - name: Debug Runtime
-        if: steps.gate.outputs.run == 'true'
         shell: bash
         run: |
           node -v
@@ -62,32 +40,31 @@ jobs:
           ls -la
 
       - name: Install Dependencies
-        if: steps.gate.outputs.run == 'true'
         run: npm ci --no-audit --no-fund
 
       - name: Install Playwright Chromium
-        if: steps.gate.outputs.run == 'true'
         run: npx playwright install --with-deps chromium
 
       - name: Verify Playwright Browser Path
-        if: steps.gate.outputs.run == 'true'
         shell: bash
         run: |
           echo "PLAYWRIGHT_BROWSERS_PATH=$PLAYWRIGHT_BROWSERS_PATH"
           ls -la "$PLAYWRIGHT_BROWSERS_PATH" || true
 
       - name: Run Scrape + Merge
-        if: steps.gate.outputs.run == 'true'
         run: npm run update:data
 
-      - name: Commit Updated JSON
-        if: steps.gate.outputs.run == 'true'
+      - name: Verify Output Exists
         shell: bash
         run: |
           if [[ ! -f docs/pbj-detailed.json ]]; then
             echo "Missing docs/pbj-detailed.json"
             exit 1
           fi
+
+      - name: Commit Updated JSON
+        shell: bash
+        run: |
           if git diff --quiet -- docs/pbj-detailed.json; then
             echo "No data changes to commit."
             exit 0

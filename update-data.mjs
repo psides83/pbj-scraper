@@ -6,38 +6,7 @@ const ROOT_DIR = process.env.ROOT_DIR || process.cwd();
 const NODE_BIN = process.env.NODE_BIN || process.execPath;
 const BATCHED_FILE = resolve(ROOT_DIR, "scrape-batched.mjs");
 const OUTPUT_DIR = process.env.OUTPUT_DIR || resolve(ROOT_DIR, "output");
-const SCRAPED_JSON = resolve(OUTPUT_DIR, "pbj-detailed.json");
 const DATA_FILE = process.env.DATA_FILE || resolve(ROOT_DIR, "docs", "pbj-detailed.json");
-
-function toRunDateISO() {
-  if (process.env.RUN_DATE) return process.env.RUN_DATE;
-  const d = new Date();
-  const y = d.getFullYear();
-  const m = String(d.getMonth() + 1).padStart(2, "0");
-  const day = String(d.getDate()).padStart(2, "0");
-  return `${y}-${m}-${day}`;
-}
-
-function normalize(value) {
-  return String(value || "")
-    .toLowerCase()
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-function listingKey(listing) {
-  const location = normalize(listing.location);
-  const eventDates = normalize(listing.eventDates);
-  const eventName = normalize(listing.eventName);
-  const arena = normalize(listing?.fields?.arena);
-  const address = normalize(listing?.fields?.address);
-  return `${location}|${eventDates}|${eventName}|${arena}|${address}`;
-}
-
-function isCompleted(listing, runDateISO) {
-  const end = listing?.fields?.eventDateRange?.endDate;
-  return Boolean(end && end < runDateISO);
-}
 
 function csvEscape(value) {
   const str = String(value ?? "");
@@ -73,32 +42,6 @@ function flattenListing(item) {
   };
 }
 
-async function readJsonIfExists(path) {
-  try {
-    const raw = await readFile(path, "utf8");
-    return JSON.parse(raw);
-  } catch {
-    return null;
-  }
-}
-
-function dedupeListings(listings) {
-  const map = new Map();
-  for (const listing of listings || []) {
-    const key = listingKey(listing);
-    if (!map.has(key)) {
-      map.set(key, listing);
-      continue;
-    }
-    const prev = map.get(key);
-    // Prefer entry with a tour label when available.
-    if (!prev?.tour && listing?.tour) {
-      map.set(key, listing);
-    }
-  }
-  return [...map.values()];
-}
-
 function runBatchedScrape() {
   return new Promise((resolvePromise, rejectPromise) => {
     const child = spawn(NODE_BIN, [BATCHED_FILE], {
@@ -117,63 +60,19 @@ function runBatchedScrape() {
 }
 
 async function main() {
-  const runDateISO = toRunDateISO();
-  console.log(`Run date: ${runDateISO}`);
-
   await runBatchedScrape();
-
-  const scraped = await readJsonIfExists(SCRAPED_JSON);
-  if (!scraped) {
-    throw new Error(`Missing scraped output: ${SCRAPED_JSON}`);
-  }
-
-  const existing = (await readJsonIfExists(DATA_FILE)) || { listings: [] };
-
-  const activeExisting = dedupeListings(
-    (existing.listings || []).filter((l) => !isCompleted(l, runDateISO))
-  );
-  const activeScraped = (scraped.listings || []).filter((l) => !isCompleted(l, runDateISO));
-
-  const existingMap = new Map(activeExisting.map((l) => [listingKey(l), l]));
-  const merged = [...activeExisting];
-  let addedCount = 0;
-
-  for (const listing of activeScraped) {
-    const key = listingKey(listing);
-    if (existingMap.has(key)) continue;
-    merged.push(listing);
-    existingMap.set(key, listing);
-    addedCount += 1;
-  }
-
-  merged.sort((a, b) => {
-    const aEnd = a?.fields?.eventDateRange?.endDate || "9999-12-31";
-    const bEnd = b?.fields?.eventDateRange?.endDate || "9999-12-31";
-    if (aEnd !== bEnd) return aEnd.localeCompare(bEnd);
-    return String(a.location || "").localeCompare(String(b.location || ""));
-  });
-
-  const mergedPayload = {
-    scrapedAt: new Date().toISOString(),
-    source: scraped.source || "https://pbj.prorodeo.org/longlistings",
-    runDate: runDateISO,
-    listingCount: merged.length,
-    addedCount,
-    skippedExistingCount: activeScraped.length - addedCount,
-    prunedCount: (existing.listings || []).length - activeExisting.length,
-    listings: merged
-  };
+  const scrapedRaw = await readFile(resolve(OUTPUT_DIR, "pbj-detailed.json"), "utf8");
+  const scrapedPayload = JSON.parse(scrapedRaw);
 
   await mkdir(dirname(DATA_FILE), { recursive: true });
   await mkdir(OUTPUT_DIR, { recursive: true });
-  await writeFile(DATA_FILE, JSON.stringify(mergedPayload, null, 2));
-  await writeFile(resolve(OUTPUT_DIR, "pbj-detailed.json"), JSON.stringify(mergedPayload, null, 2));
-  await writeFile(resolve(OUTPUT_DIR, "pbj-detailed.csv"), toCsv(merged.map(flattenListing)));
+  await writeFile(DATA_FILE, JSON.stringify(scrapedPayload, null, 2));
+  await writeFile(
+    resolve(OUTPUT_DIR, "pbj-detailed.csv"),
+    toCsv((scrapedPayload.listings || []).map(flattenListing))
+  );
 
-  console.log(`Merged listings: ${merged.length}`);
-  console.log(`Added new listings: ${addedCount}`);
-  console.log(`Skipped existing listings: ${activeScraped.length - addedCount}`);
-  console.log(`Pruned completed listings: ${(existing.listings || []).length - activeExisting.length}`);
+  console.log(`Listings replaced from fresh scrape: ${scrapedPayload.listingCount ?? 0}`);
   console.log(`Wrote ${DATA_FILE}`);
 }
 
