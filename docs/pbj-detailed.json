@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-05-02T10:38:37.156Z",
+  "scrapedAt": "2026-05-09T10:44:25.687Z",
   "source": "https://pbj.prorodeo.org/longlistings",
   "attemptedCount": 180,
   "listingCount": 180,
@@ -4724,14 +4724,14 @@
     },
     {
       "index": 54,
-      "tour": "NPP",
-      "summaryText": "Manti UT NPP May 25 Take the Oath Xtreme Bulls BR @ $24000 Special Entry Fees: BR-$250",
+      "tour": "DIVISION 2 X-BULLS EVENT",
+      "summaryText": "DIVISION 2 X-BULLS EVENT Manti UT NPP May 25 Take the Oath Xtreme Bulls BR @ $24000 Special Entry Fees: BR-$250",
       "publishDate": "2026 May 01",
       "location": "Manti UT NPP",
       "eventDates": "May 25",
       "eventName": "Take the Oath Xtreme Bulls",
       "fields": {
-        "tour": "NPP",
+        "tour": "DIVISION 2 X-BULLS EVENT",
         "arena": "Sanpete County Fairgrounds",
         "address": "464 N. Main Street",
         "eventDateRange": null,
@@ -7931,13 +7931,14 @@
         "TRADE DEADLINE - Fri., May 29 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.",
         "TD - Scoreline will be 4 ft less than the length of the box.",
         "TE - If a timed event animal escapes or a rerun is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd.",
+        "BR - The total amount in the payoff includes the committee purse of $3,000 (for 2026) plus $1,225 carried over from 2025 due to no qualified rides in the Bull Riding event at the 2025 rodeo in Jurupa Valley per R5.5.3.1.",
         "QUALIFICATIONS: BB, SB - 24 minimum entries. No compensation. No slack.",
         "BR - 30 minimum entries. No compensation. No slack.",
         "STK CONT.: Honeycutt Rodeo",
         "EOO: 5/22/2026 11:00:00 AM",
         "EC: 5/26/2026 11:00:00 AM"
       ],
-      "detailText": "Jurupa Valley CA June 5-6 Jurupa Valley Community Pro Rodeo ARENA: Rick Thompson Arena ADDRESS: 8629 Jurupa Road PERFS: 2 Perfs: June 5- 7:00 PM; June 6- 7:00 PMEVENTS: BB SB TD SW @ $3000 BR @ $4225 TR-HD, TR-HL @ $3000 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: CO-APPROVED WITH TURQUOISE CIRCUIT. ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon., June 1 between 9 AM and 12 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Fri., May 29 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.TD - Scoreline will be 4 ft less than the length of the box.TE - If a timed event animal escapes or a rerun is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd.QUALIFICATIONS: BB, SB - 24 minimum entries. No compensation. No slack.BR - 30 minimum entries. No compensation. No slack. STK CONT.: Honeycutt RodeoEOO: 5/22/2026 11:00:00 AMEC: 5/26/2026 11:00:00 AM"
+      "detailText": "Jurupa Valley CA June 5-6 Jurupa Valley Community Pro Rodeo ARENA: Rick Thompson Arena ADDRESS: 8629 Jurupa Road PERFS: 2 Perfs: June 5- 7:00 PM; June 6- 7:00 PMEVENTS: BB SB TD SW @ $3000 BR @ $4225 TR-HD, TR-HL @ $3000 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: CO-APPROVED WITH TURQUOISE CIRCUIT. ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon., June 1 between 9 AM and 12 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Fri., May 29 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.TD - Scoreline will be 4 ft less than the length of the box.TE - If a timed event animal escapes or a rerun is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd.BR - The total amount in the payoff includes the committee purse of $3,000 (for 2026) plus $1,225 carried over from 2025 due to no qualified rides in the Bull Riding event at the 2025 rodeo in Jurupa Valley per R5.5.3.1.QUALIFICATIONS: BB, SB - 24 minimum entries. No compensation. No slack.BR - 30 minimum entries. No compensation. No slack. STK CONT.: Honeycutt RodeoEOO: 5/22/2026 11:00:00 AMEC: 5/26/2026 11:00:00 AM"
     },
     {
       "index": 90,
@@ -11747,6 +11748,67 @@
     },
     {
       "index": 132,
+      "tour": "LEGACY STEER ROPING",
+      "summaryText": "LEGACY STEER ROPING Union OR NPP June 12-14 Union Legacy Steer Roping SR Special Entry Fees: SR-$200",
+      "publishDate": "2026 May 01",
+      "location": "Union OR NPP",
+      "eventDates": "June 12-14",
+      "eventName": "Union Legacy Steer Roping",
+      "fields": {
+        "tour": "LEGACY STEER ROPING",
+        "arena": "Eols",
+        "address": "760 E Delta",
+        "eventDateRange": {
+          "startDate": "2026-06-12",
+          "endDate": "2026-06-14"
+        },
+        "perfs": {
+          "perfsCount": 3,
+          "perfDates": [
+            "2026-06-12T16:00:00",
+            "2026-06-13T16:00:00",
+            "2026-06-14T13:30:00"
+          ]
+        },
+        "slacks": {
+          "raw": null,
+          "isoDateTimes": []
+        },
+        "events": [],
+        "entryFees": [
+          {
+            "event": "SR",
+            "fees": "$200"
+          }
+        ],
+        "permits": "SR",
+        "groundRules": "Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old or a permit holder at the time of entry closing. They must also be entered in the steer roping event at the rodeo in Union, OR to be eligible, the contestant must not have been an NFSR qualifier during the past three years. Permit members of all ages will also be eligible to enter.",
+        "stockContractor": "Various",
+        "subContractors": null,
+        "entriesOpen": "2026-05-21T10:00:00",
+        "entriesClose": "2026-05-22T10:00:00"
+      },
+      "detailLines": [
+        "Union OR NPP",
+        "June 12-14",
+        "Union Legacy Steer Roping",
+        "ARENA: Eols",
+        "ADDRESS: 760 E Delta",
+        "PERFS: 3 Perfs: June 12- 4:00 PM; June 13- 4:00 PM; June 14- 1:30 PM",
+        "EVENTS: SR",
+        "SPECIAL ENTRY FEES: SR-$200",
+        "PERMITS: SR",
+        "GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old or a permit holder at the time of entry closing. They must also be entered in the steer roping event at the rodeo in Union, OR to be eligible, the contestant must not have been an NFSR qualifier during the past three years. Permit members of all ages will also be eligible to enter.",
+        "Contestants will pay entry fees of $200. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the rodeo in Union, OR will be used to determine the pay-off. Pay-off will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the pay-off. Only the two go-rounds and the average after two go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge.",
+        "Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals).",
+        "STK CONT.: Various",
+        "EOO: 5/21/2026 10:00:00 AM",
+        "EC: 5/22/2026 10:00:00 AM"
+      ],
+      "detailText": "Union OR NPP June 12-14 Union Legacy Steer Roping ARENA: Eols ADDRESS: 760 E Delta PERFS: 3 Perfs: June 12- 4:00 PM; June 13- 4:00 PM; June 14- 1:30 PMEVENTS: SR SPECIAL ENTRY FEES: SR-$200 PERMITS: SR GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old or a permit holder at the time of entry closing. They must also be entered in the steer roping event at the rodeo in Union, OR to be eligible, the contestant must not have been an NFSR qualifier during the past three years. Permit members of all ages will also be eligible to enter. Contestants will pay entry fees of $200. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the rodeo in Union, OR will be used to determine the pay-off. Pay-off will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the pay-off. Only the two go-rounds and the average after two go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge. Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals). STK CONT.: VariousEOO: 5/21/2026 10:00:00 AMEC: 5/22/2026 10:00:00 AM"
+    },
+    {
+      "index": 133,
       "tour": null,
       "summaryText": "Union OR June 12-14 Eastern Oregon Livestock Show BB SB BR TD SW @ $10000 TR-HD, TR-HL @ $10000 SR @ $5000 Special Entry Fees: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM; TD-$250 IF 1/$400 IF 2; SW-$125 IF 1/$275 IF 2; TR-$250 IF 1/$350 IF 2; SR-$250",
       "publishDate": "2026 May 01",
@@ -11869,67 +11931,6 @@
         "EC: 5/22/2026 10:00:00 AM"
       ],
       "detailText": "Union OR June 12-14 Eastern Oregon Livestock Show ARENA: Eols ADDRESS: 760 E Delta PERFS: 3 Perfs: June 12- 4:00 PM; June 13- 4:00 PM; June 14- 1:30 PMEVENTS: BB SB BR TD SW @ $10000 TR-HD, TR-HL @ $10000 SR @ $5000 SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM; TD-$250 IF 1/$400 IF 2; SW-$125 IF 1/$275 IF 2; TR-$250 IF 1/$350 IF 2; SR-$250 PERMITS: MAX - BB SB BR; CIR - TD SW TR SR GROUND RULES: CO-APPROVED WITH WILDERNESS CIRCUIT. ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon., June 8 between 9 AM and 12 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Fri., June 5 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.BB - Rodeo committee will pay the entry fees for bareback permit holders who enter and compete in the rodeo.BB, SB - Back to back same performance if two go-rounds B10.2.7.ATTENTION ALL TD, SW, AND TR CONTESTANTS - This rodeo will be a qualifying rodeo for TD, SW, and TR events for the Cheyenne Frontier Days Rodeo. The winner of these 3 events may be accepted as entries at Cheyenne. For details and procedures, see the Cheyenne ground rules.SR - Two go-rounds back to back, perf to slack after each performance, or slack after to slack after depending on the number of entries. Extras will be used to replace sick or injured animals. (The misdraw procedure will not be used). $80 stock charge per go-round. STK CONT.: Flying 5 RodeoSUB. CONT.: Big Bend Rodeo EOO: 5/21/2026 10:00:00 AMEC: 5/22/2026 10:00:00 AM"
-    },
-    {
-      "index": 133,
-      "tour": "LEGACY STEER ROPING",
-      "summaryText": "LEGACY STEER ROPING Union OR NPP June 12-14 Union Legacy Steer Roping SR Special Entry Fees: SR-$200",
-      "publishDate": "2026 May 01",
-      "location": "Union OR NPP",
-      "eventDates": "June 12-14",
-      "eventName": "Union Legacy Steer Roping",
-      "fields": {
-        "tour": "LEGACY STEER ROPING",
-        "arena": "Eols",
-        "address": "760 E Delta",
-        "eventDateRange": {
-          "startDate": "2026-06-12",
-          "endDate": "2026-06-14"
-        },
-        "perfs": {
-          "perfsCount": 3,
-          "perfDates": [
-            "2026-06-12T16:00:00",
-            "2026-06-13T16:00:00",
-            "2026-06-14T13:30:00"
-          ]
-        },
-        "slacks": {
-          "raw": null,
-          "isoDateTimes": []
-        },
-        "events": [],
-        "entryFees": [
-          {
-            "event": "SR",
-            "fees": "$200"
-          }
-        ],
-        "permits": "SR",
-        "groundRules": "Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old or a permit holder at the time of entry closing. They must also be entered in the steer roping event at the rodeo in Union, OR to be eligible, the contestant must not have been an NFSR qualifier during the past three years. Permit members of all ages will also be eligible to enter.",
-        "stockContractor": "Various",
-        "subContractors": null,
-        "entriesOpen": "2026-05-21T10:00:00",
-        "entriesClose": "2026-05-22T10:00:00"
-      },
-      "detailLines": [
-        "Union OR NPP",
-        "June 12-14",
-        "Union Legacy Steer Roping",
-        "ARENA: Eols",
-        "ADDRESS: 760 E Delta",
-        "PERFS: 3 Perfs: June 12- 4:00 PM; June 13- 4:00 PM; June 14- 1:30 PM",
-        "EVENTS: SR",
-        "SPECIAL ENTRY FEES: SR-$200",
-        "PERMITS: SR",
-        "GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old or a permit holder at the time of entry closing. They must also be entered in the steer roping event at the rodeo in Union, OR to be eligible, the contestant must not have been an NFSR qualifier during the past three years. Permit members of all ages will also be eligible to enter.",
-        "Contestants will pay entry fees of $200. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the rodeo in Union, OR will be used to determine the pay-off. Pay-off will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the pay-off. Only the two go-rounds and the average after two go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge.",
-        "Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals).",
-        "STK CONT.: Various",
-        "EOO: 5/21/2026 10:00:00 AM",
-        "EC: 5/22/2026 10:00:00 AM"
-      ],
-      "detailText": "Union OR NPP June 12-14 Union Legacy Steer Roping ARENA: Eols ADDRESS: 760 E Delta PERFS: 3 Perfs: June 12- 4:00 PM; June 13- 4:00 PM; June 14- 1:30 PMEVENTS: SR SPECIAL ENTRY FEES: SR-$200 PERMITS: SR GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old or a permit holder at the time of entry closing. They must also be entered in the steer roping event at the rodeo in Union, OR to be eligible, the contestant must not have been an NFSR qualifier during the past three years. Permit members of all ages will also be eligible to enter. Contestants will pay entry fees of $200. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the rodeo in Union, OR will be used to determine the pay-off. Pay-off will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the pay-off. Only the two go-rounds and the average after two go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge. Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals). STK CONT.: VariousEOO: 5/21/2026 10:00:00 AMEC: 5/22/2026 10:00:00 AM"
     },
     {
       "index": 134,
@@ -12697,7 +12698,7 @@
     {
       "index": 143,
       "tour": "PLAYOFF SERIES",
-      "summaryText": "PLAYOFF SERIES Nampa ID June 16-20 Snake River Stampede BB SB BR TD SW @ $41000 TR-HD, TR-HL @ $41000 Special Entry Fees: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$500; SW-$450; TR-$500 Finals: June 20- 7:30 PM BB SB BR TD SW TR",
+      "summaryText": "PLAYOFF SERIES Nampa ID June 16-20 Snake River Stampede BB SB BR TD SW @ $41000 TR-HD, TR-HL @ $41000 Special Entry Fees: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$250 IF 1/$500 IF 2; SW-$200 IF 1/$450 IF 2; TR-$275 IF 1/$450 IF 2 Finals: June 20- 7:30 PM BB SB BR TD SW TR",
       "publishDate": "2026 May 01",
       "location": "Nampa ID",
       "eventDates": "June 16-20",
@@ -12774,15 +12775,15 @@
           },
           {
             "event": "TD",
-            "fees": "$500"
+            "fees": "$250 IF 1/$500 IF 2"
           },
           {
             "event": "SW",
-            "fees": "$450"
+            "fees": "$200 IF 1/$450 IF 2"
           },
           {
             "event": "TR",
-            "fees": "$500"
+            "fees": "$275 IF 1/$450 IF 2"
           }
         ],
         "permits": "BB SB BR",
@@ -12801,7 +12802,7 @@
         "PERFS: 6 Perfs: June 16- 7:30 PM; June 17- 7:30 PM; June 18- 7:30 PM; June 19- 7:30 PM; June 20- 12:00 PM; June 20- 7:30 PM",
         "SLACKS: June 14- 7:00 AM TD; June 15- 7:30 AM TR, SW; June 16- 8:00 AM TR, SW",
         "EVENTS: BB SB BR TD SW @ $41000 TR-HD, TR-HL @ $41000",
-        "SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$500; SW-$450; TR-$500",
+        "SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$250 IF 1/$500 IF 2; SW-$200 IF 1/$450 IF 2; TR-$275 IF 1/$450 IF 2",
         "PERMITS: BB SB BR",
         "FINALS: June 20- 7:30 PM BB SB BR TD SW TR",
         "GROUND RULES: Only actual contestant and one companion allowed gate access. Companions may receive their ticket at the secretary's office. All trailers must enter at Gate B. Check-in at Ford Idaho Center Horse Park office for stalls and parking.",
@@ -12824,7 +12825,7 @@
         "EOO: 5/15/2026 9:30:00 AM",
         "EC: 5/19/2026 9:30:00 AM"
       ],
-      "detailText": "Nampa ID June 16-20 Snake River Stampede ARENA: Ford Idaho Center ADDRESS: 16114 Idaho Center Blvd PERFS: 6 Perfs: June 16- 7:30 PM; June 17- 7:30 PM; June 18- 7:30 PM; June 19- 7:30 PM; June 20- 12:00 PM; June 20- 7:30 PMSLACKS: June 14- 7:00 AM TD; June 15- 7:30 AM TR, SW; June 16- 8:00 AM TR, SWEVENTS: BB SB BR TD SW @ $41000 TR-HD, TR-HL @ $41000 SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$500; SW-$450; TR-$500 PERMITS: BB SB BRFINALS: June 20- 7:30 PM BB SB BR TD SW TR GROUND RULES: Only actual contestant and one companion allowed gate access. Companions may receive their ticket at the secretary's office. All trailers must enter at Gate B. Check-in at Ford Idaho Center Horse Park office for stalls and parking.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon., June 8 between 9 AM and 11 AM. See Rodeo Entry Information section of the business journal.RIDING EVENT TRADE DEADLINE - Fri., June 5 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.TIMED EVENT TRADE DEADLINE - Wed., June 10 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM. Contestants who are placed in the performances will be allowed to trade their second go-round positions with contestants who are placed in other performances. Contestants will not be allowed to trade from a performance to the slack. The rodeo secretary will post the trade deadline in the rodeo office.TE - If a timed event animal escapes or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into herd.TR - Only two loops allowed.TD, SW, TR FORMAT - Two go-rounds plus a top 12 finals. All contestants will run their first go-round in the slack. The top 50 based on fastest times from the first go-round will be placed in the first 5 performances and the remaining contestants will run their second go-round in reverse order of the first go-round in slack, following the completion of the first go-round. If there are less than 50 qualified times in the first go-round, the remaining available positions in the performances (not to exceed 50) will be filled by the contestants with no qualified times in the first go-round based on the placement order for the second go-round. If ties result in more than 50 to be placed in the performances, a random draw will determine which of the tied contestants will be placed in the performances (will not exceed 50). Placement in the performances will be in accordance with R2.6 of the PRCA Rulebook (pertaining to progressive go-rounds). Contestants who are placed in the performances will not be allowed to trade to the slack. Contestants will be allowed to trade from one performance to a different performance, up to 5 PM the day prior to the 1st performance.ALL EVENTS - If a contestant who qualifies for the Finals notifies a turn-out, doctors release, or a visible injury release through PROCOM, the constant with the next highest ranking in the average may be contacted by Procom and placed in that available position. Non-notified turn-outs and visible injury releases after the turn-out deadline will not be replaced. If the next highest ranked contestant is not available to accept the position the next highest ranked contestant may be contacted and placed in that position. This procedure will be followed until all positions are filled. The replacement contestant's competition order will be based on his ranking in the average (not on the ranking of the contestant that he is replacing). In riding events, if an animal has already been drawn for a contestant who has turned-out, the replacement contestant will draw an animal from a pool consisting of all animals that have been turned-out (includes DR's and VIR's).GB - Approved for first slack event in accordance with R4.9.4.SLACK ORDER - Sunday, June 14 at 7:00 AM: GB (1st go-round), Breakaway (1st Go-round), TD (1st go-round with the exception of approximately 30 contestants that will compete during Monday's slack), Breakaway (2nd go-round), SW (approximately 50% of the 1st go-round. Monday, June 15 at 7:00 AM: TR (1st go-round), TD (finish 1st go-round with about 30 contestants), SW (finish the second half of the 1st go-round), TD (2nd go-round), GB (2nd go-round). Tuesday, June 16 at 8:30 AM: TR (2nd go-round), SW (2nd go-round).QUALIFICATIONS: BB - 60 minimum entries. No compensation. No slack. W/F's (12) $5,000 held out for finals.SB - 70 minimum entries. No compensation. No slack. W/F's (12) $5,000 held out for finals.BR - 80 minimum entries. No compensation. No slack. W/F's (12) $5,000 held out for finals. There may be two sections.TD, SW, TR - 110 minimum entries. STK CONT.: Cervi Championship RodeoEOO: 5/15/2026 9:30:00 AMEC: 5/19/2026 9:30:00 AM"
+      "detailText": "Nampa ID June 16-20 Snake River Stampede ARENA: Ford Idaho Center ADDRESS: 16114 Idaho Center Blvd PERFS: 6 Perfs: June 16- 7:30 PM; June 17- 7:30 PM; June 18- 7:30 PM; June 19- 7:30 PM; June 20- 12:00 PM; June 20- 7:30 PMSLACKS: June 14- 7:00 AM TD; June 15- 7:30 AM TR, SW; June 16- 8:00 AM TR, SWEVENTS: BB SB BR TD SW @ $41000 TR-HD, TR-HL @ $41000 SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$250 IF 1/$500 IF 2; SW-$200 IF 1/$450 IF 2; TR-$275 IF 1/$450 IF 2 PERMITS: BB SB BRFINALS: June 20- 7:30 PM BB SB BR TD SW TR GROUND RULES: Only actual contestant and one companion allowed gate access. Companions may receive their ticket at the secretary's office. All trailers must enter at Gate B. Check-in at Ford Idaho Center Horse Park office for stalls and parking.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon., June 8 between 9 AM and 11 AM. See Rodeo Entry Information section of the business journal.RIDING EVENT TRADE DEADLINE - Fri., June 5 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.TIMED EVENT TRADE DEADLINE - Wed., June 10 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM. Contestants who are placed in the performances will be allowed to trade their second go-round positions with contestants who are placed in other performances. Contestants will not be allowed to trade from a performance to the slack. The rodeo secretary will post the trade deadline in the rodeo office.TE - If a timed event animal escapes or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into herd.TR - Only two loops allowed.TD, SW, TR FORMAT - Two go-rounds plus a top 12 finals. All contestants will run their first go-round in the slack. The top 50 based on fastest times from the first go-round will be placed in the first 5 performances and the remaining contestants will run their second go-round in reverse order of the first go-round in slack, following the completion of the first go-round. If there are less than 50 qualified times in the first go-round, the remaining available positions in the performances (not to exceed 50) will be filled by the contestants with no qualified times in the first go-round based on the placement order for the second go-round. If ties result in more than 50 to be placed in the performances, a random draw will determine which of the tied contestants will be placed in the performances (will not exceed 50). Placement in the performances will be in accordance with R2.6 of the PRCA Rulebook (pertaining to progressive go-rounds). Contestants who are placed in the performances will not be allowed to trade to the slack. Contestants will be allowed to trade from one performance to a different performance, up to 5 PM the day prior to the 1st performance.ALL EVENTS - If a contestant who qualifies for the Finals notifies a turn-out, doctors release, or a visible injury release through PROCOM, the constant with the next highest ranking in the average may be contacted by Procom and placed in that available position. Non-notified turn-outs and visible injury releases after the turn-out deadline will not be replaced. If the next highest ranked contestant is not available to accept the position the next highest ranked contestant may be contacted and placed in that position. This procedure will be followed until all positions are filled. The replacement contestant's competition order will be based on his ranking in the average (not on the ranking of the contestant that he is replacing). In riding events, if an animal has already been drawn for a contestant who has turned-out, the replacement contestant will draw an animal from a pool consisting of all animals that have been turned-out (includes DR's and VIR's).GB - Approved for first slack event in accordance with R4.9.4.SLACK ORDER - Sunday, June 14 at 7:00 AM: GB (1st go-round), Breakaway (1st Go-round), TD (1st go-round with the exception of approximately 30 contestants that will compete during Monday's slack), Breakaway (2nd go-round), SW (approximately 50% of the 1st go-round. Monday, June 15 at 7:00 AM: TR (1st go-round), TD (finish 1st go-round with about 30 contestants), SW (finish the second half of the 1st go-round), TD (2nd go-round), GB (2nd go-round). Tuesday, June 16 at 8:30 AM: TR (2nd go-round), SW (2nd go-round).QUALIFICATIONS: BB - 60 minimum entries. No compensation. No slack. W/F's (12) $5,000 held out for finals.SB - 70 minimum entries. No compensation. No slack. W/F's (12) $5,000 held out for finals.BR - 80 minimum entries. No compensation. No slack. W/F's (12) $5,000 held out for finals. There may be two sections.TD, SW, TR - 110 minimum entries. STK CONT.: Cervi Championship RodeoEOO: 5/15/2026 9:30:00 AMEC: 5/19/2026 9:30:00 AM"
     },
     {
       "index": 144,
@@ -13404,7 +13405,7 @@
     {
       "index": 150,
       "tour": "PLAYOFF SERIES",
-      "summaryText": "PLAYOFF SERIES Vernal UT June 18-20 Vernal's Dinosaur Roundup Rodeo BB SB BR TD SW @ $16500 TR-HD, TR-HL @ $16500 Special Entry Fees: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM; TD-$250 IF 1/$400 IF 2; SW-$150 IF 1/$325 IF 2; TR-$275 IF 1/$400 IF 2 Pending",
+      "summaryText": "PLAYOFF SERIES Vernal UT June 18-20 Vernal's Dinosaur Roundup Rodeo BB SB BR TD SW @ $16500 TR-HD, TR-HL @ $16500 Special Entry Fees: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM; TD-$250 IF 1/$400 IF 2; SW-$150 IF 1/$325 IF 2; TR-$275 IF 1/$400 IF 2",
       "publishDate": "2026 May 01",
       "location": "Vernal UT",
       "eventDates": "June 18-20",
@@ -13517,10 +13518,9 @@
         "STK CONT.: Powder River Rodeo",
         "SUB. CONT.: Burch Rodeo",
         "EOO: 5/18/2026 10:30:00 AM",
-        "EC: 5/20/2026 10:30:00 AM",
-        "PENDING"
+        "EC: 5/20/2026 10:30:00 AM"
       ],
-      "detailText": "Vernal UT June 18-20 Vernal's Dinosaur Roundup Rodeo ARENA: Western Park ADDRESS: 302 E 200 S PERFS: 3 Perfs: June 18- 7:30 PM; June 19- 7:30 PM; June 20- 7:30 PMSLACKS: June 17- 7:30 AM EVENTS: BB SB BR TD SW @ $16500 TR-HD, TR-HL @ $16500 SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM; TD-$250 IF 1/$400 IF 2; SW-$150 IF 1/$325 IF 2; TR-$275 IF 1/$400 IF 2 PERMITS: BB SB BR TD SW TR GROUND RULES: Only actual contestant and one companion allowed gate access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Wed., June 10 between 9 AM and 11 AM. See Rodeo Entry Information Section of the Business Journal.RIDING EVENT TRADE DEADLINE - Tues., June 9 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.TIMED EVENT TRADE DEADLINE - Thurs., June 11 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS - Must wear back numbers while in the arena.TE - One go-round.QUALIFICATIONS: BB, SB, BR - 45 minimum entries. No compensation. No slack. STK CONT.: Powder River RodeoSUB. CONT.: Burch Rodeo EOO: 5/18/2026 10:30:00 AMEC: 5/20/2026 10:30:00 AMPENDING"
+      "detailText": "Vernal UT June 18-20 Vernal's Dinosaur Roundup Rodeo ARENA: Western Park ADDRESS: 302 E 200 S PERFS: 3 Perfs: June 18- 7:30 PM; June 19- 7:30 PM; June 20- 7:30 PMSLACKS: June 17- 7:30 AM EVENTS: BB SB BR TD SW @ $16500 TR-HD, TR-HL @ $16500 SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM; TD-$250 IF 1/$400 IF 2; SW-$150 IF 1/$325 IF 2; TR-$275 IF 1/$400 IF 2 PERMITS: BB SB BR TD SW TR GROUND RULES: Only actual contestant and one companion allowed gate access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Wed., June 10 between 9 AM and 11 AM. See Rodeo Entry Information Section of the Business Journal.RIDING EVENT TRADE DEADLINE - Tues., June 9 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.TIMED EVENT TRADE DEADLINE - Thurs., June 11 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS - Must wear back numbers while in the arena.TE - One go-round.QUALIFICATIONS: BB, SB, BR - 45 minimum entries. No compensation. No slack. STK CONT.: Powder River RodeoSUB. CONT.: Burch Rodeo EOO: 5/18/2026 10:30:00 AMEC: 5/20/2026 10:30:00 AM"
     },
     {
       "index": 151,
@@ -14250,7 +14250,7 @@
     {
       "index": 159,
       "tour": "PLAYOFF SERIES",
-      "summaryText": "PLAYOFF SERIES Reno NV June 19-27 Reno Rodeo BB SB BR TD SW @ $75000 TR-HD, TR-HL @ $75000 Special Entry Fees: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM; TD-$500; SW-$450; TR-$500 Finals: June 27- 7:00 PM BB SB BR TD SW TR",
+      "summaryText": "PLAYOFF SERIES Reno NV June 19-27 Reno Rodeo BB SB BR TD SW @ $75000 TR-HD, TR-HL @ $75000 Special Entry Fees: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM; TD-$250 IF 1/$500 IF 2; SW-$200 IF 1/$450 IF 2; TR-$275 IF 1/$450 IF 2 Finals: June 27- 7:00 PM BB SB BR TD SW TR",
       "publishDate": "2026 May 01",
       "location": "Reno NV",
       "eventDates": "June 19-27",
@@ -14328,15 +14328,15 @@
           },
           {
             "event": "TD",
-            "fees": "$500"
+            "fees": "$250 IF 1/$500 IF 2"
           },
           {
             "event": "SW",
-            "fees": "$450"
+            "fees": "$200 IF 1/$450 IF 2"
           },
           {
             "event": "TR",
-            "fees": "$500"
+            "fees": "$275 IF 1/$450 IF 2"
           }
         ],
         "permits": null,
@@ -14355,7 +14355,7 @@
         "PERFS: 9 Perfs: June 19- 7:00 PM; June 20- 7:00 PM; June 21- 7:00 PM; June 22- 7:00 PM; June 23- 7:00 PM; June 24- 7:00 PM; June 25- 7:00 PM; June 26- 7:00 PM; June 27- 7:00 PM",
         "SLACKS: June 19- 10:00 AM",
         "EVENTS: BB SB BR TD SW @ $75000 TR-HD, TR-HL @ $75000",
-        "SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM; TD-$500; SW-$450; TR-$500",
+        "SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM; TD-$250 IF 1/$500 IF 2; SW-$200 IF 1/$450 IF 2; TR-$275 IF 1/$450 IF 2",
         "PERMITS:",
         "FINALS: June 27- 7:00 PM BB SB BR TD SW TR",
         "GROUND RULES: Only actual contestant and one companion allowed gate access.",
@@ -14384,7 +14384,7 @@
         "EOO: 5/14/2026 10:00:00 AM",
         "EC: 5/18/2026 10:00:00 AM"
       ],
-      "detailText": "Reno NV June 19-27 Reno Rodeo ARENA: Reno Livestock Events Ctr ADDRESS: 1350 N. Wells Ave PERFS: 9 Perfs: June 19- 7:00 PM; June 20- 7:00 PM; June 21- 7:00 PM; June 22- 7:00 PM; June 23- 7:00 PM; June 24- 7:00 PM; June 25- 7:00 PM; June 26- 7:00 PM; June 27- 7:00 PMSLACKS: June 19- 10:00 AM EVENTS: BB SB BR TD SW @ $75000 TR-HD, TR-HL @ $75000 SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM; TD-$500; SW-$450; TR-$500 PERMITS: FINALS: June 27- 7:00 PM BB SB BR TD SW TR GROUND RULES: Only actual contestant and one companion allowed gate access.ALL CONTESTANTS - There will be an extended grace period for those contestants who are entered and meet qualifications to change preferences on Mon., May 18 between 2 and 5 PM (Contestants are not allowed to draw out during the extended grace period).ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Thurs., June 11 between 9 AM and 11 AM. See Rodeo Entry Information section of the Business Journal.RIDING EVENT TRADE DEADLINE - Wed., June 10 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.TIMED EVENT TRADE DEADLINE - Fri., June 15 at 4 PM. (Contestants who entered during the \"Re-entry\" period will not be allowed first go-round trades). All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS - Must sign a release form at check-in.ALL CONTESTANTS - All contestants are required to wear PRCA patch while competing.ALL EVENTS - If contestant notifies a turn-out prior to the \"30-hour\" deadline for his scheduled competition time, turn-out fines will be waived if and only if he is replaced.ALL CONTESTANTS - If a contestant who qualifies for the finals notifies a turn-out, doctor's release or visible injury release through PROCOM, the contestant with the next highest ranking in the average may be placed in that available position. (Non-notified TO's and VIR's after the turn out deadline will not be replaced). If the next highest ranked contestant is not available to accept the position, the next highest ranked contestant may be contacted and placed in that position. Replacement contestants competition order will be based on his ranking in the average (not on the ranking of the contestant he is replacing). This procedure will be followed until all positions are filled. In the riding events, if an animal has already been drawn for a contestant who has turned-out, the replacement contestant will draw an animal from a pool consisting of all animals that have been turned-out (includes DR's and VIR's).TR - Only two loops allowed.STALLS - Stalls can be reserved in advance by going to https://renorodeo.com/about/rodeo-grounds and following the link.ALL CONTESTANTS - Contestant entry shall be at Gate 3.PARKING - There will be no overnight trailer parking on the grounds. Secured off-site parking will be provided. Trailers will be allowed on the grounds for those contestants competing in that days event, then must be returned to the offsite parking.TE - If a timed event animal escapes or a re-run is given for any other reason, the extra will be used. Only escaped animals go back into the herd.TD, SW, TR - There will be one animal for every entry plus adequate extras.TD - There will be a disqualification for a jerkdown as long as all criteria are in compliance with the jerkdown policy. Contestants will not be allowed to rope extras.TD, SW, TR - If there are not enough contestants in the current year circuit money won category to fill the allotted circuit positions, the remaining positions will be filled with contestants from the previous year circuit money won category.QUALIFICATIONS: BB, SB - 48 minimum entries. No compensation. Two go-rounds back to back, perf to perf, W/F's (12). $5000 held out for finals. No slack.BR - 96 minimum entries. No compensation. W/F's (12). $5000 held out for finals. No slack.TD, SW, TR - 96 minimum entries (or teams). Two go-rounds W/F's (12). Back to back, slack to perf, or slack to slack. First go-round will be at 10:00 AM each day (June 19-26). (Approximately 12 contestants or teams per day). The contestants with the top 8 fastest times from the first go-round will be placed in the performance (slowest time will run first, fastest time will run last). If splits result in more than 8, a random draw will determine which contestants will compete in the performance and which will compete in slack. The order of competition of ties from the first go-round will also be determined by random draw. If there are not 8 qualified times from the first go-round to fill the performance, the remaining positions will be filled by contestants based on the reverse order of their first go-round positions (Only contestants who competed in the first go-round will be placed in the performance). The remaining contestants (not placed in the performance) will run their second go-round in slack immediately following the completion of the first go-round in reverse order of their first go-round position. The order of the draw will be the same as the competition order. STK CONT.: Flying U RodeoEOO: 5/14/2026 10:00:00 AMEC: 5/18/2026 10:00:00 AM"
+      "detailText": "Reno NV June 19-27 Reno Rodeo ARENA: Reno Livestock Events Ctr ADDRESS: 1350 N. Wells Ave PERFS: 9 Perfs: June 19- 7:00 PM; June 20- 7:00 PM; June 21- 7:00 PM; June 22- 7:00 PM; June 23- 7:00 PM; June 24- 7:00 PM; June 25- 7:00 PM; June 26- 7:00 PM; June 27- 7:00 PMSLACKS: June 19- 10:00 AM EVENTS: BB SB BR TD SW @ $75000 TR-HD, TR-HL @ $75000 SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM; TD-$250 IF 1/$500 IF 2; SW-$200 IF 1/$450 IF 2; TR-$275 IF 1/$450 IF 2 PERMITS: FINALS: June 27- 7:00 PM BB SB BR TD SW TR GROUND RULES: Only actual contestant and one companion allowed gate access.ALL CONTESTANTS - There will be an extended grace period for those contestants who are entered and meet qualifications to change preferences on Mon., May 18 between 2 and 5 PM (Contestants are not allowed to draw out during the extended grace period).ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Thurs., June 11 between 9 AM and 11 AM. See Rodeo Entry Information section of the Business Journal.RIDING EVENT TRADE DEADLINE - Wed., June 10 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.TIMED EVENT TRADE DEADLINE - Fri., June 15 at 4 PM. (Contestants who entered during the \"Re-entry\" period will not be allowed first go-round trades). All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS - Must sign a release form at check-in.ALL CONTESTANTS - All contestants are required to wear PRCA patch while competing.ALL EVENTS - If contestant notifies a turn-out prior to the \"30-hour\" deadline for his scheduled competition time, turn-out fines will be waived if and only if he is replaced.ALL CONTESTANTS - If a contestant who qualifies for the finals notifies a turn-out, doctor's release or visible injury release through PROCOM, the contestant with the next highest ranking in the average may be placed in that available position. (Non-notified TO's and VIR's after the turn out deadline will not be replaced). If the next highest ranked contestant is not available to accept the position, the next highest ranked contestant may be contacted and placed in that position. Replacement contestants competition order will be based on his ranking in the average (not on the ranking of the contestant he is replacing). This procedure will be followed until all positions are filled. In the riding events, if an animal has already been drawn for a contestant who has turned-out, the replacement contestant will draw an animal from a pool consisting of all animals that have been turned-out (includes DR's and VIR's).TR - Only two loops allowed.STALLS - Stalls can be reserved in advance by going to https://renorodeo.com/about/rodeo-grounds and following the link.ALL CONTESTANTS - Contestant entry shall be at Gate 3.PARKING - There will be no overnight trailer parking on the grounds. Secured off-site parking will be provided. Trailers will be allowed on the grounds for those contestants competing in that days event, then must be returned to the offsite parking.TE - If a timed event animal escapes or a re-run is given for any other reason, the extra will be used. Only escaped animals go back into the herd.TD, SW, TR - There will be one animal for every entry plus adequate extras.TD - There will be a disqualification for a jerkdown as long as all criteria are in compliance with the jerkdown policy. Contestants will not be allowed to rope extras.TD, SW, TR - If there are not enough contestants in the current year circuit money won category to fill the allotted circuit positions, the remaining positions will be filled with contestants from the previous year circuit money won category.QUALIFICATIONS: BB, SB - 48 minimum entries. No compensation. Two go-rounds back to back, perf to perf, W/F's (12). $5000 held out for finals. No slack.BR - 96 minimum entries. No compensation. W/F's (12). $5000 held out for finals. No slack.TD, SW, TR - 96 minimum entries (or teams). Two go-rounds W/F's (12). Back to back, slack to perf, or slack to slack. First go-round will be at 10:00 AM each day (June 19-26). (Approximately 12 contestants or teams per day). The contestants with the top 8 fastest times from the first go-round will be placed in the performance (slowest time will run first, fastest time will run last). If splits result in more than 8, a random draw will determine which contestants will compete in the performance and which will compete in slack. The order of competition of ties from the first go-round will also be determined by random draw. If there are not 8 qualified times from the first go-round to fill the performance, the remaining positions will be filled by contestants based on the reverse order of their first go-round positions (Only contestants who competed in the first go-round will be placed in the performance). The remaining contestants (not placed in the performance) will run their second go-round in slack immediately following the completion of the first go-round in reverse order of their first go-round position. The order of the draw will be the same as the competition order. STK CONT.: Flying U RodeoEOO: 5/14/2026 10:00:00 AMEC: 5/18/2026 10:00:00 AM"
     },
     {
       "index": 160,
@@ -16040,8 +16040,70 @@
     },
     {
       "index": 179,
+      "tour": "LEGACY STEER ROPING",
+      "summaryText": "LEGACY STEER ROPING Pecos TX NPP June 24-27 West Of The Pecos Rodeo Legacy Steer Roping SR Special Entry Fees: SR-$300",
+      "publishDate": "2026 May 01",
+      "location": "Pecos TX NPP",
+      "eventDates": "June 24-27",
+      "eventName": "West Of The Pecos Rodeo Legacy Steer Roping",
+      "fields": {
+        "tour": "LEGACY STEER ROPING",
+        "arena": "Buck Jackson Arena",
+        "address": "1500 South Cedar",
+        "eventDateRange": {
+          "startDate": "2026-06-24",
+          "endDate": "2026-06-27"
+        },
+        "perfs": {
+          "perfsCount": 4,
+          "perfDates": [
+            "2026-06-24T08:00:00",
+            "2026-06-25T08:00:00",
+            "2026-06-26T08:00:00",
+            "2026-06-27T08:00:00"
+          ]
+        },
+        "slacks": {
+          "raw": null,
+          "isoDateTimes": []
+        },
+        "events": [],
+        "entryFees": [
+          {
+            "event": "SR",
+            "fees": "$300"
+          }
+        ],
+        "permits": "SR",
+        "groundRules": "Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old at the time of entry closing or a permit member. They must also be entered in the steer roping event at the West of the Pecos Rodeo. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years. Permit members of all ages are eligible to enter.",
+        "stockContractor": "Various",
+        "subContractors": null,
+        "entriesOpen": "2026-05-22T10:30:00",
+        "entriesClose": "2026-05-27T10:30:00"
+      },
+      "detailLines": [
+        "Pecos TX NPP",
+        "June 24-27",
+        "West Of The Pecos Rodeo Legacy Steer Roping",
+        "ARENA: Buck Jackson Arena",
+        "ADDRESS: 1500 South Cedar",
+        "PERFS: 4 Perfs: June 24- 8:00 AM; June 25- 8:00 AM; June 26- 8:00 AM; June 27- 8:00 AM",
+        "EVENTS: SR",
+        "SPECIAL ENTRY FEES: SR-$300",
+        "PERMITS: SR",
+        "GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old at the time of entry closing or a permit member. They must also be entered in the steer roping event at the West of the Pecos Rodeo. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years. Permit members of all ages are eligible to enter.",
+        "Contestants will pay entry fees of $300. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the West of the Pecos Rodeo will be used to determine the payoff. Payoff will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the payoff. Only the three go-rounds and the average after three go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge.",
+        "Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals).",
+        "STK CONT.: Various",
+        "EOO: 5/22/2026 10:30:00 AM",
+        "EC: 5/27/2026 10:30:00 AM"
+      ],
+      "detailText": "Pecos TX NPP June 24-27 West Of The Pecos Rodeo Legacy Steer Roping ARENA: Buck Jackson Arena ADDRESS: 1500 South Cedar PERFS: 4 Perfs: June 24- 8:00 AM; June 25- 8:00 AM; June 26- 8:00 AM; June 27- 8:00 AMEVENTS: SR SPECIAL ENTRY FEES: SR-$300 PERMITS: SR GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old at the time of entry closing or a permit member. They must also be entered in the steer roping event at the West of the Pecos Rodeo. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years. Permit members of all ages are eligible to enter. Contestants will pay entry fees of $300. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the West of the Pecos Rodeo will be used to determine the payoff. Payoff will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the payoff. Only the three go-rounds and the average after three go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge. Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals). STK CONT.: VariousEOO: 5/22/2026 10:30:00 AMEC: 5/27/2026 10:30:00 AM"
+    },
+    {
+      "index": 180,
       "tour": "PLAYOFF SERIES",
-      "summaryText": "PLAYOFF SERIES Pecos TX June 24-27 West Of The Pecos Rodeo BB SB BR TD SW SR @ $20000 TR-HD, TR-HL @ $20000 Special Entry Fees: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$250 IF 1/$400 IF 2; SW-$175 IF 1/$375 IF 2; TR-$450; SR-$400",
+      "summaryText": "PLAYOFF SERIES Pecos TX June 24-27 West Of The Pecos Rodeo BB SB BR TD SW SR @ $20000 TR-HD, TR-HL @ $20000 Special Entry Fees: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$250 IF 1/$450 IF 2; SW-$175 IF 1/$375 IF 2; TR-$275 IF 1/$400 IF 2; SR-$400",
       "publishDate": "2026 May 01",
       "location": "Pecos TX",
       "eventDates": "June 24-27",
@@ -16118,7 +16180,7 @@
           },
           {
             "event": "TD",
-            "fees": "$250 IF 1/$400 IF 2"
+            "fees": "$250 IF 1/$450 IF 2"
           },
           {
             "event": "SW",
@@ -16126,7 +16188,7 @@
           },
           {
             "event": "TR",
-            "fees": "$450"
+            "fees": "$275 IF 1/$400 IF 2"
           },
           {
             "event": "SR",
@@ -16149,7 +16211,7 @@
         "PERFS: 4 Perfs: June 24- 8:00 PM; June 25- 8:00 PM; June 26- 8:00 PM; June 27- 8:00 PM",
         "SLACKS: June 24- 8:00 AM",
         "EVENTS: BB SB BR TD SW SR @ $20000 TR-HD, TR-HL @ $20000",
-        "SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$250 IF 1/$400 IF 2; SW-$175 IF 1/$375 IF 2; TR-$450; SR-$400",
+        "SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$250 IF 1/$450 IF 2; SW-$175 IF 1/$375 IF 2; TR-$275 IF 1/$400 IF 2; SR-$400",
         "PERMITS: BB SB BR TD SW TR SR",
         "GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.",
         "ALL EVENTS - Re-entries will be accepted for available positions on Tues, June 16 between 9 AM and 11 AM. See Rodeo Entry Information page of the business journal.",
@@ -16170,69 +16232,7 @@
         "EOO: 5/22/2026 10:30:00 AM",
         "EC: 5/27/2026 10:30:00 AM"
       ],
-      "detailText": "Pecos TX June 24-27 West Of The Pecos Rodeo ARENA: Buck Jackson Arena ADDRESS: 1500 South Cedar PERFS: 4 Perfs: June 24- 8:00 PM; June 25- 8:00 PM; June 26- 8:00 PM; June 27- 8:00 PMSLACKS: June 24- 8:00 AM EVENTS: BB SB BR TD SW SR @ $20000 TR-HD, TR-HL @ $20000 SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$250 IF 1/$400 IF 2; SW-$175 IF 1/$375 IF 2; TR-$450; SR-$400 PERMITS: BB SB BR TD SW TR SR GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues, June 16 between 9 AM and 11 AM. See Rodeo Entry Information page of the business journal.RIDING EVENT TRADE DEADLINE - Mon., June 15 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.TIMED EVENT TRADE DEADLINE - Thurs., June 18 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS WITH HORSES - Must have proof of current Coggins Test and health papers.TD, SW, TR - Two go-rounds. Back to back. The first go-round of each back to back group will be run during slack at 8:00 AM each morning (June 24 - June 27). The contestants with the top 12 fastest times from the first go-round will be placed in the performance (slowest time will run first, fastest time will run last). The number of contestants placed in the performance will not exceed 12. If splits result in more than 12, a random draw will determine which contestants will compete in the performance and which will compete in the slack. The order of competition of ties from the first go-round will also be determined by random draw. If there are not 12 qualified times from the first go-round to fill the performance, the remaining positions will be filled by contestants based on the reverse order of their first go-round positions (only contestants who competed in the first go-round will be placed in the performances). The remaining contestants (not placed in the performance) will run their second go-round in reverse order of their first go-round positions. The order of the draw will be the same as the competition order. The second go-round will begin in the slack, immediately following the competition of the first go-round.SCORELINES - TD - 20.5'; SW - 16'; TR - 24'; SR - 20'.TR - Hand pulled barrier will be used.SR - Electric eye will be used. If electric eye malfunctions, judges have the option to use a hand pull barrier. SR -Three go-rounds. Back to back to back. The first go-round of each \"back to back\" group will be run first in slack each day at 8 AM, and will be followed by the SW and TD slack. The second go-round for that group will be run after the SW and TD and will be followed by the TR slack. The top ten SR contestants based on the average after the first two go-rounds will compete during the performance that same night for their third go-round, and the remainder will run their third go-round during slack that same day after all other slack events are completed. Extras will be used to replace sick or injured animals. The misdraw procedure will not be used. Stock charge $80 per go-round.QUALIFICATIONS: BB, SB - 48 minimum entries. No compensation. No slack.BR - 80 minimum entries. No compensation. No slack.TD - 130 minimum entries.SW - 80 minimum entries.TR - 100 minimum teams. STK CONT.: Pete Carr Pro RodeoEOO: 5/22/2026 10:30:00 AMEC: 5/27/2026 10:30:00 AM"
-    },
-    {
-      "index": 180,
-      "tour": "LEGACY STEER ROPING",
-      "summaryText": "LEGACY STEER ROPING Pecos TX NPP June 24-27 West Of The Pecos Rodeo Legacy Steer Roping SR Special Entry Fees: SR-$300",
-      "publishDate": "2026 May 01",
-      "location": "Pecos TX NPP",
-      "eventDates": "June 24-27",
-      "eventName": "West Of The Pecos Rodeo Legacy Steer Roping",
-      "fields": {
-        "tour": "LEGACY STEER ROPING",
-        "arena": "Buck Jackson Arena",
-        "address": "1500 South Cedar",
-        "eventDateRange": {
-          "startDate": "2026-06-24",
-          "endDate": "2026-06-27"
-        },
-        "perfs": {
-          "perfsCount": 4,
-          "perfDates": [
-            "2026-06-24T08:00:00",
-            "2026-06-25T08:00:00",
-            "2026-06-26T08:00:00",
-            "2026-06-27T08:00:00"
-          ]
-        },
-        "slacks": {
-          "raw": null,
-          "isoDateTimes": []
-        },
-        "events": [],
-        "entryFees": [
-          {
-            "event": "SR",
-            "fees": "$300"
-          }
-        ],
-        "permits": "SR",
-        "groundRules": "Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old at the time of entry closing or a permit member. They must also be entered in the steer roping event at the West of the Pecos Rodeo. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years. Permit members of all ages are eligible to enter.",
-        "stockContractor": "Various",
-        "subContractors": null,
-        "entriesOpen": "2026-05-22T10:30:00",
-        "entriesClose": "2026-05-27T10:30:00"
-      },
-      "detailLines": [
-        "Pecos TX NPP",
-        "June 24-27",
-        "West Of The Pecos Rodeo Legacy Steer Roping",
-        "ARENA: Buck Jackson Arena",
-        "ADDRESS: 1500 South Cedar",
-        "PERFS: 4 Perfs: June 24- 8:00 AM; June 25- 8:00 AM; June 26- 8:00 AM; June 27- 8:00 AM",
-        "EVENTS: SR",
-        "SPECIAL ENTRY FEES: SR-$300",
-        "PERMITS: SR",
-        "GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old at the time of entry closing or a permit member. They must also be entered in the steer roping event at the West of the Pecos Rodeo. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years. Permit members of all ages are eligible to enter.",
-        "Contestants will pay entry fees of $300. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the West of the Pecos Rodeo will be used to determine the payoff. Payoff will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the payoff. Only the three go-rounds and the average after three go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge.",
-        "Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals).",
-        "STK CONT.: Various",
-        "EOO: 5/22/2026 10:30:00 AM",
-        "EC: 5/27/2026 10:30:00 AM"
-      ],
-      "detailText": "Pecos TX NPP June 24-27 West Of The Pecos Rodeo Legacy Steer Roping ARENA: Buck Jackson Arena ADDRESS: 1500 South Cedar PERFS: 4 Perfs: June 24- 8:00 AM; June 25- 8:00 AM; June 26- 8:00 AM; June 27- 8:00 AMEVENTS: SR SPECIAL ENTRY FEES: SR-$300 PERMITS: SR GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old at the time of entry closing or a permit member. They must also be entered in the steer roping event at the West of the Pecos Rodeo. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years. Permit members of all ages are eligible to enter. Contestants will pay entry fees of $300. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the West of the Pecos Rodeo will be used to determine the payoff. Payoff will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the payoff. Only the three go-rounds and the average after three go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge. Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals). STK CONT.: VariousEOO: 5/22/2026 10:30:00 AMEC: 5/27/2026 10:30:00 AM"
+      "detailText": "Pecos TX June 24-27 West Of The Pecos Rodeo ARENA: Buck Jackson Arena ADDRESS: 1500 South Cedar PERFS: 4 Perfs: June 24- 8:00 PM; June 25- 8:00 PM; June 26- 8:00 PM; June 27- 8:00 PMSLACKS: June 24- 8:00 AM EVENTS: BB SB BR TD SW SR @ $20000 TR-HD, TR-HL @ $20000 SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$250 IF 1/$450 IF 2; SW-$175 IF 1/$375 IF 2; TR-$275 IF 1/$400 IF 2; SR-$400 PERMITS: BB SB BR TD SW TR SR GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues, June 16 between 9 AM and 11 AM. See Rodeo Entry Information page of the business journal.RIDING EVENT TRADE DEADLINE - Mon., June 15 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.TIMED EVENT TRADE DEADLINE - Thurs., June 18 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS WITH HORSES - Must have proof of current Coggins Test and health papers.TD, SW, TR - Two go-rounds. Back to back. The first go-round of each back to back group will be run during slack at 8:00 AM each morning (June 24 - June 27). The contestants with the top 12 fastest times from the first go-round will be placed in the performance (slowest time will run first, fastest time will run last). The number of contestants placed in the performance will not exceed 12. If splits result in more than 12, a random draw will determine which contestants will compete in the performance and which will compete in the slack. The order of competition of ties from the first go-round will also be determined by random draw. If there are not 12 qualified times from the first go-round to fill the performance, the remaining positions will be filled by contestants based on the reverse order of their first go-round positions (only contestants who competed in the first go-round will be placed in the performances). The remaining contestants (not placed in the performance) will run their second go-round in reverse order of their first go-round positions. The order of the draw will be the same as the competition order. The second go-round will begin in the slack, immediately following the competition of the first go-round.SCORELINES - TD - 20.5'; SW - 16'; TR - 24'; SR - 20'.TR - Hand pulled barrier will be used.SR - Electric eye will be used. If electric eye malfunctions, judges have the option to use a hand pull barrier. SR -Three go-rounds. Back to back to back. The first go-round of each \"back to back\" group will be run first in slack each day at 8 AM, and will be followed by the SW and TD slack. The second go-round for that group will be run after the SW and TD and will be followed by the TR slack. The top ten SR contestants based on the average after the first two go-rounds will compete during the performance that same night for their third go-round, and the remainder will run their third go-round during slack that same day after all other slack events are completed. Extras will be used to replace sick or injured animals. The misdraw procedure will not be used. Stock charge $80 per go-round.QUALIFICATIONS: BB, SB - 48 minimum entries. No compensation. No slack.BR - 80 minimum entries. No compensation. No slack.TD - 130 minimum entries.SW - 80 minimum entries.TR - 100 minimum teams. STK CONT.: Pete Carr Pro RodeoEOO: 5/22/2026 10:30:00 AMEC: 5/27/2026 10:30:00 AM"
     }
   ]
 }
