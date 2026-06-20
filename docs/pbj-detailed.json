@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-06-13T11:28:32.360Z",
+  "scrapedAt": "2026-06-20T11:30:31.167Z",
   "source": "https://pbj.prorodeo.org/longlistings",
   "attemptedCount": 180,
   "listingCount": 180,
@@ -902,66 +902,6 @@
     },
     {
       "index": 11,
-      "tour": "BB HORIZON",
-      "summaryText": "BB HORIZON North Platte NE June 17-20 North Platte Horizon Permit Bareback BB @ $1000",
-      "publishDate": "2026 June 12",
-      "location": "North Platte NE",
-      "eventDates": "June 17-20",
-      "eventName": "North Platte Horizon Permit Bareback",
-      "fields": {
-        "tour": "BB HORIZON",
-        "arena": "Wild West Arena",
-        "address": "2801 Charlie Evans Drive",
-        "eventDateRange": {
-          "startDate": "2026-06-17",
-          "endDate": "2026-06-20"
-        },
-        "perfs": {
-          "perfsCount": 4,
-          "perfDates": [
-            "2026-06-17T19:30:00",
-            "2026-06-18T19:30:00",
-            "2026-06-19T19:30:00",
-            "2026-06-20T19:30:00"
-          ]
-        },
-        "slacks": {
-          "raw": null,
-          "isoDateTimes": []
-        },
-        "events": [
-          {
-            "event": "BB",
-            "addedMoney": 1000
-          }
-        ],
-        "entryFees": [],
-        "permits": "BB",
-        "groundRules": "All permit bareback riders entered in the Buffalo Bill rodeo in North Platte will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Buffalo Bill rodeo will be used to determine the payoff for the Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
-        "stockContractor": "Frontier Rodeo",
-        "subContractors": null,
-        "entriesOpen": "2026-05-26T10:30:00",
-        "entriesClose": "2026-05-26T10:30:00"
-      },
-      "detailLines": [
-        "North Platte NE",
-        "June 17-20",
-        "North Platte Horizon Permit Bareback",
-        "ARENA: Wild West Arena",
-        "ADDRESS: 2801 Charlie Evans Drive",
-        "PERFS: 4 Perfs: June 17- 7:30 PM; June 18- 7:30 PM; June 19- 7:30 PM; June 20- 7:30 PM",
-        "EVENTS: BB @ $1000",
-        "SPECIAL ENTRY FEES:",
-        "PERMITS: BB",
-        "GROUND RULES: All permit bareback riders entered in the Buffalo Bill rodeo in North Platte will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Buffalo Bill rodeo will be used to determine the payoff for the Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
-        "STK CONT.: Frontier Rodeo",
-        "EOO: 5/26/2026 10:30:00 AM",
-        "EC: 5/26/2026 10:30:00 AM"
-      ],
-      "detailText": "North Platte NE June 17-20 North Platte Horizon Permit Bareback ARENA: Wild West Arena ADDRESS: 2801 Charlie Evans Drive PERFS: 4 Perfs: June 17- 7:30 PM; June 18- 7:30 PM; June 19- 7:30 PM; June 20- 7:30 PMEVENTS: BB @ $1000 SPECIAL ENTRY FEES: PERMITS: BB GROUND RULES: All permit bareback riders entered in the Buffalo Bill rodeo in North Platte will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Buffalo Bill rodeo will be used to determine the payoff for the Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings. STK CONT.: Frontier RodeoEOO: 5/26/2026 10:30:00 AMEC: 5/26/2026 10:30:00 AM"
-    },
-    {
-      "index": 12,
       "tour": null,
       "summaryText": "North Platte NE June 17-20 Buffalo Bill Rodeo BB SB BR TD SW @ $10000 TR-HD, TR-HL @ $10000 Special Entry Fees: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$250 IF 1/$400 IF 2; SW-$125 IF 1/$275 IF 2; TR-$250",
       "publishDate": "2026 June 12",
@@ -1084,6 +1024,66 @@
         "EC: 5/26/2026 10:30:00 AM"
       ],
       "detailText": "North Platte NE June 17-20 Buffalo Bill Rodeo ARENA: Wild West Arena ADDRESS: 2801 Charlie Evans Drive PERFS: 4 Perfs: June 17- 7:30 PM; June 18- 7:30 PM; June 19- 7:30 PM; June 20- 7:30 PMSLACKS: June 17- 8:00 AM EVENTS: BB SB BR TD SW @ $10000 TR-HD, TR-HL @ $10000 SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$250 IF 1/$400 IF 2; SW-$125 IF 1/$275 IF 2; TR-$250 PERMITS: BB SB BR TR; CIR MAX - TD SW GROUND RULES: CO-APPROVED WITH BADLANDS AND MOUNTAIN STATES CIRCUITS. ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.ALL EVENTS - Re-entries will be accepted for available position on Thurs., June 11 between 9 AM and 11:30 AM. See Rodeo Entry information Section of the Business Journal.TRADE DEADLINE - Wed., June 10 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS - Are required to wear back number while in competition area.BB, SB - May be combined if needed.GB - Approved for first slack event in accordance with R4.9.4.TE - If a timed event animal escapes during a performance or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd.TR - One go round regardless of entries.QUALIFICATIONS: BB - 48 minimum entries. No compensation. No slack.QUALIFICATIONS: SB - 56 minimum entries. No compensation. No slack.BR - 60 minimum entries. No compensation. No slack. STK CONT.: Frontier RodeoSUB. CONT.: Double J Rodeo Company EOO: 5/22/2026 10:30:00 AMEC: 5/26/2026 10:30:00 AM"
+    },
+    {
+      "index": 12,
+      "tour": "BB HORIZON",
+      "summaryText": "BB HORIZON North Platte NE June 17-20 North Platte Horizon Permit Bareback BB @ $1000",
+      "publishDate": "2026 June 12",
+      "location": "North Platte NE",
+      "eventDates": "June 17-20",
+      "eventName": "North Platte Horizon Permit Bareback",
+      "fields": {
+        "tour": "BB HORIZON",
+        "arena": "Wild West Arena",
+        "address": "2801 Charlie Evans Drive",
+        "eventDateRange": {
+          "startDate": "2026-06-17",
+          "endDate": "2026-06-20"
+        },
+        "perfs": {
+          "perfsCount": 4,
+          "perfDates": [
+            "2026-06-17T19:30:00",
+            "2026-06-18T19:30:00",
+            "2026-06-19T19:30:00",
+            "2026-06-20T19:30:00"
+          ]
+        },
+        "slacks": {
+          "raw": null,
+          "isoDateTimes": []
+        },
+        "events": [
+          {
+            "event": "BB",
+            "addedMoney": 1000
+          }
+        ],
+        "entryFees": [],
+        "permits": "BB",
+        "groundRules": "All permit bareback riders entered in the Buffalo Bill rodeo in North Platte will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Buffalo Bill rodeo will be used to determine the payoff for the Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
+        "stockContractor": "Frontier Rodeo",
+        "subContractors": null,
+        "entriesOpen": "2026-05-26T10:30:00",
+        "entriesClose": "2026-05-26T10:30:00"
+      },
+      "detailLines": [
+        "North Platte NE",
+        "June 17-20",
+        "North Platte Horizon Permit Bareback",
+        "ARENA: Wild West Arena",
+        "ADDRESS: 2801 Charlie Evans Drive",
+        "PERFS: 4 Perfs: June 17- 7:30 PM; June 18- 7:30 PM; June 19- 7:30 PM; June 20- 7:30 PM",
+        "EVENTS: BB @ $1000",
+        "SPECIAL ENTRY FEES:",
+        "PERMITS: BB",
+        "GROUND RULES: All permit bareback riders entered in the Buffalo Bill rodeo in North Platte will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Buffalo Bill rodeo will be used to determine the payoff for the Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
+        "STK CONT.: Frontier Rodeo",
+        "EOO: 5/26/2026 10:30:00 AM",
+        "EC: 5/26/2026 10:30:00 AM"
+      ],
+      "detailText": "North Platte NE June 17-20 North Platte Horizon Permit Bareback ARENA: Wild West Arena ADDRESS: 2801 Charlie Evans Drive PERFS: 4 Perfs: June 17- 7:30 PM; June 18- 7:30 PM; June 19- 7:30 PM; June 20- 7:30 PMEVENTS: BB @ $1000 SPECIAL ENTRY FEES: PERMITS: BB GROUND RULES: All permit bareback riders entered in the Buffalo Bill rodeo in North Platte will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Buffalo Bill rodeo will be used to determine the payoff for the Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings. STK CONT.: Frontier RodeoEOO: 5/26/2026 10:30:00 AMEC: 5/26/2026 10:30:00 AM"
     },
     {
       "index": 13,
@@ -2701,13 +2701,13 @@
         "TRADE DEADLINE - Tues., June 16 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.",
         "ALL CONTESTANTS - Back numbers must be worn.",
         "BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides R5.5.3.1.",
-        "BR - The total amount in the payoff includes the committee purse of $2,000 (for 2026) plus $2,600 carried over from the last rodeo in the 2025 series due to no qualified rides in the Bull Riding event at the rodeo per R5.5.3.1.",
+        "BR - The total amount in the payoff includes the committee purse of $2,000 (for 2026) plus $2,200 carried over from the last rodeo in the 2025 series due to no qualified rides in the Bull Riding event at the rodeo per R5.5.3.1.",
         "QUALIFICATIONS: BR - 30 minimum entries. No compensation. No slack. Permit members may enter both the rodeo and the permit section.",
         "STK CONT.: Generations Pro Rodeo",
         "EOO: 6/12/2026 12:00:00 PM",
         "EC: 6/15/2026 12:00:00 PM"
       ],
-      "detailText": "Steamboat Springs CO June 19-20 Steamboat Springs Pro Rodeo Series ARENA: Brent Romick Arena ADDRESS: 401 Howelsen Parkway PERFS: 2 Perfs: June 19- 7:30 PM; June 20- 7:30 PMEVENTS: BR @ $4200 SPECIAL ENTRY FEES: PERMITS: BR GROUND RULES: CO-APPROVED WITH WILDERNESS CIRCUIT. ALL CONTESTANTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL CONTESTANTS - Re-entries will be accepted for available positions on Tues., June 16 between 9 AM and 1 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Tues., June 16 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS - Back numbers must be worn.BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides R5.5.3.1.BR - The total amount in the payoff includes the committee purse of $2,000 (for 2026) plus $2,600 carried over from the last rodeo in the 2025 series due to no qualified rides in the Bull Riding event at the rodeo per R5.5.3.1.QUALIFICATIONS: BR - 30 minimum entries. No compensation. No slack. Permit members may enter both the rodeo and the permit section. STK CONT.: Generations Pro RodeoEOO: 6/12/2026 12:00:00 PMEC: 6/15/2026 12:00:00 PM"
+      "detailText": "Steamboat Springs CO June 19-20 Steamboat Springs Pro Rodeo Series ARENA: Brent Romick Arena ADDRESS: 401 Howelsen Parkway PERFS: 2 Perfs: June 19- 7:30 PM; June 20- 7:30 PMEVENTS: BR @ $4200 SPECIAL ENTRY FEES: PERMITS: BR GROUND RULES: CO-APPROVED WITH WILDERNESS CIRCUIT. ALL CONTESTANTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL CONTESTANTS - Re-entries will be accepted for available positions on Tues., June 16 between 9 AM and 1 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Tues., June 16 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS - Back numbers must be worn.BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides R5.5.3.1.BR - The total amount in the payoff includes the committee purse of $2,000 (for 2026) plus $2,200 carried over from the last rodeo in the 2025 series due to no qualified rides in the Bull Riding event at the rodeo per R5.5.3.1.QUALIFICATIONS: BR - 30 minimum entries. No compensation. No slack. Permit members may enter both the rodeo and the permit section. STK CONT.: Generations Pro RodeoEOO: 6/12/2026 12:00:00 PMEC: 6/15/2026 12:00:00 PM"
     },
     {
       "index": 30,
@@ -3372,7 +3372,7 @@
     {
       "index": 37,
       "tour": "NPP",
-      "summaryText": "Mesquite TX NPP June 20 Mesquite Championship Rodeo BB SB BR @ $2000 TD SW @ $1000 TR-HD, TR-HL @ $1000 Special Entry Fees: TD-$75 IF 1/$100 IF 2; SW-$75 IF 1/$100 IF 2; TR-$125 IF 1/$200 IF 2",
+      "summaryText": "Mesquite TX NPP June 20 Mesquite Championship Rodeo BB SB @ $2000 BR @ $4420 TD SW @ $1000 TR-HD, TR-HL @ $1000 Special Entry Fees: TD-$75 IF 1/$100 IF 2; SW-$75 IF 1/$100 IF 2; TR-$125 IF 1/$200 IF 2",
       "publishDate": "2026 June 12",
       "location": "Mesquite TX NPP",
       "eventDates": "June 20",
@@ -3405,7 +3405,7 @@
           },
           {
             "event": "BR",
-            "addedMoney": 2000
+            "addedMoney": 4420
           },
           {
             "event": "TD",
@@ -3453,7 +3453,7 @@
         "ADDRESS: 1818 Rodeo Drive",
         "PERFS: 1 Perf: June 20- 7:30 PM",
         "SLACKS: June 20- 12:00 PM",
-        "EVENTS: BB SB BR @ $2000 TD SW @ $1000 TR-HD, TR-HL @ $1000",
+        "EVENTS: BB SB @ $2000 BR @ $4420 TD SW @ $1000 TR-HD, TR-HL @ $1000",
         "SPECIAL ENTRY FEES: TD-$75 IF 1/$100 IF 2; SW-$75 IF 1/$100 IF 2; TR-$125 IF 1/$200 IF 2",
         "PERMITS: BB SB BR TR; MAX - TD SW",
         "GROUND RULES: CO-APPROVED WITH THE PRAIRIE AND SOUTHEASTERN CIRCUITS.",
@@ -3476,7 +3476,7 @@
         "EOO: 6/12/2026 11:30:00 AM",
         "EC: 6/15/2026 11:30:00 AM"
       ],
-      "detailText": "Mesquite TX NPP June 20 Mesquite Championship Rodeo ARENA: Mesquite Arena ADDRESS: 1818 Rodeo Drive PERFS: 1 Perf: June 20- 7:30 PMSLACKS: June 20- 12:00 PM EVENTS: BB SB BR @ $2000 TD SW @ $1000 TR-HD, TR-HL @ $1000 SPECIAL ENTRY FEES: TD-$75 IF 1/$100 IF 2; SW-$75 IF 1/$100 IF 2; TR-$125 IF 1/$200 IF 2 PERMITS: BB SB BR TR; MAX - TD SW GROUND RULES: CO-APPROVED WITH THE PRAIRIE AND SOUTHEASTERN CIRCUITS. Only actual contestant and one companion allowed gate access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues., June 16 between 9 AM and 1 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Tues., June 16 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire one hour after entries close.GB - Approved for first slack event in accordance with R4.9.4.TE - Rule 7.8.6 will be waived.TE - If a timed event animal escapes or a rerun is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back in the herd.RE - Back to back, same performance if two go-rounds B10.2.7.BB, SB, BR - Committee will pay entry fees for all permit members who compete in the riding events.SPECIAL ENTRY FEES - TD - $75; SW - $75; TR - $125BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides.QUALIFICATIONS: BB, SB, BR - 15 minimum entries. No compensation. No slack.TD, SW, TR - 60 minimum entries. STK CONT.: New Star Pro RodeoEOO: 6/12/2026 11:30:00 AMEC: 6/15/2026 11:30:00 AM"
+      "detailText": "Mesquite TX NPP June 20 Mesquite Championship Rodeo ARENA: Mesquite Arena ADDRESS: 1818 Rodeo Drive PERFS: 1 Perf: June 20- 7:30 PMSLACKS: June 20- 12:00 PM EVENTS: BB SB @ $2000 BR @ $4420 TD SW @ $1000 TR-HD, TR-HL @ $1000 SPECIAL ENTRY FEES: TD-$75 IF 1/$100 IF 2; SW-$75 IF 1/$100 IF 2; TR-$125 IF 1/$200 IF 2 PERMITS: BB SB BR TR; MAX - TD SW GROUND RULES: CO-APPROVED WITH THE PRAIRIE AND SOUTHEASTERN CIRCUITS. Only actual contestant and one companion allowed gate access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues., June 16 between 9 AM and 1 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Tues., June 16 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire one hour after entries close.GB - Approved for first slack event in accordance with R4.9.4.TE - Rule 7.8.6 will be waived.TE - If a timed event animal escapes or a rerun is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back in the herd.RE - Back to back, same performance if two go-rounds B10.2.7.BB, SB, BR - Committee will pay entry fees for all permit members who compete in the riding events.SPECIAL ENTRY FEES - TD - $75; SW - $75; TR - $125BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides.QUALIFICATIONS: BB, SB, BR - 15 minimum entries. No compensation. No slack.TD, SW, TR - 60 minimum entries. STK CONT.: New Star Pro RodeoEOO: 6/12/2026 11:30:00 AMEC: 6/15/2026 11:30:00 AM"
     },
     {
       "index": 38,
@@ -3592,7 +3592,7 @@
     {
       "index": 39,
       "tour": "NPP",
-      "summaryText": "Woodstown Pilesgrove NJ NPP June 20 Cowtown Rodeo BB SB BR TD SW @ $1500 TR-HD, TR-HL @ $1500",
+      "summaryText": "Woodstown Pilesgrove NJ NPP June 20 Cowtown Rodeo BB SB TD SW @ $1500 BR @ $3600 TR-HD, TR-HL @ $1500",
       "publishDate": "2026 June 12",
       "location": "Woodstown Pilesgrove NJ NPP",
       "eventDates": "June 20",
@@ -3622,16 +3622,16 @@
             "addedMoney": 1500
           },
           {
-            "event": "BR",
-            "addedMoney": 1500
-          },
-          {
             "event": "TD",
             "addedMoney": 1500
           },
           {
             "event": "SW",
             "addedMoney": 1500
+          },
+          {
+            "event": "BR",
+            "addedMoney": 3600
           },
           {
             "event": "TR-HD",
@@ -3657,7 +3657,7 @@
         "ARENA: Cowtown Rodeo Arena",
         "ADDRESS: 780 Rt 40",
         "PERFS: 1 Perf: June 20- 7:30 PM",
-        "EVENTS: BB SB BR TD SW @ $1500 TR-HD, TR-HL @ $1500",
+        "EVENTS: BB SB TD SW @ $1500 BR @ $3600 TR-HD, TR-HL @ $1500",
         "SPECIAL ENTRY FEES:",
         "PERMITS: BB SB BR TD SW TR",
         "GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.",
@@ -3671,7 +3671,7 @@
         "EOO: 6/12/2026 11:00:00 AM",
         "EC: 6/15/2026 11:00:00 AM"
       ],
-      "detailText": "Woodstown Pilesgrove NJ NPP June 20 Cowtown Rodeo ARENA: Cowtown Rodeo Arena ADDRESS: 780 Rt 40 PERFS: 1 Perf: June 20- 7:30 PMEVENTS: BB SB BR TD SW @ $1500 TR-HD, TR-HL @ $1500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues., June 16 between 9 AM and 3 PM. All eligible contestants who enter the BB, SB, BR during the re-entry period will be accepted. Also, see Rodeo Entry Information page of the business journal.TRADE DEADLINE - Tues., June 16 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire 30 minutes after entries close.ALL CONTESTANTS - All entry fees must be paid online or through the PRCA Office.BR - In the Bull Riding, the prize money will be \"carried over\" to the following rodeo in the series if there are no qualified rides (R5.5.3.1). STK CONT.: Cowtown RodeoEOO: 6/12/2026 11:00:00 AMEC: 6/15/2026 11:00:00 AM"
+      "detailText": "Woodstown Pilesgrove NJ NPP June 20 Cowtown Rodeo ARENA: Cowtown Rodeo Arena ADDRESS: 780 Rt 40 PERFS: 1 Perf: June 20- 7:30 PMEVENTS: BB SB TD SW @ $1500 BR @ $3600 TR-HD, TR-HL @ $1500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues., June 16 between 9 AM and 3 PM. All eligible contestants who enter the BB, SB, BR during the re-entry period will be accepted. Also, see Rodeo Entry Information page of the business journal.TRADE DEADLINE - Tues., June 16 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire 30 minutes after entries close.ALL CONTESTANTS - All entry fees must be paid online or through the PRCA Office.BR - In the Bull Riding, the prize money will be \"carried over\" to the following rodeo in the series if there are no qualified rides (R5.5.3.1). STK CONT.: Cowtown RodeoEOO: 6/12/2026 11:00:00 AMEC: 6/15/2026 11:00:00 AM"
     },
     {
       "index": 40,
@@ -4113,68 +4113,6 @@
     },
     {
       "index": 46,
-      "tour": "LEGACY STEER ROPING",
-      "summaryText": "LEGACY STEER ROPING Pecos TX June 24-27 West Of The Pecos Rodeo Legacy Steer Roping SR Special Entry Fees: SR-$300",
-      "publishDate": "2026 June 12",
-      "location": "Pecos TX",
-      "eventDates": "June 24-27",
-      "eventName": "West Of The Pecos Rodeo Legacy Steer Roping",
-      "fields": {
-        "tour": "LEGACY STEER ROPING",
-        "arena": "Buck Jackson Arena",
-        "address": "1500 South Cedar",
-        "eventDateRange": {
-          "startDate": "2026-06-24",
-          "endDate": "2026-06-27"
-        },
-        "perfs": {
-          "perfsCount": 4,
-          "perfDates": [
-            "2026-06-24T08:00:00",
-            "2026-06-25T08:00:00",
-            "2026-06-26T08:00:00",
-            "2026-06-27T08:00:00"
-          ]
-        },
-        "slacks": {
-          "raw": null,
-          "isoDateTimes": []
-        },
-        "events": [],
-        "entryFees": [
-          {
-            "event": "SR",
-            "fees": "$300"
-          }
-        ],
-        "permits": "SR",
-        "groundRules": "Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old at the time of entry closing or a permit member. They must also be entered in the steer roping event at the West of the Pecos Rodeo. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years. Permit members of all ages are eligible to enter.",
-        "stockContractor": "Various",
-        "subContractors": null,
-        "entriesOpen": "2026-05-22T10:30:00",
-        "entriesClose": "2026-05-27T10:30:00"
-      },
-      "detailLines": [
-        "Pecos TX",
-        "June 24-27",
-        "West Of The Pecos Rodeo Legacy Steer Roping",
-        "ARENA: Buck Jackson Arena",
-        "ADDRESS: 1500 South Cedar",
-        "PERFS: 4 Perfs: June 24- 8:00 AM; June 25- 8:00 AM; June 26- 8:00 AM; June 27- 8:00 AM",
-        "EVENTS: SR",
-        "SPECIAL ENTRY FEES: SR-$300",
-        "PERMITS: SR",
-        "GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old at the time of entry closing or a permit member. They must also be entered in the steer roping event at the West of the Pecos Rodeo. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years. Permit members of all ages are eligible to enter.",
-        "Contestants will pay entry fees of $300. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the West of the Pecos Rodeo will be used to determine the payoff. Payoff will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the payoff. Only the three go-rounds and the average after three go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge.",
-        "Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals).",
-        "STK CONT.: Various",
-        "EOO: 5/22/2026 10:30:00 AM",
-        "EC: 5/27/2026 10:30:00 AM"
-      ],
-      "detailText": "Pecos TX June 24-27 West Of The Pecos Rodeo Legacy Steer Roping ARENA: Buck Jackson Arena ADDRESS: 1500 South Cedar PERFS: 4 Perfs: June 24- 8:00 AM; June 25- 8:00 AM; June 26- 8:00 AM; June 27- 8:00 AMEVENTS: SR SPECIAL ENTRY FEES: SR-$300 PERMITS: SR GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old at the time of entry closing or a permit member. They must also be entered in the steer roping event at the West of the Pecos Rodeo. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years. Permit members of all ages are eligible to enter. Contestants will pay entry fees of $300. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the West of the Pecos Rodeo will be used to determine the payoff. Payoff will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the payoff. Only the three go-rounds and the average after three go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge. Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals). STK CONT.: VariousEOO: 5/22/2026 10:30:00 AMEC: 5/27/2026 10:30:00 AM"
-    },
-    {
-      "index": 47,
       "tour": "PLAYOFF SERIES",
       "summaryText": "PLAYOFF SERIES Pecos TX June 24-27 West Of The Pecos Rodeo BB SB BR TD SW SR @ $20000 TR-HD, TR-HL @ $20000 Special Entry Fees: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$450; SW-$375; TR-$400; SR-$400",
       "publishDate": "2026 June 12",
@@ -4306,6 +4244,68 @@
         "EC: 5/27/2026 10:30:00 AM"
       ],
       "detailText": "Pecos TX June 24-27 West Of The Pecos Rodeo ARENA: Buck Jackson Arena ADDRESS: 1500 South Cedar PERFS: 4 Perfs: June 24- 8:00 PM; June 25- 8:00 PM; June 26- 8:00 PM; June 27- 8:00 PMSLACKS: June 24- 8:00 AM EVENTS: BB SB BR TD SW SR @ $20000 TR-HD, TR-HL @ $20000 SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100+$100.00 DM IF 1/$200 IF 2; TD-$450; SW-$375; TR-$400; SR-$400 PERMITS: BB SB BR TD SW TR SR GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues, June 16 between 9 AM and 11 AM. See Rodeo Entry Information page of the business journal.RIDING EVENT TRADE DEADLINE - Mon., June 15 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.TIMED EVENT TRADE DEADLINE - Thurs., June 18 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS WITH HORSES - Must have proof of current Coggins Test and health papers.TD, SW, TR - Two go-rounds. Back to back. The first go-round of each back to back group will be run during slack at 8:00 AM each morning (June 24 - June 27). The contestants with the top 12 fastest times from the first go-round will be placed in the performance (slowest time will run first, fastest time will run last). The number of contestants placed in the performance will not exceed 12. If splits result in more than 12, a random draw will determine which contestants will compete in the performance and which will compete in the slack. The order of competition of ties from the first go-round will also be determined by random draw. If there are not 12 qualified times from the first go-round to fill the performance, the remaining positions will be filled by contestants based on the reverse order of their first go-round positions (only contestants who competed in the first go-round will be placed in the performances). The remaining contestants (not placed in the performance) will run their second go-round in reverse order of their first go-round positions. The order of the draw will be the same as the competition order. The second go-round will begin in the slack, immediately following the competition of the first go-round.SCORELINES - TD - 20.5'; SW - 16'; TR - 24'; SR - 20'.TR - Hand pulled barrier will be used.SR - Electric eye will be used. If electric eye malfunctions, judges have the option to use a hand pull barrier. SR -Three go-rounds. Back to back to back. The first go-round of each \"back to back\" group will be run first in slack each day at 8 AM, and will be followed by the SW and TD slack. The second go-round for that group will be run after the SW and TD and will be followed by the TR slack. The top ten SR contestants based on the average after the first two go-rounds will compete during the performance that same night for their third go-round, and the remainder will run their third go-round during slack that same day after all other slack events are completed. Extras will be used to replace sick or injured animals. The misdraw procedure will not be used. Stock charge $80 per go-round.QUALIFICATIONS: BB, SB - 48 minimum entries. No compensation. No slack.BR - 80 minimum entries. No compensation. No slack.TD - 130 minimum entries.SW - 80 minimum entries.TR - 100 minimum teams. STK CONT.: Pete Carr Pro RodeoEOO: 5/22/2026 10:30:00 AMEC: 5/27/2026 10:30:00 AM"
+    },
+    {
+      "index": 47,
+      "tour": "LEGACY STEER ROPING",
+      "summaryText": "LEGACY STEER ROPING Pecos TX June 24-27 West Of The Pecos Rodeo Legacy Steer Roping SR Special Entry Fees: SR-$300",
+      "publishDate": "2026 June 12",
+      "location": "Pecos TX",
+      "eventDates": "June 24-27",
+      "eventName": "West Of The Pecos Rodeo Legacy Steer Roping",
+      "fields": {
+        "tour": "LEGACY STEER ROPING",
+        "arena": "Buck Jackson Arena",
+        "address": "1500 South Cedar",
+        "eventDateRange": {
+          "startDate": "2026-06-24",
+          "endDate": "2026-06-27"
+        },
+        "perfs": {
+          "perfsCount": 4,
+          "perfDates": [
+            "2026-06-24T08:00:00",
+            "2026-06-25T08:00:00",
+            "2026-06-26T08:00:00",
+            "2026-06-27T08:00:00"
+          ]
+        },
+        "slacks": {
+          "raw": null,
+          "isoDateTimes": []
+        },
+        "events": [],
+        "entryFees": [
+          {
+            "event": "SR",
+            "fees": "$300"
+          }
+        ],
+        "permits": "SR",
+        "groundRules": "Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old at the time of entry closing or a permit member. They must also be entered in the steer roping event at the West of the Pecos Rodeo. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years. Permit members of all ages are eligible to enter.",
+        "stockContractor": "Various",
+        "subContractors": null,
+        "entriesOpen": "2026-05-22T10:30:00",
+        "entriesClose": "2026-05-27T10:30:00"
+      },
+      "detailLines": [
+        "Pecos TX",
+        "June 24-27",
+        "West Of The Pecos Rodeo Legacy Steer Roping",
+        "ARENA: Buck Jackson Arena",
+        "ADDRESS: 1500 South Cedar",
+        "PERFS: 4 Perfs: June 24- 8:00 AM; June 25- 8:00 AM; June 26- 8:00 AM; June 27- 8:00 AM",
+        "EVENTS: SR",
+        "SPECIAL ENTRY FEES: SR-$300",
+        "PERMITS: SR",
+        "GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old at the time of entry closing or a permit member. They must also be entered in the steer roping event at the West of the Pecos Rodeo. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years. Permit members of all ages are eligible to enter.",
+        "Contestants will pay entry fees of $300. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the West of the Pecos Rodeo will be used to determine the payoff. Payoff will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the payoff. Only the three go-rounds and the average after three go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge.",
+        "Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals).",
+        "STK CONT.: Various",
+        "EOO: 5/22/2026 10:30:00 AM",
+        "EC: 5/27/2026 10:30:00 AM"
+      ],
+      "detailText": "Pecos TX June 24-27 West Of The Pecos Rodeo Legacy Steer Roping ARENA: Buck Jackson Arena ADDRESS: 1500 South Cedar PERFS: 4 Perfs: June 24- 8:00 AM; June 25- 8:00 AM; June 26- 8:00 AM; June 27- 8:00 AMEVENTS: SR SPECIAL ENTRY FEES: SR-$300 PERMITS: SR GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old at the time of entry closing or a permit member. They must also be entered in the steer roping event at the West of the Pecos Rodeo. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years. Permit members of all ages are eligible to enter. Contestants will pay entry fees of $300. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the West of the Pecos Rodeo will be used to determine the payoff. Payoff will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the payoff. Only the three go-rounds and the average after three go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge. Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals). STK CONT.: VariousEOO: 5/22/2026 10:30:00 AMEC: 5/27/2026 10:30:00 AM"
     },
     {
       "index": 48,
@@ -7594,62 +7594,6 @@
     },
     {
       "index": 82,
-      "tour": "LEGACY STEER ROPING",
-      "summaryText": "LEGACY STEER ROPING Belle Fourche SD NPP July 1 Black Hills Roundup Legacy Steer Roping SR Special Entry Fees: SR-$300",
-      "publishDate": "2026 June 12",
-      "location": "Belle Fourche SD NPP",
-      "eventDates": "July 1",
-      "eventName": "Black Hills Roundup Legacy Steer Roping",
-      "fields": {
-        "tour": "LEGACY STEER ROPING",
-        "arena": "Black Hills Roundup Compl",
-        "address": "220 West Roundup Street",
-        "eventDateRange": null,
-        "perfs": {
-          "perfsCount": 1,
-          "perfDates": [
-            "2026-07-01T08:00:00"
-          ]
-        },
-        "slacks": {
-          "raw": null,
-          "isoDateTimes": []
-        },
-        "events": [],
-        "entryFees": [
-          {
-            "event": "SR",
-            "fees": "$300"
-          }
-        ],
-        "permits": "SR",
-        "groundRules": "Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old or a permit member at the time of entry closing. They must also be entered in the steer roping event at the Black Hills Roundup. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years.",
-        "stockContractor": "Various",
-        "subContractors": null,
-        "entriesOpen": "2026-06-05T10:00:00",
-        "entriesClose": "2026-06-09T10:00:00"
-      },
-      "detailLines": [
-        "Belle Fourche SD NPP",
-        "July 1",
-        "Black Hills Roundup Legacy Steer Roping",
-        "ARENA: Black Hills Roundup Compl",
-        "ADDRESS: 220 West Roundup Street",
-        "PERFS: 1 Perf: July 1- 8:00 AM",
-        "EVENTS: SR",
-        "SPECIAL ENTRY FEES: SR-$300",
-        "PERMITS: SR",
-        "GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old or a permit member at the time of entry closing. They must also be entered in the steer roping event at the Black Hills Roundup. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years.",
-        "Contestants will pay entry fees of $300. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the Black Hills Roundup will be used to determine the pay-off. Pay-off will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the pay-off. Only the three go-rounds and the average after three go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge.",
-        "Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals).",
-        "STK CONT.: Various",
-        "EOO: 6/5/2026 10:00:00 AM",
-        "EC: 6/9/2026 10:00:00 AM"
-      ],
-      "detailText": "Belle Fourche SD NPP July 1 Black Hills Roundup Legacy Steer Roping ARENA: Black Hills Roundup Compl ADDRESS: 220 West Roundup Street PERFS: 1 Perf: July 1- 8:00 AMEVENTS: SR SPECIAL ENTRY FEES: SR-$300 PERMITS: SR GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old or a permit member at the time of entry closing. They must also be entered in the steer roping event at the Black Hills Roundup. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years. Contestants will pay entry fees of $300. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the Black Hills Roundup will be used to determine the pay-off. Pay-off will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the pay-off. Only the three go-rounds and the average after three go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge. Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals). STK CONT.: VariousEOO: 6/5/2026 10:00:00 AMEC: 6/9/2026 10:00:00 AM"
-    },
-    {
-      "index": 83,
       "tour": null,
       "summaryText": "Belle Fourche SD July 1-4 Black Hills Roundup BB SB @ $11000 BR TD SW @ $8500 TR-HD, TR-HL @ $8500 SR @ $6000 Special Entry Fees: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; TR-$250 IF 1/$350 IF 2; SR-$350",
       "publishDate": "2026 June 12",
@@ -7766,6 +7710,62 @@
         "EC: 6/9/2026 10:00:00 AM"
       ],
       "detailText": "Belle Fourche SD July 1-4 Black Hills Roundup ARENA: Black Hills Roundup Compl ADDRESS: 220 West Roundup Street PERFS: 4 Perfs: July 1- 7:00 PM; July 2- 7:00 PM; July 3- 7:00 PM; July 4- 3:00 PMSLACKS: July 1- 8:00 AM SREVENTS: BB SB @ $11000 BR TD SW @ $8500 TR-HD, TR-HL @ $8500 SR @ $6000 SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; TR-$250 IF 1/$350 IF 2; SR-$350 PERMITS: BB SB BR TR; MAX - TD SW SR GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Thurs., June 25 between 9 AM and 11 AM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Wed., June 24 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS - Will be required to wear back numbers while competing.BB, SB, BR - Animals that are notified as turned out through PROCOM (includes DR's and VIR's) will be used as re-rides prior to using the designated re-rides.GB - Approved for first slack event in accordance with R4.9.4.TE - If a timed event animal escapes or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd.SR - Three go-rounds, all run in slack on July 1 at 8 AM. Extras will be used to replace sick or injured animals. (The misdraw procedure will not be used). $80 stock charge per go-round.QUALIFICATIONS: BB - 48 minimum entries. No compensation. No slack.SB - 72 minimum entries. No compensation. No slack.BR - 60 minimum entries. No compensation. No slack. STK CONT.: Championship Pro RodeoEOO: 6/5/2026 10:00:00 AMEC: 6/9/2026 10:00:00 AM"
+    },
+    {
+      "index": 83,
+      "tour": "LEGACY STEER ROPING",
+      "summaryText": "LEGACY STEER ROPING Belle Fourche SD NPP July 1 Black Hills Roundup Legacy Steer Roping SR Special Entry Fees: SR-$300",
+      "publishDate": "2026 June 12",
+      "location": "Belle Fourche SD NPP",
+      "eventDates": "July 1",
+      "eventName": "Black Hills Roundup Legacy Steer Roping",
+      "fields": {
+        "tour": "LEGACY STEER ROPING",
+        "arena": "Black Hills Roundup Compl",
+        "address": "220 West Roundup Street",
+        "eventDateRange": null,
+        "perfs": {
+          "perfsCount": 1,
+          "perfDates": [
+            "2026-07-01T08:00:00"
+          ]
+        },
+        "slacks": {
+          "raw": null,
+          "isoDateTimes": []
+        },
+        "events": [],
+        "entryFees": [
+          {
+            "event": "SR",
+            "fees": "$300"
+          }
+        ],
+        "permits": "SR",
+        "groundRules": "Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old or a permit member at the time of entry closing. They must also be entered in the steer roping event at the Black Hills Roundup. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years.",
+        "stockContractor": "Various",
+        "subContractors": null,
+        "entriesOpen": "2026-06-05T10:00:00",
+        "entriesClose": "2026-06-09T10:00:00"
+      },
+      "detailLines": [
+        "Belle Fourche SD NPP",
+        "July 1",
+        "Black Hills Roundup Legacy Steer Roping",
+        "ARENA: Black Hills Roundup Compl",
+        "ADDRESS: 220 West Roundup Street",
+        "PERFS: 1 Perf: July 1- 8:00 AM",
+        "EVENTS: SR",
+        "SPECIAL ENTRY FEES: SR-$300",
+        "PERMITS: SR",
+        "GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old or a permit member at the time of entry closing. They must also be entered in the steer roping event at the Black Hills Roundup. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years.",
+        "Contestants will pay entry fees of $300. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the Black Hills Roundup will be used to determine the pay-off. Pay-off will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the pay-off. Only the three go-rounds and the average after three go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge.",
+        "Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals).",
+        "STK CONT.: Various",
+        "EOO: 6/5/2026 10:00:00 AM",
+        "EC: 6/9/2026 10:00:00 AM"
+      ],
+      "detailText": "Belle Fourche SD NPP July 1 Black Hills Roundup Legacy Steer Roping ARENA: Black Hills Roundup Compl ADDRESS: 220 West Roundup Street PERFS: 1 Perf: July 1- 8:00 AMEVENTS: SR SPECIAL ENTRY FEES: SR-$300 PERMITS: SR GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old or a permit member at the time of entry closing. They must also be entered in the steer roping event at the Black Hills Roundup. To be eligible, the contestant must not have been an NFSR qualifier during the past 3 years. Contestants will pay entry fees of $300. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the Black Hills Roundup will be used to determine the pay-off. Pay-off will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the pay-off. Only the three go-rounds and the average after three go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge. Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals). STK CONT.: VariousEOO: 6/5/2026 10:00:00 AMEC: 6/9/2026 10:00:00 AM"
     },
     {
       "index": 84,
@@ -9254,6 +9254,63 @@
     },
     {
       "index": 99,
+      "tour": "BB HORIZON",
+      "summaryText": "BB HORIZON Mobridge SD July 2-4 Mobridge Horizon Permit Bareback BB @ $1000",
+      "publishDate": "2026 June 12",
+      "location": "Mobridge SD",
+      "eventDates": "July 2-4",
+      "eventName": "Mobridge Horizon Permit Bareback",
+      "fields": {
+        "tour": "BB HORIZON",
+        "arena": "Mobridge Rodeo Grounds",
+        "address": "1100 East Grand Crossing",
+        "eventDateRange": {
+          "startDate": "2026-07-02",
+          "endDate": "2026-07-04"
+        },
+        "perfs": {
+          "perfsCount": 3,
+          "perfDates": [
+            "2026-07-02T19:30:00",
+            "2026-07-03T19:30:00",
+            "2026-07-04T19:30:00"
+          ]
+        },
+        "slacks": {
+          "raw": null,
+          "isoDateTimes": []
+        },
+        "events": [
+          {
+            "event": "BB",
+            "addedMoney": 1000
+          }
+        ],
+        "entryFees": [],
+        "permits": "BB",
+        "groundRules": "All permit bareback riders entered in the Mobridge rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Mobridge rodeo will be used to determine the payoff for the Mobridge Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
+        "stockContractor": "Sutton Rodeos",
+        "subContractors": null,
+        "entriesOpen": null,
+        "entriesClose": null
+      },
+      "detailLines": [
+        "Mobridge SD",
+        "July 2-4",
+        "Mobridge Horizon Permit Bareback",
+        "ARENA: Mobridge Rodeo Grounds",
+        "ADDRESS: 1100 East Grand Crossing",
+        "PERFS: 3 Perfs: July 2- 7:30 PM; July 3- 7:30 PM; July 4- 7:30 PM",
+        "EVENTS: BB @ $1000",
+        "SPECIAL ENTRY FEES:",
+        "PERMITS: BB",
+        "GROUND RULES: All permit bareback riders entered in the Mobridge rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Mobridge rodeo will be used to determine the payoff for the Mobridge Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
+        "STK CONT.: Sutton Rodeos"
+      ],
+      "detailText": "Mobridge SD July 2-4 Mobridge Horizon Permit Bareback ARENA: Mobridge Rodeo Grounds ADDRESS: 1100 East Grand Crossing PERFS: 3 Perfs: July 2- 7:30 PM; July 3- 7:30 PM; July 4- 7:30 PMEVENTS: BB @ $1000 SPECIAL ENTRY FEES: PERMITS: BB GROUND RULES: All permit bareback riders entered in the Mobridge rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Mobridge rodeo will be used to determine the payoff for the Mobridge Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings. STK CONT.: Sutton Rodeos"
+    },
+    {
+      "index": 100,
       "tour": null,
       "summaryText": "Mobridge SD July 2-4 Sitting Bull Stampede BB SB BR TD SW @ $7000 TR-HD, TR-HL @ $7000 Special Entry Fees: TR-$225 IF 1/$350 IF 2",
       "publishDate": "2026 June 12",
@@ -9345,63 +9402,6 @@
         "EC: 6/11/2026 11:30:00 AM"
       ],
       "detailText": "Mobridge SD July 2-4 Sitting Bull Stampede ARENA: Mobridge Rodeo Grounds ADDRESS: 1100 East Grand Crossing PERFS: 3 Perfs: July 2- 7:30 PM; July 3- 7:30 PM; July 4- 7:30 PMEVENTS: BB SB BR TD SW @ $7000 TR-HD, TR-HL @ $7000 SPECIAL ENTRY FEES: TR-$225 IF 1/$350 IF 2 PERMITS: BB SB BR TD SW TR GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Fri., June 26 between 9 AM and 12 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Thurs., June 25 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GB - Approved for first slack event in accordance with R4.9.4RE - Back to back same performance if two go-rounds B10.2.7.QUALIFICATIONS: BB, SB, BR - 45 minimum entries. No compensation. No slack. STK CONT.: Sutton RodeosEOO: 6/10/2026 11:30:00 AMEC: 6/11/2026 11:30:00 AM"
-    },
-    {
-      "index": 100,
-      "tour": "BB HORIZON",
-      "summaryText": "BB HORIZON Mobridge SD July 2-4 Mobridge Horizon Permit Bareback BB @ $1000",
-      "publishDate": "2026 June 12",
-      "location": "Mobridge SD",
-      "eventDates": "July 2-4",
-      "eventName": "Mobridge Horizon Permit Bareback",
-      "fields": {
-        "tour": "BB HORIZON",
-        "arena": "Mobridge Rodeo Grounds",
-        "address": "1100 East Grand Crossing",
-        "eventDateRange": {
-          "startDate": "2026-07-02",
-          "endDate": "2026-07-04"
-        },
-        "perfs": {
-          "perfsCount": 3,
-          "perfDates": [
-            "2026-07-02T19:30:00",
-            "2026-07-03T19:30:00",
-            "2026-07-04T19:30:00"
-          ]
-        },
-        "slacks": {
-          "raw": null,
-          "isoDateTimes": []
-        },
-        "events": [
-          {
-            "event": "BB",
-            "addedMoney": 1000
-          }
-        ],
-        "entryFees": [],
-        "permits": "BB",
-        "groundRules": "All permit bareback riders entered in the Mobridge rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Mobridge rodeo will be used to determine the payoff for the Mobridge Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
-        "stockContractor": "Sutton Rodeos",
-        "subContractors": null,
-        "entriesOpen": null,
-        "entriesClose": null
-      },
-      "detailLines": [
-        "Mobridge SD",
-        "July 2-4",
-        "Mobridge Horizon Permit Bareback",
-        "ARENA: Mobridge Rodeo Grounds",
-        "ADDRESS: 1100 East Grand Crossing",
-        "PERFS: 3 Perfs: July 2- 7:30 PM; July 3- 7:30 PM; July 4- 7:30 PM",
-        "EVENTS: BB @ $1000",
-        "SPECIAL ENTRY FEES:",
-        "PERMITS: BB",
-        "GROUND RULES: All permit bareback riders entered in the Mobridge rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Mobridge rodeo will be used to determine the payoff for the Mobridge Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
-        "STK CONT.: Sutton Rodeos"
-      ],
-      "detailText": "Mobridge SD July 2-4 Mobridge Horizon Permit Bareback ARENA: Mobridge Rodeo Grounds ADDRESS: 1100 East Grand Crossing PERFS: 3 Perfs: July 2- 7:30 PM; July 3- 7:30 PM; July 4- 7:30 PMEVENTS: BB @ $1000 SPECIAL ENTRY FEES: PERMITS: BB GROUND RULES: All permit bareback riders entered in the Mobridge rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Mobridge rodeo will be used to determine the payoff for the Mobridge Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings. STK CONT.: Sutton Rodeos"
     },
     {
       "index": 101,
@@ -10031,12 +10031,12 @@
         "COMPETITION FORMAT: 5.1 There will be three Pools formed from the qualified contestants as follows: Pool A - July 3 - 5, 2026. Pool B - July 6 - 8 2026. Pool C - July 9 - 11, 2026. 5.1.2 Each contestant will compete each of the three (3) days of his/her pool. Each day will be a complete go-round. 5.1.3 The top three (3) in the Money standings from each Pool will advance to the Semi-Finals on Showdown Sunday.",
         "SHOWDOWN: 5.2.2.2 The top four contestants in each event from the Semi-Finals will advance to the",
         "Showdown.",
-        "Complete Calgary Stampede ground rules can be found by clicking on the red link above.",
+        "Complete Calgary Stampede ground rules can be found in PBJ by clicking on the red link above.",
         "STK CONT.: Calgary Stampede",
         "EOO: 5/15/2026 12:00:00 PM",
         "EC: 5/19/2026 12:00:00 PM"
       ],
-      "detailText": "Calgary AB CN July 3-12 The Calgary Stampede ARENA: Calgary Stampede ADDRESS: 650 - 25th Ave SE PERFS: 10 Perfs: July 3- 1:30 PM; July 4- 1:30 PM; July 5- 1:30 PM; July 6- 1:30 PM; July 7- 1:30 PM; July 8- 1:30 PM; July 9- 1:30 PM; July 10- 1:30 PM; July 11- 1:30 PM; July 12- 1:30 PMEVENTS: BB SB BR TD SW @ $310250 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SWFINALS: July 12- 1:30 PM BB SB BR TD SW GROUND RULES: Click here for additional ground rulesALL CONTESTANTS - Contestants must enter through PROCOM.QUALIFICATIONS: 2.1 SB, BB, BR, TD, SW - The Calgary Stampede will invite thirty (30) contestants: Top Five (5) from the 2025 CPRA final standings (drop-down until filled); Top ten (10) from the 2025 PRCA World Standings (drop down through 15th only); Top fourteen (14) or fifteen (15) from the PRCA Current Year Standings as of May 5, 2026 not already qualified (drop-down until filled).TRADE DEADLINE - June 5 at 4 PM. Trades must be submitted to PROCOM to be considered.CONFIRMATION OF ENTRY: 3.1.1 Qualified Contestants must submit a signed copy of provided Calgary Stampede Contestant Agreement to Calgary Stampede designated official by deadline noted in agreement. By signing and submitting agreement to the Calgary Stampede, Contestant is acknowledging and consenting that The Calgary Stampede will confirm their entry to the 2026 Calgary Stampede Rodeo with the PRCA (PROCOM).COMPETITION FORMAT: 5.1 There will be three Pools formed from the qualified contestants as follows: Pool A - July 3 - 5, 2026. Pool B - July 6 - 8 2026. Pool C - July 9 - 11, 2026. 5.1.2 Each contestant will compete each of the three (3) days of his/her pool. Each day will be a complete go-round. 5.1.3 The top three (3) in the Money standings from each Pool will advance to the Semi-Finals on Showdown Sunday.SHOWDOWN: 5.2.2.2 The top four contestants in each event from the Semi-Finals will advance to the Showdown. Complete Calgary Stampede ground rules can be found by clicking on the red link above. STK CONT.: Calgary StampedeEOO: 5/15/2026 12:00:00 PMEC: 5/19/2026 12:00:00 PM"
+      "detailText": "Calgary AB CN July 3-12 The Calgary Stampede ARENA: Calgary Stampede ADDRESS: 650 - 25th Ave SE PERFS: 10 Perfs: July 3- 1:30 PM; July 4- 1:30 PM; July 5- 1:30 PM; July 6- 1:30 PM; July 7- 1:30 PM; July 8- 1:30 PM; July 9- 1:30 PM; July 10- 1:30 PM; July 11- 1:30 PM; July 12- 1:30 PMEVENTS: BB SB BR TD SW @ $310250 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SWFINALS: July 12- 1:30 PM BB SB BR TD SW GROUND RULES: Click here for additional ground rulesALL CONTESTANTS - Contestants must enter through PROCOM.QUALIFICATIONS: 2.1 SB, BB, BR, TD, SW - The Calgary Stampede will invite thirty (30) contestants: Top Five (5) from the 2025 CPRA final standings (drop-down until filled); Top ten (10) from the 2025 PRCA World Standings (drop down through 15th only); Top fourteen (14) or fifteen (15) from the PRCA Current Year Standings as of May 5, 2026 not already qualified (drop-down until filled).TRADE DEADLINE - June 5 at 4 PM. Trades must be submitted to PROCOM to be considered.CONFIRMATION OF ENTRY: 3.1.1 Qualified Contestants must submit a signed copy of provided Calgary Stampede Contestant Agreement to Calgary Stampede designated official by deadline noted in agreement. By signing and submitting agreement to the Calgary Stampede, Contestant is acknowledging and consenting that The Calgary Stampede will confirm their entry to the 2026 Calgary Stampede Rodeo with the PRCA (PROCOM).COMPETITION FORMAT: 5.1 There will be three Pools formed from the qualified contestants as follows: Pool A - July 3 - 5, 2026. Pool B - July 6 - 8 2026. Pool C - July 9 - 11, 2026. 5.1.2 Each contestant will compete each of the three (3) days of his/her pool. Each day will be a complete go-round. 5.1.3 The top three (3) in the Money standings from each Pool will advance to the Semi-Finals on Showdown Sunday.SHOWDOWN: 5.2.2.2 The top four contestants in each event from the Semi-Finals will advance to the Showdown. Complete Calgary Stampede ground rules can be found in PBJ by clicking on the red link above. STK CONT.: Calgary StampedeEOO: 5/15/2026 12:00:00 PMEC: 5/19/2026 12:00:00 PM"
     },
     {
       "index": 108,
@@ -11604,12 +11604,12 @@
         "3.2 If a contestant does not sign their contestant agreement by the end of the entries period, they will be drawn out, their position will be filled from those contestants who originally entered, in order of the qualification process. Contestants will receive an email link to sign their Calgary Stampede Contestant Agreement.",
         "4.0 FORMAT - Two complete go-rounds with the top 8 in the average after the first 2 go-rounds advancing",
         "to the Semifinals. The top 4 from the Semifinals will advance to the Showdown.",
-        "COMPLETE CALGARY STAMPEDE ROCKY MOUNTAIN CUP TEAM ROPING GROUND RULES can be found by clicking on the red link above.",
+        "COMPLETE CALGARY STAMPEDE ROCKY MOUNTAIN CUP TEAM ROPING GROUND RULES can be found in PBJ by clicking on the red link above.",
         "STK CONT.: Various",
         "EOO: 5/20/2026 10:00:00 AM",
         "EC: 5/21/2026 10:00:00 AM"
       ],
-      "detailText": "Calgary AB CN NPP July 8 Calgary Stampede Team Roping ARENA: Nutrien Centre ADDRESS: 2500 Stampede Trail SE PERFS: 1 Perf: July 8- 6:30 PMEVENTS: TR-HD, TR-HL @ $155125 SPECIAL ENTRY FEES: PERMITS: FINALS: July 8- 6:30 PM TR GROUND RULES: Click here for additional ground rules2.0 QUALIFICATIONS: 2.1 TR - Thirty (30) teams total consisting of the top five (5) headers and heelers from the immediate previous year CPRA Finals standings (drop-down until filled), ten (10) headers and heelers from the immediate previous year PRCA World Standings (drop down through 15th) and the top fifteen (15) headers and heelers from the PRCA Current Year Standings as of May 5, 2026 (drop­ down until filled). 2.2 The 30 Hour Replacement Policy will be in effect. See ground rules for replacement procedures.2.7 TR - Headers and Heelers will qualify individually in either the Header or Heeler category. The 30 Headers who qualify must rope with the 30 Heelers who qualify. If a contestant's partner is drawn out due to qualification, he will not be allowed to draw out. A partner will be drawn for him from among the other contestants whose partners were drawn out. (Headers without partners will be drawn a partner from among the Heelers who do not have partners). 3.2 If a contestant does not sign their contestant agreement by the end of the entries period, they will be drawn out, their position will be filled from those contestants who originally entered, in order of the qualification process. Contestants will receive an email link to sign their Calgary Stampede Contestant Agreement.4.0 FORMAT - Two complete go-rounds with the top 8 in the average after the first 2 go-rounds advancing to the Semifinals. The top 4 from the Semifinals will advance to the Showdown. COMPLETE CALGARY STAMPEDE ROCKY MOUNTAIN CUP TEAM ROPING GROUND RULES can be found by clicking on the red link above. STK CONT.: VariousEOO: 5/20/2026 10:00:00 AMEC: 5/21/2026 10:00:00 AM"
+      "detailText": "Calgary AB CN NPP July 8 Calgary Stampede Team Roping ARENA: Nutrien Centre ADDRESS: 2500 Stampede Trail SE PERFS: 1 Perf: July 8- 6:30 PMEVENTS: TR-HD, TR-HL @ $155125 SPECIAL ENTRY FEES: PERMITS: FINALS: July 8- 6:30 PM TR GROUND RULES: Click here for additional ground rules2.0 QUALIFICATIONS: 2.1 TR - Thirty (30) teams total consisting of the top five (5) headers and heelers from the immediate previous year CPRA Finals standings (drop-down until filled), ten (10) headers and heelers from the immediate previous year PRCA World Standings (drop down through 15th) and the top fifteen (15) headers and heelers from the PRCA Current Year Standings as of May 5, 2026 (drop­ down until filled). 2.2 The 30 Hour Replacement Policy will be in effect. See ground rules for replacement procedures.2.7 TR - Headers and Heelers will qualify individually in either the Header or Heeler category. The 30 Headers who qualify must rope with the 30 Heelers who qualify. If a contestant's partner is drawn out due to qualification, he will not be allowed to draw out. A partner will be drawn for him from among the other contestants whose partners were drawn out. (Headers without partners will be drawn a partner from among the Heelers who do not have partners). 3.2 If a contestant does not sign their contestant agreement by the end of the entries period, they will be drawn out, their position will be filled from those contestants who originally entered, in order of the qualification process. Contestants will receive an email link to sign their Calgary Stampede Contestant Agreement.4.0 FORMAT - Two complete go-rounds with the top 8 in the average after the first 2 go-rounds advancing to the Semifinals. The top 4 from the Semifinals will advance to the Showdown. COMPLETE CALGARY STAMPEDE ROCKY MOUNTAIN CUP TEAM ROPING GROUND RULES can be found in PBJ by clicking on the red link above. STK CONT.: VariousEOO: 5/20/2026 10:00:00 AMEC: 5/21/2026 10:00:00 AM"
     },
     {
       "index": 126,
@@ -11901,7 +11901,7 @@
     {
       "index": 129,
       "tour": "LEGACY STEER ROPING",
-      "summaryText": "LEGACY STEER ROPING Cheyenne WY NPP July 9 Cheyenne Legacy Steer Roping SR Special Entry Fees: SR-$200 Pending",
+      "summaryText": "LEGACY STEER ROPING Cheyenne WY NPP July 9 Cheyenne Legacy Steer Roping SR Special Entry Fees: SR-$200",
       "publishDate": "2026 June 12",
       "location": "Cheyenne WY NPP",
       "eventDates": "July 9",
@@ -11950,10 +11950,9 @@
         "Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals).",
         "STK CONT.: Various",
         "EOO: 6/15/2026 10:00:00 AM",
-        "EC: 6/18/2026 10:00:00 AM",
-        "PENDING"
+        "EC: 6/18/2026 10:00:00 AM"
       ],
-      "detailText": "Cheyenne WY NPP July 9 Cheyenne Legacy Steer Roping ARENA: Frontier Park ADDRESS: 1230 West 8th Ave PERFS: 1 Perf: July 9- 7:00 AMEVENTS: SR SPECIAL ENTRY FEES: SR-$200 PERMITS: GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old at the time of entry closing. They must also be entered in the steer roping event at the Cheyenne Frontier Days. To be eligible, a contestant must not have been an NFSR qualifier during the past 3 years. Contestants will pay an additional entry fees of $200. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the Cheyenne Frontier Days will be used to determine the pay-off. Pay-off will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the pay-off. Only the two go-rounds and the average after two go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge. Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals). STK CONT.: VariousEOO: 6/15/2026 10:00:00 AMEC: 6/18/2026 10:00:00 AMPENDING"
+      "detailText": "Cheyenne WY NPP July 9 Cheyenne Legacy Steer Roping ARENA: Frontier Park ADDRESS: 1230 West 8th Ave PERFS: 1 Perf: July 9- 7:00 AMEVENTS: SR SPECIAL ENTRY FEES: SR-$200 PERMITS: GROUND RULES: Contestants who choose to enter the Legacy Steer Roping event must be at least 50 years old at the time of entry closing. They must also be entered in the steer roping event at the Cheyenne Frontier Days. To be eligible, a contestant must not have been an NFSR qualifier during the past 3 years. Contestants will pay an additional entry fees of $200. Contestants will not compete on any additional steers. The times that are recorded for the contestants' competition runs at the Cheyenne Frontier Days will be used to determine the pay-off. Pay-off will only include the entry fees for the contestants who entered the Legacy Steer Roping through PROCOM. 6% will be held out of the total amount for the PRCA prior to the pay-off. Only the two go-rounds and the average after two go-rounds will be included in the pay-off for the Legacy Steer Roping. There will be no additional added money and since no additional animals will be run, there will be no additional stock charge or PROCOM charge. Money won in the Legacy Steer Roping will not count towards PRCA World Standings, circuit standings, All Around standings, or for money won qualifications. It will count towards qualifying for the Legacy Steer Roping Finals held in conjunction with the National Finals Steer Roping. (NFSR qualifiers will not be eligible for the Legacy Steer Roping Finals). STK CONT.: VariousEOO: 6/15/2026 10:00:00 AMEC: 6/18/2026 10:00:00 AM"
     },
     {
       "index": 130,
@@ -13677,6 +13676,70 @@
     },
     {
       "index": 149,
+      "tour": "Permit Section",
+      "summaryText": "Permit Section Steamboat Springs CO July 10-11 Steamboat Springs Pro Rodeo Series BR @ $2000",
+      "publishDate": "2026 June 12",
+      "location": "Steamboat Springs CO",
+      "eventDates": "July 10-11",
+      "eventName": "Steamboat Springs Pro Rodeo Series",
+      "fields": {
+        "tour": "Permit Section",
+        "arena": "Brent Romick Arena",
+        "address": "401 Howelsen Parkway",
+        "eventDateRange": {
+          "startDate": "2026-07-10",
+          "endDate": "2026-07-11"
+        },
+        "perfs": {
+          "perfsCount": 2,
+          "perfDates": [
+            "2026-07-10T19:30:00",
+            "2026-07-11T19:30:00"
+          ]
+        },
+        "slacks": {
+          "raw": null,
+          "isoDateTimes": []
+        },
+        "events": [
+          {
+            "event": "BR",
+            "addedMoney": 2000
+          }
+        ],
+        "entryFees": [],
+        "permits": "BR",
+        "groundRules": "CO-APPROVED WITH WILDERNESS CIRCUIT.",
+        "stockContractor": "Generations Pro Rodeo",
+        "subContractors": null,
+        "entriesOpen": "2026-07-02T12:00:00",
+        "entriesClose": "2026-07-06T12:00:00"
+      },
+      "detailLines": [
+        "Steamboat Springs CO",
+        "July 10-11",
+        "Steamboat Springs Pro Rodeo Series",
+        "ARENA: Brent Romick Arena",
+        "ADDRESS: 401 Howelsen Parkway",
+        "PERFS: 2 Perfs: July 10- 7:30 PM; July 11- 7:30 PM",
+        "EVENTS: BR @ $2000",
+        "SPECIAL ENTRY FEES:",
+        "PERMITS: BR",
+        "GROUND RULES: CO-APPROVED WITH WILDERNESS CIRCUIT.",
+        "ALL CONTESTANTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.",
+        "ALL CONTESTANTS - Re-entries will be accepted for available positions on Tues., July 7 between 9 AM and 1 PM. See Rodeo Entry Information Section of the Business Journal.",
+        "TRADE DEADLINE - Tues., July 7 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.",
+        "ALL CONTESTANTS - Back numbers must be worn.",
+        "BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides R5.5.3.1.",
+        "QUALIFICATIONS: BR - 30 minimum entries. No compensation. No slack. Permit members may enter both the rodeo and the permit section.",
+        "STK CONT.: Generations Pro Rodeo",
+        "EOO: 7/2/2026 12:00:00 PM",
+        "EC: 7/6/2026 12:00:00 PM"
+      ],
+      "detailText": "Steamboat Springs CO July 10-11 Steamboat Springs Pro Rodeo Series ARENA: Brent Romick Arena ADDRESS: 401 Howelsen Parkway PERFS: 2 Perfs: July 10- 7:30 PM; July 11- 7:30 PMEVENTS: BR @ $2000 SPECIAL ENTRY FEES: PERMITS: BR GROUND RULES: CO-APPROVED WITH WILDERNESS CIRCUIT. ALL CONTESTANTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL CONTESTANTS - Re-entries will be accepted for available positions on Tues., July 7 between 9 AM and 1 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Tues., July 7 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS - Back numbers must be worn.BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides R5.5.3.1.QUALIFICATIONS: BR - 30 minimum entries. No compensation. No slack. Permit members may enter both the rodeo and the permit section. STK CONT.: Generations Pro RodeoEOO: 7/2/2026 12:00:00 PMEC: 7/6/2026 12:00:00 PM"
+    },
+    {
+      "index": 150,
       "tour": null,
       "summaryText": "Steamboat Springs CO July 10-11 Steamboat Springs Pro Rodeo Series BB SB TD SW @ $2000 BR @ $4000 TR-HD, TR-HL @ $2000",
       "publishDate": "2026 June 12",
@@ -13769,70 +13832,6 @@
         "EC: 7/6/2026 12:00:00 PM"
       ],
       "detailText": "Steamboat Springs CO July 10-11 Steamboat Springs Pro Rodeo Series ARENA: Brent Romick Arena ADDRESS: 401 Howelsen Parkway PERFS: 2 Perfs: July 10- 7:30 PM; July 11- 7:30 PMEVENTS: BB SB TD SW @ $2000 BR @ $4000 TR-HD, TR-HL @ $2000 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: CO-APPROVED WITH WILDERNESS CIRCUIT. Only actual contestant and one companion allowed gate access. Also current card holders who are not entered will be granted free access but his companion pass will not be honored.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues., July 7 between 9 AM and 1 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Tues., July 7 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL EVENTS - Will be back to back, same performance if two go-rounds. (If an event is back to back, same performance, there will be no slack in that event).ALL CONTESTANTS - Back numbers must be worn.BB & SB - Events may be combined or may have two sections depending on number of entries.BR - May be one or two sections during the performance depending on the number of entries.SLACK - Slack order will be the same order as the rodeo. If the first run of the cattle in TD, SW, and TR ends in slack. The first run in all events will be completed before the 2nd run is drawn.BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides R5.5.3.1.QUALIFICATIONS: BB, SB - 30 minimum entries. No compensation. No slack.BR - 40 minimum entries. No compensation. No slack. STK CONT.: Generations Pro RodeoEOO: 7/2/2026 12:00:00 PMEC: 7/6/2026 12:00:00 PM"
-    },
-    {
-      "index": 150,
-      "tour": "Permit Section",
-      "summaryText": "Permit Section Steamboat Springs CO July 10-11 Steamboat Springs Pro Rodeo Series BR @ $2000",
-      "publishDate": "2026 June 12",
-      "location": "Steamboat Springs CO",
-      "eventDates": "July 10-11",
-      "eventName": "Steamboat Springs Pro Rodeo Series",
-      "fields": {
-        "tour": "Permit Section",
-        "arena": "Brent Romick Arena",
-        "address": "401 Howelsen Parkway",
-        "eventDateRange": {
-          "startDate": "2026-07-10",
-          "endDate": "2026-07-11"
-        },
-        "perfs": {
-          "perfsCount": 2,
-          "perfDates": [
-            "2026-07-10T19:30:00",
-            "2026-07-11T19:30:00"
-          ]
-        },
-        "slacks": {
-          "raw": null,
-          "isoDateTimes": []
-        },
-        "events": [
-          {
-            "event": "BR",
-            "addedMoney": 2000
-          }
-        ],
-        "entryFees": [],
-        "permits": "BR",
-        "groundRules": "CO-APPROVED WITH WILDERNESS CIRCUIT.",
-        "stockContractor": "Generations Pro Rodeo",
-        "subContractors": null,
-        "entriesOpen": "2026-07-02T12:00:00",
-        "entriesClose": "2026-07-06T12:00:00"
-      },
-      "detailLines": [
-        "Steamboat Springs CO",
-        "July 10-11",
-        "Steamboat Springs Pro Rodeo Series",
-        "ARENA: Brent Romick Arena",
-        "ADDRESS: 401 Howelsen Parkway",
-        "PERFS: 2 Perfs: July 10- 7:30 PM; July 11- 7:30 PM",
-        "EVENTS: BR @ $2000",
-        "SPECIAL ENTRY FEES:",
-        "PERMITS: BR",
-        "GROUND RULES: CO-APPROVED WITH WILDERNESS CIRCUIT.",
-        "ALL CONTESTANTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.",
-        "ALL CONTESTANTS - Re-entries will be accepted for available positions on Tues., July 7 between 9 AM and 1 PM. See Rodeo Entry Information Section of the Business Journal.",
-        "TRADE DEADLINE - Tues., July 7 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.",
-        "ALL CONTESTANTS - Back numbers must be worn.",
-        "BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides R5.5.3.1.",
-        "QUALIFICATIONS: BR - 30 minimum entries. No compensation. No slack. Permit members may enter both the rodeo and the permit section.",
-        "STK CONT.: Generations Pro Rodeo",
-        "EOO: 7/2/2026 12:00:00 PM",
-        "EC: 7/6/2026 12:00:00 PM"
-      ],
-      "detailText": "Steamboat Springs CO July 10-11 Steamboat Springs Pro Rodeo Series ARENA: Brent Romick Arena ADDRESS: 401 Howelsen Parkway PERFS: 2 Perfs: July 10- 7:30 PM; July 11- 7:30 PMEVENTS: BR @ $2000 SPECIAL ENTRY FEES: PERMITS: BR GROUND RULES: CO-APPROVED WITH WILDERNESS CIRCUIT. ALL CONTESTANTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL CONTESTANTS - Re-entries will be accepted for available positions on Tues., July 7 between 9 AM and 1 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Tues., July 7 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS - Back numbers must be worn.BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides R5.5.3.1.QUALIFICATIONS: BR - 30 minimum entries. No compensation. No slack. Permit members may enter both the rodeo and the permit section. STK CONT.: Generations Pro RodeoEOO: 7/2/2026 12:00:00 PMEC: 7/6/2026 12:00:00 PM"
     },
     {
       "index": 151,
@@ -14015,6 +14014,62 @@
     },
     {
       "index": 153,
+      "tour": "BB HORIZON",
+      "summaryText": "BB HORIZON Wall SD July 10-11 Wall Celebration BB Horizon BB @ $1000",
+      "publishDate": "2026 June 12",
+      "location": "Wall SD",
+      "eventDates": "July 10-11",
+      "eventName": "Wall Celebration BB Horizon",
+      "fields": {
+        "tour": "BB HORIZON",
+        "arena": "Wall Arena",
+        "address": "917 Floyd St.",
+        "eventDateRange": {
+          "startDate": "2026-07-10",
+          "endDate": "2026-07-11"
+        },
+        "perfs": {
+          "perfsCount": 2,
+          "perfDates": [
+            "2026-07-10T19:00:00",
+            "2026-07-11T19:00:00"
+          ]
+        },
+        "slacks": {
+          "raw": null,
+          "isoDateTimes": []
+        },
+        "events": [
+          {
+            "event": "BB",
+            "addedMoney": 1000
+          }
+        ],
+        "entryFees": [],
+        "permits": "BB",
+        "groundRules": "All permit bareback riders entered in the Wall Celebration rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Wall rodeo will be used to determine the payoff for the Wall Horizon Permit Bareback Riding. The number of places paid, and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
+        "stockContractor": "Muddy Creek Pro Rodeo",
+        "subContractors": null,
+        "entriesOpen": null,
+        "entriesClose": null
+      },
+      "detailLines": [
+        "Wall SD",
+        "July 10-11",
+        "Wall Celebration BB Horizon",
+        "ARENA: Wall Arena",
+        "ADDRESS: 917 Floyd St.",
+        "PERFS: 2 Perfs: July 10- 7:00 PM; July 11- 7:00 PM",
+        "EVENTS: BB @ $1000",
+        "SPECIAL ENTRY FEES:",
+        "PERMITS: BB",
+        "GROUND RULES: All permit bareback riders entered in the Wall Celebration rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Wall rodeo will be used to determine the payoff for the Wall Horizon Permit Bareback Riding. The number of places paid, and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
+        "STK CONT.: Muddy Creek Pro Rodeo"
+      ],
+      "detailText": "Wall SD July 10-11 Wall Celebration BB Horizon ARENA: Wall Arena ADDRESS: 917 Floyd St. PERFS: 2 Perfs: July 10- 7:00 PM; July 11- 7:00 PMEVENTS: BB @ $1000 SPECIAL ENTRY FEES: PERMITS: BB GROUND RULES: All permit bareback riders entered in the Wall Celebration rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Wall rodeo will be used to determine the payoff for the Wall Horizon Permit Bareback Riding. The number of places paid, and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings. STK CONT.: Muddy Creek Pro Rodeo"
+    },
+    {
+      "index": 154,
       "tour": null,
       "summaryText": "Wall SD July 10-11 Wall Celebration BB SB @ $3000 BR @ $6840 TD SW @ $2000 TR-HD, TR-HL @ $2000",
       "publishDate": "2026 June 12",
@@ -14106,65 +14161,9 @@
       "detailText": "Wall SD July 10-11 Wall Celebration ARENA: Wall Arena ADDRESS: 917 Floyd St. PERFS: 2 Perfs: July 10- 7:00 PM; July 11- 7:00 PMSLACKS: July 9- 8:00 PM EVENTS: BB SB @ $3000 BR @ $6840 TD SW @ $2000 TR-HD, TR-HL @ $2000 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: CO-APPROVED WITH MOUNTAIN STATES, MONTANA, AND PRAIRIE CIRCUITS. Only actual contestant and one companion allowed gates access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon., July 6 between 9 AM and 12 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Thurs., July 2 at 4 PM. All confirmed trades will be final and will be processed immediately once both involved parties have confirmed through PROCOM.BR - The total amount in the payoff includes a committee purse of $3,000 for 2026 plus $3,840 carried over from 2025 due to no qualified rides in the BR event at the 2025 rodeo in Wall per R5.5.3.1.QUALIFICATIONS: BB, SB, BR - 30 minimum entries. No compensation. No slack. STK CONT.: Muddy Creek Pro RodeoEOO: 6/29/2026 10:30:00 AMEC: 6/30/2026 10:30:00 AM"
     },
     {
-      "index": 154,
-      "tour": "BB HORIZON",
-      "summaryText": "BB HORIZON Wall SD July 10-11 Wall Celebration BB Horizon BB @ $1000",
-      "publishDate": "2026 June 12",
-      "location": "Wall SD",
-      "eventDates": "July 10-11",
-      "eventName": "Wall Celebration BB Horizon",
-      "fields": {
-        "tour": "BB HORIZON",
-        "arena": "Wall Arena",
-        "address": "917 Floyd St.",
-        "eventDateRange": {
-          "startDate": "2026-07-10",
-          "endDate": "2026-07-11"
-        },
-        "perfs": {
-          "perfsCount": 2,
-          "perfDates": [
-            "2026-07-10T19:00:00",
-            "2026-07-11T19:00:00"
-          ]
-        },
-        "slacks": {
-          "raw": null,
-          "isoDateTimes": []
-        },
-        "events": [
-          {
-            "event": "BB",
-            "addedMoney": 1000
-          }
-        ],
-        "entryFees": [],
-        "permits": "BB",
-        "groundRules": "All permit bareback riders entered in the Wall Celebration rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Wall rodeo will be used to determine the payoff for the Wall Horizon Permit Bareback Riding. The number of places paid, and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
-        "stockContractor": "Muddy Creek Pro Rodeo",
-        "subContractors": null,
-        "entriesOpen": null,
-        "entriesClose": null
-      },
-      "detailLines": [
-        "Wall SD",
-        "July 10-11",
-        "Wall Celebration BB Horizon",
-        "ARENA: Wall Arena",
-        "ADDRESS: 917 Floyd St.",
-        "PERFS: 2 Perfs: July 10- 7:00 PM; July 11- 7:00 PM",
-        "EVENTS: BB @ $1000",
-        "SPECIAL ENTRY FEES:",
-        "PERMITS: BB",
-        "GROUND RULES: All permit bareback riders entered in the Wall Celebration rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Wall rodeo will be used to determine the payoff for the Wall Horizon Permit Bareback Riding. The number of places paid, and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
-        "STK CONT.: Muddy Creek Pro Rodeo"
-      ],
-      "detailText": "Wall SD July 10-11 Wall Celebration BB Horizon ARENA: Wall Arena ADDRESS: 917 Floyd St. PERFS: 2 Perfs: July 10- 7:00 PM; July 11- 7:00 PMEVENTS: BB @ $1000 SPECIAL ENTRY FEES: PERMITS: BB GROUND RULES: All permit bareback riders entered in the Wall Celebration rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Wall rodeo will be used to determine the payoff for the Wall Horizon Permit Bareback Riding. The number of places paid, and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings. STK CONT.: Muddy Creek Pro Rodeo"
-    },
-    {
       "index": 155,
       "tour": "NPP",
-      "summaryText": "Cooperstown ND NPP July 11 Griggs County Fair & Rodeo BB SB BR TD SW @ $2000 TR-HD, TR-HL @ $2000 Pending",
+      "summaryText": "Cooperstown ND NPP July 11 Griggs County Fair & Rodeo BB SB BR TD SW @ $2000 TR-HD, TR-HL @ $2000",
       "publishDate": "2026 June 12",
       "location": "Cooperstown ND NPP",
       "eventDates": "July 11",
@@ -14243,10 +14242,9 @@
         "QUALIFICATIONS: BB, SB, BR - 18 minimum entries. No compensation. No slack.",
         "STK CONT.: Bailey Pro Rodeo",
         "EOO: 6/29/2026 11:30:00 AM",
-        "EC: 6/30/2026 11:30:00 AM",
-        "PENDING"
+        "EC: 6/30/2026 11:30:00 AM"
       ],
-      "detailText": "Cooperstown ND NPP July 11 Griggs County Fair & Rodeo ARENA: Griggs County Fair ADDRESS: 611 9th St. NE PERFS: 1 Perf: July 11- 6:30 PMSLACKS: July 11- 1:00 PM EVENTS: BB SB BR TD SW @ $2000 TR-HD, TR-HL @ $2000 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues., July 7 between 9 AM and 12 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Mon., July 6 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire one hour after entries close.QUALIFICATIONS: BB, SB, BR - 18 minimum entries. No compensation. No slack. STK CONT.: Bailey Pro RodeoEOO: 6/29/2026 11:30:00 AMEC: 6/30/2026 11:30:00 AMPENDING"
+      "detailText": "Cooperstown ND NPP July 11 Griggs County Fair & Rodeo ARENA: Griggs County Fair ADDRESS: 611 9th St. NE PERFS: 1 Perf: July 11- 6:30 PMSLACKS: July 11- 1:00 PM EVENTS: BB SB BR TD SW @ $2000 TR-HD, TR-HL @ $2000 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues., July 7 between 9 AM and 12 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Mon., July 6 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire one hour after entries close.QUALIFICATIONS: BB, SB, BR - 18 minimum entries. No compensation. No slack. STK CONT.: Bailey Pro RodeoEOO: 6/29/2026 11:30:00 AMEC: 6/30/2026 11:30:00 AM"
     },
     {
       "index": 156,
@@ -14906,12 +14904,12 @@
         "GROUND RULES: Click here for additional ground rules",
         "Entries will be confirmed by Circuit Presidents. Money above includes estimated committee purse, sponsor dollars and entry fees.",
         "FORMAT: Two go-rounds, back to back, performance to performance with a finals.",
-        "Complete NFR Open ground rules are located online under Member Services at www.prorodeo.org.",
+        "NOTE : ALL EVENTS - NFR Open ground rules can be found in PBJ by click on the red link above.",
         "STK CONT.: Various",
         "EOO: 6/9/2026 11:00:00 AM",
         "EC: 6/10/2026 11:00:00 AM"
       ],
-      "detailText": "Colorado Springs CO NPP July 14-18 NFR Open at the Pikes Peak or Bust Rodeo ARENA: Norris Penrose Event Ctr ADDRESS: 1045 Lower Gold Camp Rd PERFS: 7 Perfs: July 14- 7:30 PM; July 15- 7:30 PM; July 16- 7:30 PM; July 17- 12:30 PM; July 17- 7:30 PM; July 18- 12:30 PM; July 18- 7:30 PMEVENTS: BB SB BR TD SW @ $85300 TR-HD, TR-HL @ $85300 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TRFINALS: July 18- 7:30 PM BB SB BR TD SW TR GROUND RULES: Click here for additional ground rules Entries will be confirmed by Circuit Presidents. Money above includes estimated committee purse, sponsor dollars and entry fees.FORMAT: Two go-rounds, back to back, performance to performance with a finals. Complete NFR Open ground rules are located online under Member Services at www.prorodeo.org. STK CONT.: VariousEOO: 6/9/2026 11:00:00 AMEC: 6/10/2026 11:00:00 AM"
+      "detailText": "Colorado Springs CO NPP July 14-18 NFR Open at the Pikes Peak or Bust Rodeo ARENA: Norris Penrose Event Ctr ADDRESS: 1045 Lower Gold Camp Rd PERFS: 7 Perfs: July 14- 7:30 PM; July 15- 7:30 PM; July 16- 7:30 PM; July 17- 12:30 PM; July 17- 7:30 PM; July 18- 12:30 PM; July 18- 7:30 PMEVENTS: BB SB BR TD SW @ $85300 TR-HD, TR-HL @ $85300 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TRFINALS: July 18- 7:30 PM BB SB BR TD SW TR GROUND RULES: Click here for additional ground rules Entries will be confirmed by Circuit Presidents. Money above includes estimated committee purse, sponsor dollars and entry fees.FORMAT: Two go-rounds, back to back, performance to performance with a finals.NOTE : ALL EVENTS - NFR Open ground rules can be found in PBJ by click on the red link above. STK CONT.: VariousEOO: 6/9/2026 11:00:00 AMEC: 6/10/2026 11:00:00 AM"
     },
     {
       "index": 164,
@@ -15299,8 +15297,8 @@
         ],
         "permits": "BR",
         "groundRules": "ALL CONTESTANTS - The \"30 hour\" and \"walk-up replacement\" policies will be in effect. The check-in deadline for this event will be one hour prior to the performance.",
-        "stockContractor": "Sutton Rodeos",
-        "subContractors": "Various",
+        "stockContractor": "Various",
+        "subContractors": "Rafter G Rodeo, Sutton Rodeos",
         "entriesOpen": "2026-07-01T13:00:00",
         "entriesClose": "2026-07-02T13:00:00"
       },
@@ -15319,12 +15317,12 @@
         "COMPETITION FORMAT - 34 minimum entries. May be two go-rounds, back to back, same performance, depending on the number of entries. If two go-rounds, the number of entries accepted during the re-entry period will not exceed one half the original limit.",
         "QUALIFICATIONS: 70% top money, 30% top circuit. No exemptions. A contestant will not be accepted as an entry at an X-Bulls Event if he is already placed in a position at another PRCA rodeo or event on the same day as the X-Bulls Event.",
         "NOTE: For additional ground rules see \"Xbulls with no Finals\" ground rules in Rodeo Entry Information section of the business journal. EF's: $250, plus $35 Central Entry Office/Supplemental Insurance Fee.",
-        "STK CONT.: Sutton Rodeos",
-        "SUB. CONT.: Various",
+        "STK CONT.: Various",
+        "SUB. CONT.: Rafter G Rodeo, Sutton Rodeos",
         "EOO: 7/1/2026 1:00:00 PM",
         "EC: 7/2/2026 1:00:00 PM"
       ],
-      "detailText": "Mitchell SD NPP July 16 MPHI Xtreme Bulls ARENA: Arena at Stampede Park ADDRESS: 6320 N. Ohlman St. PERFS: 1 Perf: July 16- 8:00 PMEVENTS: BR @ $20000 SPECIAL ENTRY FEES: BR-$250 PERMITS: BR GROUND RULES: ALL CONTESTANTS - The \"30 hour\" and \"walk-up replacement\" policies will be in effect. The check-in deadline for this event will be one hour prior to the performance.ALL CONTESTANTS - Re-entries will be accepted for available positions on Fri., July 10 between 9 AM and 11 AM. See Rodeo Entry Information page of the business journal.COMPETITION FORMAT - 34 minimum entries. May be two go-rounds, back to back, same performance, depending on the number of entries. If two go-rounds, the number of entries accepted during the re-entry period will not exceed one half the original limit.QUALIFICATIONS: 70% top money, 30% top circuit. No exemptions. A contestant will not be accepted as an entry at an X-Bulls Event if he is already placed in a position at another PRCA rodeo or event on the same day as the X-Bulls Event.NOTE: For additional ground rules see \"Xbulls with no Finals\" ground rules in Rodeo Entry Information section of the business journal. EF's: $250, plus $35 Central Entry Office/Supplemental Insurance Fee. STK CONT.: Sutton RodeosSUB. CONT.: VariousEOO: 7/1/2026 1:00:00 PMEC: 7/2/2026 1:00:00 PM"
+      "detailText": "Mitchell SD NPP July 16 MPHI Xtreme Bulls ARENA: Arena at Stampede Park ADDRESS: 6320 N. Ohlman St. PERFS: 1 Perf: July 16- 8:00 PMEVENTS: BR @ $20000 SPECIAL ENTRY FEES: BR-$250 PERMITS: BR GROUND RULES: ALL CONTESTANTS - The \"30 hour\" and \"walk-up replacement\" policies will be in effect. The check-in deadline for this event will be one hour prior to the performance.ALL CONTESTANTS - Re-entries will be accepted for available positions on Fri., July 10 between 9 AM and 11 AM. See Rodeo Entry Information page of the business journal.COMPETITION FORMAT - 34 minimum entries. May be two go-rounds, back to back, same performance, depending on the number of entries. If two go-rounds, the number of entries accepted during the re-entry period will not exceed one half the original limit.QUALIFICATIONS: 70% top money, 30% top circuit. No exemptions. A contestant will not be accepted as an entry at an X-Bulls Event if he is already placed in a position at another PRCA rodeo or event on the same day as the X-Bulls Event.NOTE: For additional ground rules see \"Xbulls with no Finals\" ground rules in Rodeo Entry Information section of the business journal. EF's: $250, plus $35 Central Entry Office/Supplemental Insurance Fee. STK CONT.: VariousSUB. CONT.: Rafter G Rodeo, Sutton RodeosEOO: 7/1/2026 1:00:00 PMEC: 7/2/2026 1:00:00 PM"
     },
     {
       "index": 169,
@@ -15534,63 +15532,6 @@
     },
     {
       "index": 171,
-      "tour": "BB HORIZON",
-      "summaryText": "BB HORIZON Burke SD July 17-19 Burke Stampede Rodeo Horizon Permit BB BB @ $1000",
-      "publishDate": "2026 June 12",
-      "location": "Burke SD",
-      "eventDates": "July 17-19",
-      "eventName": "Burke Stampede Rodeo Horizon Permit BB",
-      "fields": {
-        "tour": "BB HORIZON",
-        "arena": "Burke Rodeo Arena",
-        "address": "US Hwy 18",
-        "eventDateRange": {
-          "startDate": "2026-07-17",
-          "endDate": "2026-07-19"
-        },
-        "perfs": {
-          "perfsCount": 3,
-          "perfDates": [
-            "2026-07-17T19:30:00",
-            "2026-07-18T19:30:00",
-            "2026-07-19T19:30:00"
-          ]
-        },
-        "slacks": {
-          "raw": null,
-          "isoDateTimes": []
-        },
-        "events": [
-          {
-            "event": "BB",
-            "addedMoney": 1000
-          }
-        ],
-        "entryFees": [],
-        "permits": "BB",
-        "groundRules": "All permit bareback riders entered in the Burke rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Burke rodeo will be used to determine the payoff for the Burke Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
-        "stockContractor": "Various",
-        "subContractors": null,
-        "entriesOpen": null,
-        "entriesClose": null
-      },
-      "detailLines": [
-        "Burke SD",
-        "July 17-19",
-        "Burke Stampede Rodeo Horizon Permit BB",
-        "ARENA: Burke Rodeo Arena",
-        "ADDRESS: US Hwy 18",
-        "PERFS: 3 Perfs: July 17- 7:30 PM; July 18- 7:30 PM; July 19- 7:30 PM",
-        "EVENTS: BB @ $1000",
-        "SPECIAL ENTRY FEES:",
-        "PERMITS: BB",
-        "GROUND RULES: All permit bareback riders entered in the Burke rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Burke rodeo will be used to determine the payoff for the Burke Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
-        "STK CONT.: Various"
-      ],
-      "detailText": "Burke SD July 17-19 Burke Stampede Rodeo Horizon Permit BB ARENA: Burke Rodeo Arena ADDRESS: US Hwy 18 PERFS: 3 Perfs: July 17- 7:30 PM; July 18- 7:30 PM; July 19- 7:30 PMEVENTS: BB @ $1000 SPECIAL ENTRY FEES: PERMITS: BB GROUND RULES: All permit bareback riders entered in the Burke rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Burke rodeo will be used to determine the payoff for the Burke Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings. STK CONT.: Various"
-    },
-    {
-      "index": 172,
       "tour": null,
       "summaryText": "Burke SD July 17-19 Burke Stampede Rodeo BB SB BR @ $6000 TD SW @ $3000 TR-HD, TR-HL @ $3000",
       "publishDate": "2026 June 12",
@@ -15679,9 +15620,66 @@
       "detailText": "Burke SD July 17-19 Burke Stampede Rodeo ARENA: Burke Rodeo Arena ADDRESS: US Hwy 18 PERFS: 3 Perfs: July 17- 7:30 PM; July 18- 7:30 PM; July 19- 7:30 PMEVENTS: BB SB BR @ $6000 TD SW @ $3000 TR-HD, TR-HL @ $3000 SPECIAL ENTRY FEES: PERMITS: BB SB BR; CIR - TD SW TR GROUND RULES: CO-APPROVED WITH GREAT LAKES AND PRAIRIE CIRCUITS. ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted on Mon., July 13 between 9 AM and 12 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Fri., July 10 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.QUALIFICATIONS - BB, SB - 36 minimum entries. No compensation. No slack.BR - 45 minimum entries. No compensation. No slack. STK CONT.: Muddy Creek Pro RodeoEOO: 7/1/2026 10:30:00 AMEC: 7/2/2026 10:30:00 AM"
     },
     {
+      "index": 172,
+      "tour": "BB HORIZON",
+      "summaryText": "BB HORIZON Burke SD July 17-19 Burke Stampede Rodeo Horizon Permit BB BB @ $1000",
+      "publishDate": "2026 June 12",
+      "location": "Burke SD",
+      "eventDates": "July 17-19",
+      "eventName": "Burke Stampede Rodeo Horizon Permit BB",
+      "fields": {
+        "tour": "BB HORIZON",
+        "arena": "Burke Rodeo Arena",
+        "address": "US Hwy 18",
+        "eventDateRange": {
+          "startDate": "2026-07-17",
+          "endDate": "2026-07-19"
+        },
+        "perfs": {
+          "perfsCount": 3,
+          "perfDates": [
+            "2026-07-17T19:30:00",
+            "2026-07-18T19:30:00",
+            "2026-07-19T19:30:00"
+          ]
+        },
+        "slacks": {
+          "raw": null,
+          "isoDateTimes": []
+        },
+        "events": [
+          {
+            "event": "BB",
+            "addedMoney": 1000
+          }
+        ],
+        "entryFees": [],
+        "permits": "BB",
+        "groundRules": "All permit bareback riders entered in the Burke rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Burke rodeo will be used to determine the payoff for the Burke Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
+        "stockContractor": "Various",
+        "subContractors": null,
+        "entriesOpen": null,
+        "entriesClose": null
+      },
+      "detailLines": [
+        "Burke SD",
+        "July 17-19",
+        "Burke Stampede Rodeo Horizon Permit BB",
+        "ARENA: Burke Rodeo Arena",
+        "ADDRESS: US Hwy 18",
+        "PERFS: 3 Perfs: July 17- 7:30 PM; July 18- 7:30 PM; July 19- 7:30 PM",
+        "EVENTS: BB @ $1000",
+        "SPECIAL ENTRY FEES:",
+        "PERMITS: BB",
+        "GROUND RULES: All permit bareback riders entered in the Burke rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Burke rodeo will be used to determine the payoff for the Burke Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
+        "STK CONT.: Various"
+      ],
+      "detailText": "Burke SD July 17-19 Burke Stampede Rodeo Horizon Permit BB ARENA: Burke Rodeo Arena ADDRESS: US Hwy 18 PERFS: 3 Perfs: July 17- 7:30 PM; July 18- 7:30 PM; July 19- 7:30 PMEVENTS: BB @ $1000 SPECIAL ENTRY FEES: PERMITS: BB GROUND RULES: All permit bareback riders entered in the Burke rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Burke rodeo will be used to determine the payoff for the Burke Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings. STK CONT.: Various"
+    },
+    {
       "index": 173,
       "tour": null,
-      "summaryText": "Chelan WA July 17-18 Lake Chelan Pro Rodeo BB SB BR TD SW @ $2000 TR-HD, TR-HL @ $2000 Pending",
+      "summaryText": "Chelan WA July 17-18 Lake Chelan Pro Rodeo BB SB BR TD SW @ $2000 TR-HD, TR-HL @ $2000",
       "publishDate": "2026 June 12",
       "location": "Chelan WA",
       "eventDates": "July 17-18",
@@ -15764,13 +15762,93 @@
         "TE - If a timed event animal escapes during a performance or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd.",
         "STK CONT.: Aces Wild Pro Rodeo",
         "EOO: 7/7/2026 11:00:00 AM",
-        "EC: 7/8/2026 11:00:00 AM",
-        "PENDING"
+        "EC: 7/8/2026 11:00:00 AM"
       ],
-      "detailText": "Chelan WA July 17-18 Lake Chelan Pro Rodeo ARENA: Chelan Rustlers ADDRESS: 1099 Bradley Street PERFS: 2 Perfs: July 17- 7:30 PM; July 18- 7:30 PMEVENTS: BB SB BR TD SW @ $2000 TR-HD, TR-HL @ $2000 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: CO-APPROVED WITH THE MAPLE LEAF CIRCUIT. Only actual contestant and one companion allowed gate access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon. July 13 between 9 AM and 1 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Fri., July 10 at 4 PM. All confirmed trades will be final and processed immediately after both involved parties have confirmed through PROCOM.RE - Back to back same performance if two go-rounds B10.2.7.GB - Approved for first slack event in accordance with R4.9.4.TE - If a timed event animal escapes during a performance or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd. STK CONT.: Aces Wild Pro RodeoEOO: 7/7/2026 11:00:00 AMEC: 7/8/2026 11:00:00 AMPENDING"
+      "detailText": "Chelan WA July 17-18 Lake Chelan Pro Rodeo ARENA: Chelan Rustlers ADDRESS: 1099 Bradley Street PERFS: 2 Perfs: July 17- 7:30 PM; July 18- 7:30 PMEVENTS: BB SB BR TD SW @ $2000 TR-HD, TR-HL @ $2000 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: CO-APPROVED WITH THE MAPLE LEAF CIRCUIT. Only actual contestant and one companion allowed gate access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon. July 13 between 9 AM and 1 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Fri., July 10 at 4 PM. All confirmed trades will be final and processed immediately after both involved parties have confirmed through PROCOM.RE - Back to back same performance if two go-rounds B10.2.7.GB - Approved for first slack event in accordance with R4.9.4.TE - If a timed event animal escapes during a performance or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd. STK CONT.: Aces Wild Pro RodeoEOO: 7/7/2026 11:00:00 AMEC: 7/8/2026 11:00:00 AM"
     },
     {
       "index": 174,
+      "tour": "Permit Section",
+      "summaryText": "Permit Section Cheyenne WY July 17-25 Cheyenne Frontier Days Rookie Saddle Bronc SB @ $10000 Special Entry Fees: SB-$150 Finals: July 25- 12:45 PM SB",
+      "publishDate": "2026 June 12",
+      "location": "Cheyenne WY",
+      "eventDates": "July 17-25",
+      "eventName": "Cheyenne Frontier Days Rookie Saddle Bronc",
+      "fields": {
+        "tour": "Permit Section",
+        "arena": "Frontier Park",
+        "address": "1230 West 8th Ave",
+        "eventDateRange": {
+          "startDate": "2026-07-17",
+          "endDate": "2026-07-25"
+        },
+        "perfs": {
+          "perfsCount": 9,
+          "perfDates": [
+            "2026-07-17T12:45:00",
+            "2026-07-18T12:45:00",
+            "2026-07-19T12:00:00",
+            "2026-07-20T12:45:00",
+            "2026-07-21T12:45:00",
+            "2026-07-22T12:45:00",
+            "2026-07-23T12:45:00",
+            "2026-07-24T12:45:00",
+            "2026-07-25T12:45:00"
+          ]
+        },
+        "slacks": {
+          "raw": null,
+          "isoDateTimes": []
+        },
+        "events": [
+          {
+            "event": "SB",
+            "addedMoney": 10000
+          }
+        ],
+        "entryFees": [
+          {
+            "event": "SB",
+            "fees": "$150"
+          }
+        ],
+        "permits": "SB",
+        "groundRules": "Permits only.",
+        "stockContractor": "Smith Pro Rodeos",
+        "subContractors": null,
+        "entriesOpen": "2026-06-26T11:00:00",
+        "entriesClose": "2026-06-29T11:00:00"
+      },
+      "detailLines": [
+        "Cheyenne WY",
+        "July 17-25",
+        "Cheyenne Frontier Days Rookie Saddle Bronc",
+        "ARENA: Frontier Park",
+        "ADDRESS: 1230 West 8th Ave",
+        "PERFS: 9 Perfs: July 17- 12:45 PM; July 18- 12:45 PM; July 19- 12:00 PM; July 20- 12:45 PM; July 21- 12:45 PM; July 22- 12:45 PM; July 23- 12:45 PM; July 24- 12:45 PM; July 25- 12:45 PM",
+        "EVENTS: SB @ $10000",
+        "SPECIAL ENTRY FEES: SB-$150",
+        "PERMITS: SB",
+        "FINALS: July 25- 12:45 PM SB",
+        "GROUND RULES: Permits only.",
+        "ALL EVENTS - The \"30-hour replacement\" policy will be in effect. The order that alternates are accepted will be based on money won first, then followed by random draw of entries with no money won.",
+        "ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.",
+        "ALL CONTESTANTS - Re-entries will be accepted for available positions on Fri., July 10 between 9 AM and 11 AM. See Rodeo Entry Information page of the business journal.",
+        "TRADE DEADLINE - Thurs., July 9 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.",
+        "QUALIFICATIONS: 40 minimum entries. No compensation. Only permits accepted based on money won (as of 7 days prior to entry closing). Two go-rounds, back to back, perf to perf.",
+        "FORMAT: Two go-rounds. Back to back. Perf to perf. With a top 10 finals. $3,000 held out for the finals.",
+        "SB CONTESTANTS - If a contestant is already entered in the SB event at the Cheyenne Frontier Days Rodeo, he will not be accepted as an entry for the Cheyenne Frontier Days Rookie Bronc Event.",
+        "ALL CONTESTANTS - If a contestant's first go-round needs to be moved due to qualifying for the finals at another PRCA rodeo, he will be moved to the next performance and will compete during the first SB section that day. He will compete on his second go-round animal during the same performance during the Rookie SB event as originally scheduled. If a contestant needs to be moved for his second go-round competition due to qualifying for a finals, he will be moved to the next performance and will compete during the Rookie SB event.",
+        "Stock will be provided first by invited PRCA stock contractors and subsequently filled by non PRCA contractors. PRCA stock contractors will be given the first right of refusal.",
+        "Stock contractor will be allowed to set five horses that will be drawn for contestants, and designate a re-ride that will be used if a re-ride is awarded on one of his animals in that performance.",
+        "STK CONT.: Smith Pro Rodeos",
+        "EOO: 6/26/2026 11:00:00 AM",
+        "EC: 6/29/2026 11:00:00 AM"
+      ],
+      "detailText": "Cheyenne WY July 17-25 Cheyenne Frontier Days Rookie Saddle Bronc ARENA: Frontier Park ADDRESS: 1230 West 8th Ave PERFS: 9 Perfs: July 17- 12:45 PM; July 18- 12:45 PM; July 19- 12:00 PM; July 20- 12:45 PM; July 21- 12:45 PM; July 22- 12:45 PM; July 23- 12:45 PM; July 24- 12:45 PM; July 25- 12:45 PMEVENTS: SB @ $10000 SPECIAL ENTRY FEES: SB-$150 PERMITS: SBFINALS: July 25- 12:45 PM SB GROUND RULES: Permits only.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. The order that alternates are accepted will be based on money won first, then followed by random draw of entries with no money won.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.ALL CONTESTANTS - Re-entries will be accepted for available positions on Fri., July 10 between 9 AM and 11 AM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Thurs., July 9 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.QUALIFICATIONS: 40 minimum entries. No compensation. Only permits accepted based on money won (as of 7 days prior to entry closing). Two go-rounds, back to back, perf to perf.FORMAT: Two go-rounds. Back to back. Perf to perf. With a top 10 finals. $3,000 held out for the finals.SB CONTESTANTS - If a contestant is already entered in the SB event at the Cheyenne Frontier Days Rodeo, he will not be accepted as an entry for the Cheyenne Frontier Days Rookie Bronc Event.ALL CONTESTANTS - If a contestant's first go-round needs to be moved due to qualifying for the finals at another PRCA rodeo, he will be moved to the next performance and will compete during the first SB section that day. He will compete on his second go-round animal during the same performance during the Rookie SB event as originally scheduled. If a contestant needs to be moved for his second go-round competition due to qualifying for a finals, he will be moved to the next performance and will compete during the Rookie SB event. Stock will be provided first by invited PRCA stock contractors and subsequently filled by non PRCA contractors. PRCA stock contractors will be given the first right of refusal. Stock contractor will be allowed to set five horses that will be drawn for contestants, and designate a re-ride that will be used if a re-ride is awarded on one of his animals in that performance. STK CONT.: Smith Pro RodeosEOO: 6/26/2026 11:00:00 AMEC: 6/29/2026 11:00:00 AM"
+    },
+    {
+      "index": 175,
       "tour": "PLAYOFF SERIES",
       "summaryText": "PLAYOFF SERIES Cheyenne WY July 17-26 Cheyenne Frontier Days BB SB BR TD SW @ $100000 TR-HD, TR-HL @ $100000 SR @ $60000 Special Entry Fees: BB-$250; SB-$250; BR-$250+$100.00 DM; TD-$250; SW-$250; TR-$250; SR-$600 Finals: July 26- 12:45 PM BB SB BR TD SW TR",
       "publishDate": "2026 June 12",
@@ -15900,93 +15978,12 @@
         "BR - 60 minimum entries. No compensation. No slack.",
         "TD, SW, TR - 78 minimum entries.",
         "SR - 125 minimum entries.",
-        "ALL EVENTS - For qualifications, format, and other details can be found by click on the red link above.",
+        "NOTE - For qualifications, format, and other details can be found in PBJ by click on the red link above.",
         "STK CONT.: Smith Pro Rodeos",
         "EOO: 6/15/2026 10:00:00 AM",
         "EC: 6/18/2026 10:00:00 AM"
       ],
-      "detailText": "Cheyenne WY July 17-26 Cheyenne Frontier Days ARENA: Frontier Park ADDRESS: 1230 West 8th Ave PERFS: 10 Perfs: July 17- 12:45 PM; July 18- 12:45 PM; July 19- 12:45 PM; July 20- 12:45 PM; July 21- 12:45 PM; July 22- 12:45 PM; July 23- 12:45 PM; July 24- 12:45 PM; July 25- 12:45 PM; July 26- 12:45 PMSLACKS: July 9- 7:00 AM SREVENTS: BB SB BR TD SW @ $100000 TR-HD, TR-HL @ $100000 SR @ $60000 SPECIAL ENTRY FEES: BB-$250; SB-$250; BR-$250+$100.00 DM; TD-$250; SW-$250; TR-$250; SR-$600 PERMITS: BB SB BR TD SW TRFINALS: July 26- 12:45 PM BB SB BR TD SW TR GROUND RULES: Click here for additional ground rules Only entered contestants and one companion allowed with contestant number and CFD issued companion pass. Said companion pass will be issued on request by contestant at check-in. PRCA gold card holders can obtain a CFD issued companion pass for gate access at the Contestants Office.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.RIDING EVENT TRADE DEADLINE: All first go-round trades for the BB, SB, and BR will be made through PROCOM prior to 4 PM on Thurs., July 9 at 4 PM.TIMED EVENT TRADE DEADLINE: First go-round trade deadline will be Thurs., July 9 at 4 PM.EXTENDED GRACE PERIOD - There will be an extended grace period on Fri., June 19 between 9 AM and 1 PM to change preferences, buddy groups, and partners in the team roping. Contestants will not be allowed to draw out during the extended grace period.ALL EVENTS - Money won at this rodeo will not count towards Circuit Standings, nor will the rodeo be applied to a contestants required Circuit participation count.QUALIFICATIONS: BB, SB - 72 minimum entries. No compensation. No slack.BR - 60 minimum entries. No compensation. No slack.TD, SW, TR - 78 minimum entries.SR - 125 minimum entries.ALL EVENTS - For qualifications, format, and other details can be found by click on the red link above. STK CONT.: Smith Pro RodeosEOO: 6/15/2026 10:00:00 AMEC: 6/18/2026 10:00:00 AM"
-    },
-    {
-      "index": 175,
-      "tour": "Permit Section",
-      "summaryText": "Permit Section Cheyenne WY July 17-25 Cheyenne Frontier Days Rookie Saddle Bronc SB @ $10000 Special Entry Fees: SB-$150 Finals: July 25- 12:45 PM SB",
-      "publishDate": "2026 June 12",
-      "location": "Cheyenne WY",
-      "eventDates": "July 17-25",
-      "eventName": "Cheyenne Frontier Days Rookie Saddle Bronc",
-      "fields": {
-        "tour": "Permit Section",
-        "arena": "Frontier Park",
-        "address": "1230 West 8th Ave",
-        "eventDateRange": {
-          "startDate": "2026-07-17",
-          "endDate": "2026-07-25"
-        },
-        "perfs": {
-          "perfsCount": 9,
-          "perfDates": [
-            "2026-07-17T12:45:00",
-            "2026-07-18T12:45:00",
-            "2026-07-19T12:00:00",
-            "2026-07-20T12:45:00",
-            "2026-07-21T12:45:00",
-            "2026-07-22T12:45:00",
-            "2026-07-23T12:45:00",
-            "2026-07-24T12:45:00",
-            "2026-07-25T12:45:00"
-          ]
-        },
-        "slacks": {
-          "raw": null,
-          "isoDateTimes": []
-        },
-        "events": [
-          {
-            "event": "SB",
-            "addedMoney": 10000
-          }
-        ],
-        "entryFees": [
-          {
-            "event": "SB",
-            "fees": "$150"
-          }
-        ],
-        "permits": "SB",
-        "groundRules": "Permits only.",
-        "stockContractor": "Smith Pro Rodeos",
-        "subContractors": null,
-        "entriesOpen": "2026-06-26T11:00:00",
-        "entriesClose": "2026-06-29T11:00:00"
-      },
-      "detailLines": [
-        "Cheyenne WY",
-        "July 17-25",
-        "Cheyenne Frontier Days Rookie Saddle Bronc",
-        "ARENA: Frontier Park",
-        "ADDRESS: 1230 West 8th Ave",
-        "PERFS: 9 Perfs: July 17- 12:45 PM; July 18- 12:45 PM; July 19- 12:00 PM; July 20- 12:45 PM; July 21- 12:45 PM; July 22- 12:45 PM; July 23- 12:45 PM; July 24- 12:45 PM; July 25- 12:45 PM",
-        "EVENTS: SB @ $10000",
-        "SPECIAL ENTRY FEES: SB-$150",
-        "PERMITS: SB",
-        "FINALS: July 25- 12:45 PM SB",
-        "GROUND RULES: Permits only.",
-        "ALL EVENTS - The \"30-hour replacement\" policy will be in effect. The order that alternates are accepted will be based on money won first, then followed by random draw of entries with no money won.",
-        "ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.",
-        "ALL CONTESTANTS - Re-entries will be accepted for available positions on Fri., July 10 between 9 AM and 11 AM. See Rodeo Entry Information page of the business journal.",
-        "TRADE DEADLINE - Thurs., July 9 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.",
-        "QUALIFICATIONS: 40 minimum entries. No compensation. Only permits accepted based on money won (as of 7 days prior to entry closing). Two go-rounds, back to back, perf to perf.",
-        "FORMAT: Two go-rounds. Back to back. Perf to perf. With a top 10 finals. $3,000 held out for the finals.",
-        "SB CONTESTANTS - If a contestant is already entered in the SB event at the Cheyenne Frontier Days Rodeo, he will not be accepted as an entry for the Cheyenne Frontier Days Rookie Bronc Event.",
-        "ALL CONTESTANTS - If a contestant's first go-round needs to be moved due to qualifying for the finals at another PRCA rodeo, he will be moved to the next performance and will compete during the first SB section that day. He will compete on his second go-round animal during the same performance during the Rookie SB event as originally scheduled. If a contestant needs to be moved for his second go-round competition due to qualifying for a finals, he will be moved to the next performance and will compete during the Rookie SB event.",
-        "Stock will be provided first by invited PRCA stock contractors and subsequently filled by non PRCA contractors. PRCA stock contractors will be given the first right of refusal.",
-        "Stock contractor will be allowed to set five horses that will be drawn for contestants, and designate a re-ride that will be used if a re-ride is awarded on one of his animals in that performance.",
-        "STK CONT.: Smith Pro Rodeos",
-        "EOO: 6/26/2026 11:00:00 AM",
-        "EC: 6/29/2026 11:00:00 AM"
-      ],
-      "detailText": "Cheyenne WY July 17-25 Cheyenne Frontier Days Rookie Saddle Bronc ARENA: Frontier Park ADDRESS: 1230 West 8th Ave PERFS: 9 Perfs: July 17- 12:45 PM; July 18- 12:45 PM; July 19- 12:00 PM; July 20- 12:45 PM; July 21- 12:45 PM; July 22- 12:45 PM; July 23- 12:45 PM; July 24- 12:45 PM; July 25- 12:45 PMEVENTS: SB @ $10000 SPECIAL ENTRY FEES: SB-$150 PERMITS: SBFINALS: July 25- 12:45 PM SB GROUND RULES: Permits only.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. The order that alternates are accepted will be based on money won first, then followed by random draw of entries with no money won.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.ALL CONTESTANTS - Re-entries will be accepted for available positions on Fri., July 10 between 9 AM and 11 AM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Thurs., July 9 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.QUALIFICATIONS: 40 minimum entries. No compensation. Only permits accepted based on money won (as of 7 days prior to entry closing). Two go-rounds, back to back, perf to perf.FORMAT: Two go-rounds. Back to back. Perf to perf. With a top 10 finals. $3,000 held out for the finals.SB CONTESTANTS - If a contestant is already entered in the SB event at the Cheyenne Frontier Days Rodeo, he will not be accepted as an entry for the Cheyenne Frontier Days Rookie Bronc Event.ALL CONTESTANTS - If a contestant's first go-round needs to be moved due to qualifying for the finals at another PRCA rodeo, he will be moved to the next performance and will compete during the first SB section that day. He will compete on his second go-round animal during the same performance during the Rookie SB event as originally scheduled. If a contestant needs to be moved for his second go-round competition due to qualifying for a finals, he will be moved to the next performance and will compete during the Rookie SB event. Stock will be provided first by invited PRCA stock contractors and subsequently filled by non PRCA contractors. PRCA stock contractors will be given the first right of refusal. Stock contractor will be allowed to set five horses that will be drawn for contestants, and designate a re-ride that will be used if a re-ride is awarded on one of his animals in that performance. STK CONT.: Smith Pro RodeosEOO: 6/26/2026 11:00:00 AMEC: 6/29/2026 11:00:00 AM"
+      "detailText": "Cheyenne WY July 17-26 Cheyenne Frontier Days ARENA: Frontier Park ADDRESS: 1230 West 8th Ave PERFS: 10 Perfs: July 17- 12:45 PM; July 18- 12:45 PM; July 19- 12:45 PM; July 20- 12:45 PM; July 21- 12:45 PM; July 22- 12:45 PM; July 23- 12:45 PM; July 24- 12:45 PM; July 25- 12:45 PM; July 26- 12:45 PMSLACKS: July 9- 7:00 AM SREVENTS: BB SB BR TD SW @ $100000 TR-HD, TR-HL @ $100000 SR @ $60000 SPECIAL ENTRY FEES: BB-$250; SB-$250; BR-$250+$100.00 DM; TD-$250; SW-$250; TR-$250; SR-$600 PERMITS: BB SB BR TD SW TRFINALS: July 26- 12:45 PM BB SB BR TD SW TR GROUND RULES: Click here for additional ground rules Only entered contestants and one companion allowed with contestant number and CFD issued companion pass. Said companion pass will be issued on request by contestant at check-in. PRCA gold card holders can obtain a CFD issued companion pass for gate access at the Contestants Office.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.RIDING EVENT TRADE DEADLINE: All first go-round trades for the BB, SB, and BR will be made through PROCOM prior to 4 PM on Thurs., July 9 at 4 PM.TIMED EVENT TRADE DEADLINE: First go-round trade deadline will be Thurs., July 9 at 4 PM.EXTENDED GRACE PERIOD - There will be an extended grace period on Fri., June 19 between 9 AM and 1 PM to change preferences, buddy groups, and partners in the team roping. Contestants will not be allowed to draw out during the extended grace period.ALL EVENTS - Money won at this rodeo will not count towards Circuit Standings, nor will the rodeo be applied to a contestants required Circuit participation count.QUALIFICATIONS: BB, SB - 72 minimum entries. No compensation. No slack.BR - 60 minimum entries. No compensation. No slack.TD, SW, TR - 78 minimum entries.SR - 125 minimum entries.NOTE - For qualifications, format, and other details can be found in PBJ by click on the red link above. STK CONT.: Smith Pro RodeosEOO: 6/15/2026 10:00:00 AMEC: 6/18/2026 10:00:00 AM"
     },
     {
       "index": 176,
@@ -16052,7 +16049,7 @@
         "permits": "BB SB BR TD SW TR",
         "groundRules": "CO-APPROVED WITH PRAIRIE AND GREAT LAKES CIRCUITS.",
         "stockContractor": "Sutton Rodeos",
-        "subContractors": null,
+        "subContractors": "Harper & Morgan Rodeo Co",
         "entriesOpen": "2026-06-24T10:30:00",
         "entriesClose": "2026-06-26T10:30:00"
       },
@@ -16075,10 +16072,11 @@
         "BB & SB - Back to back same performance if two go-rounds B10.2.7.",
         "QUALIFICATIONS: BB, SB, BR - 45 minimum entries. No compensation. No slack.",
         "STK CONT.: Sutton Rodeos",
+        "SUB. CONT.: Harper & Morgan Rodeo Co",
         "EOO: 6/24/2026 10:30:00 AM",
         "EC: 6/26/2026 10:30:00 AM"
       ],
-      "detailText": "Mitchell SD July 17-19 Corn Palace Stampede Rodeo ARENA: Arena at Stampede Park ADDRESS: 6320 N. Ohlman St. PERFS: 3 Perfs: July 17- 8:00 PM; July 18- 8:00 PM; July 19- 8:00 PMSLACKS: July 17- 8:00 AM EVENTS: BB SB BR TD SW @ $6500 TR-HD, TR-HL @ $4500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: CO-APPROVED WITH PRAIRIE AND GREAT LAKES CIRCUITS.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon., July 13 between 9 AM and 11:30 AM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Fri., July 10 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.BB & SB - Back to back same performance if two go-rounds B10.2.7.QUALIFICATIONS: BB, SB, BR - 45 minimum entries. No compensation. No slack. STK CONT.: Sutton RodeosEOO: 6/24/2026 10:30:00 AMEC: 6/26/2026 10:30:00 AM"
+      "detailText": "Mitchell SD July 17-19 Corn Palace Stampede Rodeo ARENA: Arena at Stampede Park ADDRESS: 6320 N. Ohlman St. PERFS: 3 Perfs: July 17- 8:00 PM; July 18- 8:00 PM; July 19- 8:00 PMSLACKS: July 17- 8:00 AM EVENTS: BB SB BR TD SW @ $6500 TR-HD, TR-HL @ $4500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: CO-APPROVED WITH PRAIRIE AND GREAT LAKES CIRCUITS.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon., July 13 between 9 AM and 11:30 AM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Fri., July 10 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.BB & SB - Back to back same performance if two go-rounds B10.2.7.QUALIFICATIONS: BB, SB, BR - 45 minimum entries. No compensation. No slack. STK CONT.: Sutton RodeosSUB. CONT.: Harper & Morgan Rodeo Co EOO: 6/24/2026 10:30:00 AMEC: 6/26/2026 10:30:00 AM"
     },
     {
       "index": 177,
