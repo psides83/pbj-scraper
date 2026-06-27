@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-06-20T11:30:31.167Z",
+  "scrapedAt": "2026-06-27T11:32:38.803Z",
   "source": "https://pbj.prorodeo.org/longlistings",
   "attemptedCount": 180,
   "listingCount": 180,
@@ -6500,7 +6500,7 @@
     {
       "index": 70,
       "tour": "Permit Section",
-      "summaryText": "Permit Section Steamboat Springs CO June 26-27 Steamboat Springs Pro Rodeo Series BR @ $2000",
+      "summaryText": "Permit Section Steamboat Springs CO June 26-27 Steamboat Springs Pro Rodeo Series BR @ $7300",
       "publishDate": "2026 June 12",
       "location": "Steamboat Springs CO",
       "eventDates": "June 26-27",
@@ -6527,7 +6527,7 @@
         "events": [
           {
             "event": "BR",
-            "addedMoney": 2000
+            "addedMoney": 7300
           }
         ],
         "entryFees": [],
@@ -6545,7 +6545,7 @@
         "ARENA: Brent Romick Arena",
         "ADDRESS: 401 Howelsen Parkway",
         "PERFS: 2 Perfs: June 26- 7:30 PM; June 27- 7:30 PM",
-        "EVENTS: BR @ $2000",
+        "EVENTS: BR @ $7300",
         "SPECIAL ENTRY FEES:",
         "PERMITS: BR",
         "GROUND RULES: CO-APPROVED WITH WILDERNESS CIRCUIT.",
@@ -6559,7 +6559,7 @@
         "EOO: 6/19/2026 12:00:00 PM",
         "EC: 6/22/2026 12:00:00 PM"
       ],
-      "detailText": "Steamboat Springs CO June 26-27 Steamboat Springs Pro Rodeo Series ARENA: Brent Romick Arena ADDRESS: 401 Howelsen Parkway PERFS: 2 Perfs: June 26- 7:30 PM; June 27- 7:30 PMEVENTS: BR @ $2000 SPECIAL ENTRY FEES: PERMITS: BR GROUND RULES: CO-APPROVED WITH WILDERNESS CIRCUIT. ALL CONTESTANTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL CONTESTANTS - Re-entries will be accepted for available positions on Tues., June 23 between 9 AM and 1 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Tues., June 23 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS - Back numbers must be worn.BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides R5.5.3.1.QUALIFICATIONS: BR - 30 minimum entries. No compensation. No slack. Permit members may enter both the rodeo and the permit section. STK CONT.: Generations Pro RodeoEOO: 6/19/2026 12:00:00 PMEC: 6/22/2026 12:00:00 PM"
+      "detailText": "Steamboat Springs CO June 26-27 Steamboat Springs Pro Rodeo Series ARENA: Brent Romick Arena ADDRESS: 401 Howelsen Parkway PERFS: 2 Perfs: June 26- 7:30 PM; June 27- 7:30 PMEVENTS: BR @ $7300 SPECIAL ENTRY FEES: PERMITS: BR GROUND RULES: CO-APPROVED WITH WILDERNESS CIRCUIT. ALL CONTESTANTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL CONTESTANTS - Re-entries will be accepted for available positions on Tues., June 23 between 9 AM and 1 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Tues., June 23 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS - Back numbers must be worn.BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides R5.5.3.1.QUALIFICATIONS: BR - 30 minimum entries. No compensation. No slack. Permit members may enter both the rodeo and the permit section. STK CONT.: Generations Pro RodeoEOO: 6/19/2026 12:00:00 PMEC: 6/22/2026 12:00:00 PM"
     },
     {
       "index": 71,
@@ -6744,7 +6744,7 @@
     {
       "index": 73,
       "tour": "NPP",
-      "summaryText": "Mesquite TX NPP June 27 Mesquite Championship Rodeo BB SB BR @ $2000 TD SW @ $1000 TR-HD, TR-HL @ $1000 Special Entry Fees: TD-$75 IF 1/$100 IF 2; SW-$75 IF 1/$100 IF 2; TR-$125 IF 1/$200 IF 2",
+      "summaryText": "Mesquite TX NPP June 27 Mesquite Championship Rodeo BB SB @ $2000 BR @ $6837 TD SW @ $1000 TR-HD, TR-HL @ $1000 Special Entry Fees: BB-$75; SB-$75; BR-$75; TD-$75; SW-$75; TR-$125",
       "publishDate": "2026 June 12",
       "location": "Mesquite TX NPP",
       "eventDates": "June 27",
@@ -6777,7 +6777,7 @@
           },
           {
             "event": "BR",
-            "addedMoney": 2000
+            "addedMoney": 6837
           },
           {
             "event": "TD",
@@ -6798,16 +6798,28 @@
         ],
         "entryFees": [
           {
+            "event": "BB",
+            "fees": "$75"
+          },
+          {
+            "event": "SB",
+            "fees": "$75"
+          },
+          {
+            "event": "BR",
+            "fees": "$75"
+          },
+          {
             "event": "TD",
-            "fees": "$75 IF 1/$100 IF 2"
+            "fees": "$75"
           },
           {
             "event": "SW",
-            "fees": "$75 IF 1/$100 IF 2"
+            "fees": "$75"
           },
           {
             "event": "TR",
-            "fees": "$125 IF 1/$200 IF 2"
+            "fees": "$125"
           }
         ],
         "permits": "BB SB BR TR; MAX - TD SW",
@@ -6825,8 +6837,8 @@
         "ADDRESS: 1818 Rodeo Drive",
         "PERFS: 1 Perf: June 27- 7:30 PM",
         "SLACKS: June 27- 12:00 PM",
-        "EVENTS: BB SB BR @ $2000 TD SW @ $1000 TR-HD, TR-HL @ $1000",
-        "SPECIAL ENTRY FEES: TD-$75 IF 1/$100 IF 2; SW-$75 IF 1/$100 IF 2; TR-$125 IF 1/$200 IF 2",
+        "EVENTS: BB SB @ $2000 BR @ $6837 TD SW @ $1000 TR-HD, TR-HL @ $1000",
+        "SPECIAL ENTRY FEES: BB-$75; SB-$75; BR-$75; TD-$75; SW-$75; TR-$125",
         "PERMITS: BB SB BR TR; MAX - TD SW",
         "GROUND RULES: CO-APPROVED WITH THE PRAIRIE AND SOUTHEASTERN CIRCUITS.",
         "Only actual contestant and one companion allowed gates access.",
@@ -6848,7 +6860,7 @@
         "EOO: 6/19/2026 11:30:00 AM",
         "EC: 6/22/2026 11:30:00 AM"
       ],
-      "detailText": "Mesquite TX NPP June 27 Mesquite Championship Rodeo ARENA: Mesquite Arena ADDRESS: 1818 Rodeo Drive PERFS: 1 Perf: June 27- 7:30 PMSLACKS: June 27- 12:00 PM EVENTS: BB SB BR @ $2000 TD SW @ $1000 TR-HD, TR-HL @ $1000 SPECIAL ENTRY FEES: TD-$75 IF 1/$100 IF 2; SW-$75 IF 1/$100 IF 2; TR-$125 IF 1/$200 IF 2 PERMITS: BB SB BR TR; MAX - TD SW GROUND RULES: CO-APPROVED WITH THE PRAIRIE AND SOUTHEASTERN CIRCUITS. Only actual contestant and one companion allowed gates access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues., June 23 between 9 AM and 1 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Tues., June 23 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire one hour after entries close.GB - Approved for first slack event in accordance with R4.9.4.TE - Rule 7.8.6 will be waived. TE- If a timed event animal escapes or a rerun is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back in the herd.RE - Back to back, same performance if two go-rounds B10.2.7.BB, SB, BR - Committee will pay entry fees for all permit members who compete in the riding events.SPECIAL ENTRY FEES - TD - $75; SW - $75; TR - $125BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides.QUALIFICATIONS: BB, SB, BR - 15 minimum entries. No compensation. No slack.TD, SW, TR - 60 minimum entries. STK CONT.: New Star Pro RodeoEOO: 6/19/2026 11:30:00 AMEC: 6/22/2026 11:30:00 AM"
+      "detailText": "Mesquite TX NPP June 27 Mesquite Championship Rodeo ARENA: Mesquite Arena ADDRESS: 1818 Rodeo Drive PERFS: 1 Perf: June 27- 7:30 PMSLACKS: June 27- 12:00 PM EVENTS: BB SB @ $2000 BR @ $6837 TD SW @ $1000 TR-HD, TR-HL @ $1000 SPECIAL ENTRY FEES: BB-$75; SB-$75; BR-$75; TD-$75; SW-$75; TR-$125 PERMITS: BB SB BR TR; MAX - TD SW GROUND RULES: CO-APPROVED WITH THE PRAIRIE AND SOUTHEASTERN CIRCUITS. Only actual contestant and one companion allowed gates access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues., June 23 between 9 AM and 1 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Tues., June 23 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire one hour after entries close.GB - Approved for first slack event in accordance with R4.9.4.TE - Rule 7.8.6 will be waived. TE- If a timed event animal escapes or a rerun is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back in the herd.RE - Back to back, same performance if two go-rounds B10.2.7.BB, SB, BR - Committee will pay entry fees for all permit members who compete in the riding events.SPECIAL ENTRY FEES - TD - $75; SW - $75; TR - $125BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides.QUALIFICATIONS: BB, SB, BR - 15 minimum entries. No compensation. No slack.TD, SW, TR - 60 minimum entries. STK CONT.: New Star Pro RodeoEOO: 6/19/2026 11:30:00 AMEC: 6/22/2026 11:30:00 AM"
     },
     {
       "index": 74,
@@ -14001,7 +14013,7 @@
         "PERMITS: BB SB BR TD SW TR",
         "GROUND RULES: CO-APPROVED WITH MONTANA, AND MOUNTAIN STATES CIRCUITS.",
         "ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.",
-        "ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.",
+        "ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.",
         "ALL EVENTS - Re-entries will be accepted for available positions on Mon., July 6 between 9 AM and 12 PM. See Rodeo Entry Information Section of the Business Journal.",
         "TRADE DEADLINE - Fri., July 3 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.",
         "TE - If a timed event animal escapes or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd.",
@@ -14010,7 +14022,7 @@
         "EOO: 6/23/2026 10:00:00 AM",
         "EC: 6/25/2026 10:00:00 AM"
       ],
-      "detailText": "Tetonia ID July 10-11 Buckin By the Tetons ARENA: Tetonia Rodeo Grounds ADDRESS: N 3000 W PERFS: 2 Perfs: July 10- 7:00 PM; July 11- 7:00 PMEVENTS: BB SB BR @ $5000 TD SW @ $2500 TR-HD, TR-HL @ $2500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: CO-APPROVED WITH MONTANA, AND MOUNTAIN STATES CIRCUITS. ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon., July 6 between 9 AM and 12 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Fri., July 3 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.TE - If a timed event animal escapes or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd.QUALIFICATIONS: BB, SB, BR - 30 minimum entries. No compensation. No slack. STK CONT.: Big Bucks Rodeo, LLCEOO: 6/23/2026 10:00:00 AMEC: 6/25/2026 10:00:00 AM"
+      "detailText": "Tetonia ID July 10-11 Buckin By the Tetons ARENA: Tetonia Rodeo Grounds ADDRESS: N 3000 W PERFS: 2 Perfs: July 10- 7:00 PM; July 11- 7:00 PMEVENTS: BB SB BR @ $5000 TD SW @ $2500 TR-HD, TR-HL @ $2500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: CO-APPROVED WITH MONTANA, AND MOUNTAIN STATES CIRCUITS. ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon., July 6 between 9 AM and 12 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Fri., July 3 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.TE - If a timed event animal escapes or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd.QUALIFICATIONS: BB, SB, BR - 30 minimum entries. No compensation. No slack. STK CONT.: Big Bucks Rodeo, LLCEOO: 6/23/2026 10:00:00 AMEC: 6/25/2026 10:00:00 AM"
     },
     {
       "index": 153,
@@ -14914,7 +14926,7 @@
     {
       "index": 164,
       "tour": null,
-      "summaryText": "Forsyth MT July 15-16 Rosebud Treasure County Fair Rodeo BB SB BR TD SW @ $3500 TR-HD, TR-HL @ $3500 Pending",
+      "summaryText": "Forsyth MT July 15-16 Rosebud Treasure County Fair Rodeo BB SB BR TD SW @ $3500 TR-HD, TR-HL @ $3500",
       "publishDate": "2026 June 12",
       "location": "Forsyth MT",
       "eventDates": "July 15-16",
@@ -14994,10 +15006,9 @@
         "QUALIFICATIONS: BB, SB, BR - 30 minimum entries. No compensation. No slack.",
         "STK CONT.: J Bar J",
         "EOO: 7/2/2026 10:00:00 AM",
-        "EC: 7/6/2026 10:00:00 AM",
-        "PENDING"
+        "EC: 7/6/2026 10:00:00 AM"
       ],
-      "detailText": "Forsyth MT July 15-16 Rosebud Treasure County Fair Rodeo ARENA: Rosebud County Fairgrounds ADDRESS: 513 N. 16th Ave. PERFS: 2 Perfs: July 15- 7:00 PM; July 16- 7:00 PMEVENTS: BB SB BR TD SW @ $3500 TR-HD, TR-HL @ $3500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Thurs., July 9 between 9 AM and 1 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Wed., July 8 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.RE - Back to back, same performance if two go-rounds B10.2.7.QUALIFICATIONS: BB, SB, BR - 30 minimum entries. No compensation. No slack. STK CONT.: J Bar JEOO: 7/2/2026 10:00:00 AMEC: 7/6/2026 10:00:00 AMPENDING"
+      "detailText": "Forsyth MT July 15-16 Rosebud Treasure County Fair Rodeo ARENA: Rosebud County Fairgrounds ADDRESS: 513 N. 16th Ave. PERFS: 2 Perfs: July 15- 7:00 PM; July 16- 7:00 PMEVENTS: BB SB BR TD SW @ $3500 TR-HD, TR-HL @ $3500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Thurs., July 9 between 9 AM and 1 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Wed., July 8 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.RE - Back to back, same performance if two go-rounds B10.2.7.QUALIFICATIONS: BB, SB, BR - 30 minimum entries. No compensation. No slack. STK CONT.: J Bar JEOO: 7/2/2026 10:00:00 AMEC: 7/6/2026 10:00:00 AM"
     },
     {
       "index": 165,
