@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-25T11:21:44.021Z",
+  "scrapedAt": "2026-08-01T10:58:56.908Z",
   "source": "https://pbj.prorodeo.org/longlistings",
   "attemptedCount": 180,
   "listingCount": 180,
@@ -4008,7 +4008,7 @@
     {
       "index": 44,
       "tour": "Permit Section",
-      "summaryText": "Permit Section Steamboat Springs CO July 31 - August 1 Steamboat Springs Pro Rodeo Series BR @ $2000",
+      "summaryText": "Permit Section Steamboat Springs CO July 31 - August 1 Steamboat Springs Pro Rodeo Series BR @ $4400",
       "publishDate": "2026 July 24",
       "location": "Steamboat Springs CO",
       "eventDates": "July 31 - August 1",
@@ -4035,7 +4035,7 @@
         "events": [
           {
             "event": "BR",
-            "addedMoney": 2000
+            "addedMoney": 4400
           }
         ],
         "entryFees": [],
@@ -4053,7 +4053,7 @@
         "ARENA: Brent Romick Arena",
         "ADDRESS: 401 Howelsen Parkway",
         "PERFS: 2 Perfs: July 31- 7:30 PM; August 1- 7:30 PM",
-        "EVENTS: BR @ $2000",
+        "EVENTS: BR @ $4400",
         "SPECIAL ENTRY FEES:",
         "PERMITS: BR",
         "GROUND RULES: CO-APPROVED WITH WILDERNESS CIRCUIT.",
@@ -4067,7 +4067,7 @@
         "EOO: 7/24/2026 12:00:00 PM",
         "EC: 7/27/2026 12:00:00 PM"
       ],
-      "detailText": "Steamboat Springs CO July 31 - August 1 Steamboat Springs Pro Rodeo Series ARENA: Brent Romick Arena ADDRESS: 401 Howelsen Parkway PERFS: 2 Perfs: July 31- 7:30 PM; August 1- 7:30 PMEVENTS: BR @ $2000 SPECIAL ENTRY FEES: PERMITS: BR GROUND RULES: CO-APPROVED WITH WILDERNESS CIRCUIT. ALL CONTESTANTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL CONTESTANTS - Re-entries will be accepted for available positions on Tues., July 28 between 9 AM and 1 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Tues., July 28 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS - Back numbers must be worn.BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides R5.5.3.1.QUALIFICATIONS: BR - 30 minimum entries. No compensation. No slack. Permit members may enter both the rodeo and the permit section. STK CONT.: Pickett Pro Rodeo Co.EOO: 7/24/2026 12:00:00 PMEC: 7/27/2026 12:00:00 PM"
+      "detailText": "Steamboat Springs CO July 31 - August 1 Steamboat Springs Pro Rodeo Series ARENA: Brent Romick Arena ADDRESS: 401 Howelsen Parkway PERFS: 2 Perfs: July 31- 7:30 PM; August 1- 7:30 PMEVENTS: BR @ $4400 SPECIAL ENTRY FEES: PERMITS: BR GROUND RULES: CO-APPROVED WITH WILDERNESS CIRCUIT. ALL CONTESTANTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL CONTESTANTS - Re-entries will be accepted for available positions on Tues., July 28 between 9 AM and 1 PM. See Rodeo Entry Information Section of the Business Journal.TRADE DEADLINE - Tues., July 28 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ALL CONTESTANTS - Back numbers must be worn.BR - In the Bull Riding, the prize money will be \"carried over\" to the next rodeo in the series if there are no qualified rides R5.5.3.1.QUALIFICATIONS: BR - 30 minimum entries. No compensation. No slack. Permit members may enter both the rodeo and the permit section. STK CONT.: Pickett Pro Rodeo Co.EOO: 7/24/2026 12:00:00 PMEC: 7/27/2026 12:00:00 PM"
     },
     {
       "index": 45,
@@ -5081,7 +5081,7 @@
     {
       "index": 56,
       "tour": "NPP",
-      "summaryText": "Woodstown Pilesgrove NJ NPP August 1 Cowtown Rodeo BB SB BR TD SW @ $1500 TR-HD, TR-HL @ $1500",
+      "summaryText": "Woodstown Pilesgrove NJ NPP August 1 Cowtown Rodeo BB SB TD SW @ $1500 BR @ $5250 TR-HD, TR-HL @ $1500",
       "publishDate": "2026 July 24",
       "location": "Woodstown Pilesgrove NJ NPP",
       "eventDates": "August 1",
@@ -5111,16 +5111,16 @@
             "addedMoney": 1500
           },
           {
-            "event": "BR",
-            "addedMoney": 1500
-          },
-          {
             "event": "TD",
             "addedMoney": 1500
           },
           {
             "event": "SW",
             "addedMoney": 1500
+          },
+          {
+            "event": "BR",
+            "addedMoney": 5250
           },
           {
             "event": "TR-HD",
@@ -5146,7 +5146,7 @@
         "ARENA: Cowtown Rodeo Arena",
         "ADDRESS: 780 Rt 40",
         "PERFS: 1 Perf: August 1- 7:30 PM",
-        "EVENTS: BB SB BR TD SW @ $1500 TR-HD, TR-HL @ $1500",
+        "EVENTS: BB SB TD SW @ $1500 BR @ $5250 TR-HD, TR-HL @ $1500",
         "SPECIAL ENTRY FEES:",
         "PERMITS: BB SB BR TD TR SW",
         "GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.",
@@ -5160,7 +5160,7 @@
         "EOO: 7/24/2026 11:00:00 AM",
         "EC: 7/27/2026 11:00:00 AM"
       ],
-      "detailText": "Woodstown Pilesgrove NJ NPP August 1 Cowtown Rodeo ARENA: Cowtown Rodeo Arena ADDRESS: 780 Rt 40 PERFS: 1 Perf: August 1- 7:30 PMEVENTS: BB SB BR TD SW @ $1500 TR-HD, TR-HL @ $1500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD TR SW GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues., July 28 between 9 AM and 3 PM. All eligible contestants who enter the BB, SB, BR during the re-entry period will be accepted. Also, see Rodeo Entry Information page of the business journal.TRADE DEADLINE - Tues., July 28 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire 30 minutes after entries close.ALL CONTESTANTS - All entry fees must be paid online or through the PRCA Office.BR - In the Bull Riding, the prize money may be \"carried over\" to the following week if there are no qualified rides. STK CONT.: Cowtown RodeoEOO: 7/24/2026 11:00:00 AMEC: 7/27/2026 11:00:00 AM"
+      "detailText": "Woodstown Pilesgrove NJ NPP August 1 Cowtown Rodeo ARENA: Cowtown Rodeo Arena ADDRESS: 780 Rt 40 PERFS: 1 Perf: August 1- 7:30 PMEVENTS: BB SB TD SW @ $1500 BR @ $5250 TR-HD, TR-HL @ $1500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD TR SW GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues., July 28 between 9 AM and 3 PM. All eligible contestants who enter the BB, SB, BR during the re-entry period will be accepted. Also, see Rodeo Entry Information page of the business journal.TRADE DEADLINE - Tues., July 28 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire 30 minutes after entries close.ALL CONTESTANTS - All entry fees must be paid online or through the PRCA Office.BR - In the Bull Riding, the prize money may be \"carried over\" to the following week if there are no qualified rides. STK CONT.: Cowtown RodeoEOO: 7/24/2026 11:00:00 AMEC: 7/27/2026 11:00:00 AM"
     },
     {
       "index": 57,
@@ -9071,7 +9071,7 @@
     {
       "index": 100,
       "tour": "BB Horizon",
-      "summaryText": "BB Horizon Onida SD August 7-8 Sully County Fair and Rodeo Horizon Permit Bareback BB @ $1000 Pending",
+      "summaryText": "BB Horizon Onida SD August 7-8 Sully County Fair and Rodeo Horizon Permit Bareback BB @ $1000",
       "publishDate": "2026 July 24",
       "location": "Onida SD",
       "eventDates": "August 7-8",
@@ -9120,10 +9120,9 @@
         "SPECIAL ENTRY FEES:",
         "PERMITS: BB",
         "GROUND RULES: All permit bareback riders entered in the Onida rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Onida rodeo will be used to determine the payoff for the Onida Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings.",
-        "STK CONT.: Various",
-        "PENDING"
+        "STK CONT.: Various"
       ],
-      "detailText": "Onida SD August 7-8 Sully County Fair and Rodeo Horizon Permit Bareback ARENA: Sully County Fairgrounds ADDRESS: 304 11th Street PERFS: 2 Perfs: August 7- 7:30 PM; August 8- 7:30 PMEVENTS: BB @ $1000 SPECIAL ENTRY FEES: PERMITS: BB GROUND RULES: All permit bareback riders entered in the Onida rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Onida rodeo will be used to determine the payoff for the Onida Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings. STK CONT.: VariousPENDING"
+      "detailText": "Onida SD August 7-8 Sully County Fair and Rodeo Horizon Permit Bareback ARENA: Sully County Fairgrounds ADDRESS: 304 11th Street PERFS: 2 Perfs: August 7- 7:30 PM; August 8- 7:30 PMEVENTS: BB @ $1000 SPECIAL ENTRY FEES: PERMITS: BB GROUND RULES: All permit bareback riders entered in the Onida rodeo will automatically be entered in the Horizon Permit Bareback Riding. There will be no additional entry fees for the permit bareback riders. The permit contestants will not compete on any additional animals. The scores recorded on the animal drawn for competition for the Onida rodeo will be used to determine the payoff for the Onida Horizon Permit Bareback Riding. The number of places paid and the percentages will be in accordance with the PRCA Rule Book. Money won in the Horizon Permit Bareback Riding event will count towards filling a permit, Circuit Standings, and \"money won\" qualifications. It will not count towards All Around and World Standings. STK CONT.: Various"
     },
     {
       "index": 101,
@@ -11211,14 +11210,14 @@
     },
     {
       "index": 123,
-      "tour": "NPP",
-      "summaryText": "Douglas WY NPP August 13 Douglas Legacy Steer Roping SR Special Entry Fees: SR-$200",
+      "tour": "LEGACY STEER ROPING",
+      "summaryText": "LEGACY STEER ROPING Douglas WY NPP August 13 Douglas Legacy Steer Roping SR Special Entry Fees: SR-$200",
       "publishDate": "2026 July 24",
       "location": "Douglas WY NPP",
       "eventDates": "August 13",
       "eventName": "Douglas Legacy Steer Roping",
       "fields": {
-        "tour": "NPP",
+        "tour": "LEGACY STEER ROPING",
         "arena": "Ford Grandstand Arena",
         "address": "400 West Center Street",
         "eventDateRange": null,
@@ -11791,14 +11790,14 @@
     },
     {
       "index": 129,
-      "tour": "NPP",
-      "summaryText": "Billings MT NPP August 14 Rodeo Billings Legacy Steering Roping SR Special Entry Fees: SR-$300",
+      "tour": "LEGACY STEER ROPING",
+      "summaryText": "LEGACY STEER ROPING Billings MT NPP August 14 Rodeo Billings Legacy Steering Roping SR Special Entry Fees: SR-$300",
       "publishDate": "2026 July 24",
       "location": "Billings MT NPP",
       "eventDates": "August 14",
       "eventName": "Rodeo Billings Legacy Steering Roping",
       "fields": {
-        "tour": "NPP",
+        "tour": "LEGACY STEER ROPING",
         "arena": "Metrapark",
         "address": "308 6th Ave. North",
         "eventDateRange": null,
@@ -11931,14 +11930,14 @@
     },
     {
       "index": 131,
-      "tour": "CIRCUIT FINALS",
-      "summaryText": "CIRCUIT FINALS Deadwood SD NPP August 14 Badlands Circuit Finals Steer Roping SR @ $4000 Special Entry Fees: SR-$500",
+      "tour": "BADLANDS SR CIRCUIT FINALS",
+      "summaryText": "BADLANDS SR CIRCUIT FINALS Deadwood SD NPP August 14 Badlands Circuit Finals Steer Roping SR @ $4000 Special Entry Fees: SR-$500",
       "publishDate": "2026 July 24",
       "location": "Deadwood SD NPP",
       "eventDates": "August 14",
       "eventName": "Badlands Circuit Finals Steer Roping",
       "fields": {
-        "tour": "CIRCUIT FINALS",
+        "tour": "BADLANDS SR CIRCUIT FINALS",
         "arena": "Deadwood Days of 76 Arena",
         "address": "15 Seventy-Sixth Drive",
         "eventDateRange": null,
@@ -11965,7 +11964,7 @@
           }
         ],
         "permits": "SR",
-        "groundRules": "Money above includes $4,000 committee purse, PRCA matching estimated funds TBD, estimated sponsor dollars TBD, and estimated $3 funds of TBD.",
+        "groundRules": "Click here for additional ground rules",
         "stockContractor": "Various",
         "subContractors": null,
         "entriesOpen": "2026-07-27T11:00:00",
@@ -11981,7 +11980,8 @@
         "EVENTS: SR @ $4000",
         "SPECIAL ENTRY FEES: SR-$500",
         "PERMITS: SR",
-        "GROUND RULES: Money above includes $4,000 committee purse, PRCA matching estimated funds TBD, estimated sponsor dollars TBD, and estimated $3 funds of TBD.",
+        "GROUND RULES: Click here for additional ground rules",
+        "Money above includes $4,000 committee purse, PRCA matching estimated funds TBD, estimated sponsor dollars TBD, and estimated $3 funds of TBD.",
         "ALL CONTESTANTS - Re-entries will be accepted for available positions on Fri., July 31 between 9 AM and 12 PM. Re-entries will be accepted if the number of entries for an event at the original entry closing time is less than limit defined in the ground rules. If more contestants enter during the \"re-entry\" period than there are positions available, the contestants accepted will be based on the qualification procedures defined in the Circuit Finals ground rules. Under no circumstances will a contestant who entered during the re-entry period be able to displace a contestant who entered during the original entry period. If a contestant TO's or DR'S prior to the \"re-entry\" period, that position may be filled during the \"re-entry\" period.",
         "GRACE PERIOD - Will expire one hour after entries close.",
         "ALL CONTESTANTS - The Badlands SR CFR 2026 Cutoff date will be July 14, 2026.",
@@ -11992,7 +11992,7 @@
         "EOO: 7/27/2026 11:00:00 AM",
         "EC: 7/28/2026 11:00:00 AM"
       ],
-      "detailText": "Deadwood SD NPP August 14 Badlands Circuit Finals Steer Roping ARENA: Deadwood Days of 76 Arena ADDRESS: 15 Seventy-Sixth Drive PERFS: 1 Perf: August 14- 12:00 PMEVENTS: SR @ $4000 SPECIAL ENTRY FEES: SR-$500 PERMITS: SR GROUND RULES: Money above includes $4,000 committee purse, PRCA matching estimated funds TBD, estimated sponsor dollars TBD, and estimated $3 funds of TBD.ALL CONTESTANTS - Re-entries will be accepted for available positions on Fri., July 31 between 9 AM and 12 PM. Re-entries will be accepted if the number of entries for an event at the original entry closing time is less than limit defined in the ground rules. If more contestants enter during the \"re-entry\" period than there are positions available, the contestants accepted will be based on the qualification procedures defined in the Circuit Finals ground rules. Under no circumstances will a contestant who entered during the re-entry period be able to displace a contestant who entered during the original entry period. If a contestant TO's or DR'S prior to the \"re-entry\" period, that position may be filled during the \"re-entry\" period.GRACE PERIOD - Will expire one hour after entries close.ALL CONTESTANTS - The Badlands SR CFR 2026 Cutoff date will be July 14, 2026.SR - Up to 18 contestants accepted, based on Badlands circuit standings and participation count.SR - Five go-rounds beginning at 12 PM on Aug. 14. Extras will be used to replace sick or injured animals. (The misdraw procedure will not be used.) $80 stock charge per go-round. COMPLETE CIRCUIT FINALS GROUND RULES can be found in PBJ by clicking on the red link above. STK CONT.: VariousEOO: 7/27/2026 11:00:00 AMEC: 7/28/2026 11:00:00 AM"
+      "detailText": "Deadwood SD NPP August 14 Badlands Circuit Finals Steer Roping ARENA: Deadwood Days of 76 Arena ADDRESS: 15 Seventy-Sixth Drive PERFS: 1 Perf: August 14- 12:00 PMEVENTS: SR @ $4000 SPECIAL ENTRY FEES: SR-$500 PERMITS: SR GROUND RULES: Click here for additional ground rules Money above includes $4,000 committee purse, PRCA matching estimated funds TBD, estimated sponsor dollars TBD, and estimated $3 funds of TBD.ALL CONTESTANTS - Re-entries will be accepted for available positions on Fri., July 31 between 9 AM and 12 PM. Re-entries will be accepted if the number of entries for an event at the original entry closing time is less than limit defined in the ground rules. If more contestants enter during the \"re-entry\" period than there are positions available, the contestants accepted will be based on the qualification procedures defined in the Circuit Finals ground rules. Under no circumstances will a contestant who entered during the re-entry period be able to displace a contestant who entered during the original entry period. If a contestant TO's or DR'S prior to the \"re-entry\" period, that position may be filled during the \"re-entry\" period.GRACE PERIOD - Will expire one hour after entries close.ALL CONTESTANTS - The Badlands SR CFR 2026 Cutoff date will be July 14, 2026.SR - Up to 18 contestants accepted, based on Badlands circuit standings and participation count.SR - Five go-rounds beginning at 12 PM on Aug. 14. Extras will be used to replace sick or injured animals. (The misdraw procedure will not be used.) $80 stock charge per go-round. COMPLETE CIRCUIT FINALS GROUND RULES can be found in PBJ by clicking on the red link above. STK CONT.: VariousEOO: 7/27/2026 11:00:00 AMEC: 7/28/2026 11:00:00 AM"
     },
     {
       "index": 132,
@@ -16119,14 +16119,14 @@
     },
     {
       "index": 177,
-      "tour": "NPP",
-      "summaryText": "Darby MT NPP August 23 Darby Xtreme Bulls BR @ $60000 Special Entry Fees: BR-$250 Finals: August 23- 2:00 PM BR",
+      "tour": "X-BULLS EVENT",
+      "summaryText": "X-BULLS EVENT Darby MT NPP August 23 Darby Xtreme Bulls BR @ $60000 Special Entry Fees: BR-$250 Finals: August 23- 2:00 PM BR",
       "publishDate": "2026 July 24",
       "location": "Darby MT NPP",
       "eventDates": "August 23",
       "eventName": "Darby Xtreme Bulls",
       "fields": {
-        "tour": "NPP",
+        "tour": "X-BULLS EVENT",
         "arena": "Richard Cromwell Arena",
         "address": "200 Rodeo Rd,",
         "eventDateRange": null,
