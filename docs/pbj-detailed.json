@@ -1,8 +1,8 @@
 {
-  "scrapedAt": "2026-09-05T13:21:33.360Z",
+  "scrapedAt": "2026-09-12T13:31:43.545Z",
   "source": "https://pbj.prorodeo.org/longlistings",
-  "attemptedCount": 133,
-  "listingCount": 133,
+  "attemptedCount": 134,
+  "listingCount": 134,
   "failureCount": 0,
   "failures": [],
   "listings": [
@@ -3453,7 +3453,7 @@
     {
       "index": 39,
       "tour": "NPP",
-      "summaryText": "Woodstown Pilesgrove NJ NPP September 12 Cowtown Rodeo BB SB BR @ $10000 TD SW @ $5000 TR-HD, TR-HL @ $5000 Special Entry Fees: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100 IF 1/$200 IF 2; TR-$225 IF 1/$350 IF 2",
+      "summaryText": "Woodstown Pilesgrove NJ NPP September 12 Cowtown Rodeo BB SB @ $10000 BR @ $15100 TD SW @ $5000 TR-HD, TR-HL @ $5000 Special Entry Fees: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100 IF 1/$200 IF 2; TR-$225 IF 1/$350 IF 2",
       "publishDate": "2026 September 04",
       "location": "Woodstown Pilesgrove NJ NPP",
       "eventDates": "September 12",
@@ -3484,7 +3484,7 @@
           },
           {
             "event": "BR",
-            "addedMoney": 10000
+            "addedMoney": 15100
           },
           {
             "event": "TD",
@@ -3535,7 +3535,7 @@
         "ARENA: Cowtown Rodeo Arena",
         "ADDRESS: 780 Rt 40",
         "PERFS: 1 Perf: September 12- 7:30 PM",
-        "EVENTS: BB SB BR @ $10000 TD SW @ $5000 TR-HD, TR-HL @ $5000",
+        "EVENTS: BB SB @ $10000 BR @ $15100 TD SW @ $5000 TR-HD, TR-HL @ $5000",
         "SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100 IF 1/$200 IF 2; TR-$225 IF 1/$350 IF 2",
         "PERMITS: BB SB BR TD SW TR",
         "GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.",
@@ -3549,7 +3549,7 @@
         "EOO: 9/4/2026 11:00:00 AM",
         "EC: 9/8/2026 11:00:00 AM"
       ],
-      "detailText": "Woodstown Pilesgrove NJ NPP September 12 Cowtown Rodeo ARENA: Cowtown Rodeo Arena ADDRESS: 780 Rt 40 PERFS: 1 Perf: September 12- 7:30 PMEVENTS: BB SB BR @ $10000 TD SW @ $5000 TR-HD, TR-HL @ $5000 SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100 IF 1/$200 IF 2; TR-$225 IF 1/$350 IF 2 PERMITS: BB SB BR TD SW TR GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Wed., Sept. 9 between 9 AM and 3 PM. All eligible contestants who enter the BB, SB, BR during the re-entry period will be accepted. Also, see Rodeo Entry Information page of the business journal.TRADE DEADLINE - Wed., Sept 9 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire 30 minutes after entries close.ALL CONTESTANTS - All entry fees must be paid online or through the PRCA Office.BR - In the Bull Riding, the prize money will be \"carried over\" to the following rodeo in the series if there are no qualified rides (R5.5.3.1). STK CONT.: Cowtown RodeoEOO: 9/4/2026 11:00:00 AMEC: 9/8/2026 11:00:00 AM"
+      "detailText": "Woodstown Pilesgrove NJ NPP September 12 Cowtown Rodeo ARENA: Cowtown Rodeo Arena ADDRESS: 780 Rt 40 PERFS: 1 Perf: September 12- 7:30 PMEVENTS: BB SB @ $10000 BR @ $15100 TD SW @ $5000 TR-HD, TR-HL @ $5000 SPECIAL ENTRY FEES: BB-$125 IF 1/$200 IF 2; SB-$100 IF 1/$200 IF 2; BR-$100 IF 1/$200 IF 2; TR-$225 IF 1/$350 IF 2 PERMITS: BB SB BR TD SW TR GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information Section of the Business Journal.ALL EVENTS - Re-entries will be accepted for available positions on Wed., Sept. 9 between 9 AM and 3 PM. All eligible contestants who enter the BB, SB, BR during the re-entry period will be accepted. Also, see Rodeo Entry Information page of the business journal.TRADE DEADLINE - Wed., Sept 9 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire 30 minutes after entries close.ALL CONTESTANTS - All entry fees must be paid online or through the PRCA Office.BR - In the Bull Riding, the prize money will be \"carried over\" to the following rodeo in the series if there are no qualified rides (R5.5.3.1). STK CONT.: Cowtown RodeoEOO: 9/4/2026 11:00:00 AMEC: 9/8/2026 11:00:00 AM"
     },
     {
       "index": 40,
@@ -4488,7 +4488,7 @@
         "permits": "BB SB BR TD SW TR",
         "groundRules": "ALL EVENTS - Only actual contestant and one companion allowed gate access.",
         "stockContractor": "Galloway Pro Rodeo LLC",
-        "subContractors": null,
+        "subContractors": "Stockyards ProRodeo",
         "entriesOpen": "2026-09-08T10:30:00",
         "entriesClose": "2026-09-09T10:30:00"
       },
@@ -4511,10 +4511,11 @@
         "TE: If a timed event animal escapes or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd.",
         "QUALIFICATIONS: BB, SB, BR - 15 minimum entries. No compensation. No slack.",
         "STK CONT.: Galloway Pro Rodeo LLC",
+        "SUB. CONT.: Stockyards ProRodeo",
         "EOO: 9/8/2026 10:30:00 AM",
         "EC: 9/9/2026 10:30:00 AM"
       ],
-      "detailText": "Granbury TX NPP September 18 Granbury PRCA Rodeo ARENA: Hood County CattleRangers ADDRESS: 641 Reunion Grounds PERFS: 1 Perf: September 18- 7:30 PMEVENTS: BB SB BR @ $2167 TD SW @ $1500 TR-HD, TR-HL @ $1500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: ALL EVENTS - Only actual contestant and one companion allowed gate access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See the Rodeo Entry Information page of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon. Sept. 14 between 9 AM and 1 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Mon., Sept. 14 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire one hour after entries close.TE: If a timed event animal escapes or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd.QUALIFICATIONS: BB, SB, BR - 15 minimum entries. No compensation. No slack. STK CONT.: Galloway Pro Rodeo LLCEOO: 9/8/2026 10:30:00 AMEC: 9/9/2026 10:30:00 AM"
+      "detailText": "Granbury TX NPP September 18 Granbury PRCA Rodeo ARENA: Hood County CattleRangers ADDRESS: 641 Reunion Grounds PERFS: 1 Perf: September 18- 7:30 PMEVENTS: BB SB BR @ $2167 TD SW @ $1500 TR-HD, TR-HL @ $1500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: ALL EVENTS - Only actual contestant and one companion allowed gate access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See the Rodeo Entry Information page of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon. Sept. 14 between 9 AM and 1 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Mon., Sept. 14 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire one hour after entries close.TE: If a timed event animal escapes or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd.QUALIFICATIONS: BB, SB, BR - 15 minimum entries. No compensation. No slack. STK CONT.: Galloway Pro Rodeo LLCSUB. CONT.: Stockyards ProRodeo EOO: 9/8/2026 10:30:00 AMEC: 9/9/2026 10:30:00 AM"
     },
     {
       "index": 50,
@@ -5296,7 +5297,7 @@
         "permits": "BB SB BR TD SW TR",
         "groundRules": "ALL EVENTS - Only actual contestant and one companion allowed gate access.",
         "stockContractor": "Galloway Pro Rodeo LLC",
-        "subContractors": null,
+        "subContractors": "Stockyards ProRodeo",
         "entriesOpen": "2026-09-09T10:30:00",
         "entriesClose": "2026-09-10T10:30:00"
       },
@@ -5319,10 +5320,11 @@
         "TE: If a timed event animal escapes or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd.",
         "QUALIFICATIONS: BB, SB, BR - 15 minimum entries. No compensation. No slack.",
         "STK CONT.: Galloway Pro Rodeo LLC",
+        "SUB. CONT.: Stockyards ProRodeo",
         "EOO: 9/9/2026 10:30:00 AM",
         "EC: 9/10/2026 10:30:00 AM"
       ],
-      "detailText": "Granbury TX NPP September 19 Granbury PRCA Rodeo ARENA: Hood County CattleRangers ADDRESS: 641 Reunion Grounds PERFS: 1 Perf: September 19- 7:30 PMEVENTS: BB SB BR @ $2167 TD SW @ $1500 TR-HD, TR-HL @ $1500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: ALL EVENTS - Only actual contestant and one companion allowed gate access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See the Rodeo Entry Information page of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues. Sept. 15 between 9 AM and 1 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Tues., Sept. 15 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire one hour after entries close.TE: If a timed event animal escapes or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd.QUALIFICATIONS: BB, SB, BR - 15 minimum entries. No compensation. No slack. STK CONT.: Galloway Pro Rodeo LLCEOO: 9/9/2026 10:30:00 AMEC: 9/10/2026 10:30:00 AM"
+      "detailText": "Granbury TX NPP September 19 Granbury PRCA Rodeo ARENA: Hood County CattleRangers ADDRESS: 641 Reunion Grounds PERFS: 1 Perf: September 19- 7:30 PMEVENTS: BB SB BR @ $2167 TD SW @ $1500 TR-HD, TR-HL @ $1500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: ALL EVENTS - Only actual contestant and one companion allowed gate access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See the Rodeo Entry Information page of the Business Journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Tues. Sept. 15 between 9 AM and 1 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Tues., Sept. 15 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire one hour after entries close.TE: If a timed event animal escapes or a re-run is awarded for any other reason during a performance, the extra will be used. Only escaped animals go back into the herd.QUALIFICATIONS: BB, SB, BR - 15 minimum entries. No compensation. No slack. STK CONT.: Galloway Pro Rodeo LLCSUB. CONT.: Stockyards ProRodeo EOO: 9/9/2026 10:30:00 AMEC: 9/10/2026 10:30:00 AM"
     },
     {
       "index": 59,
@@ -7541,12 +7543,12 @@
         "SPECIAL ENTRY FEES: SR-$400",
         "PERMITS: SR",
         "GROUND RULES: SR - 3 go-rounds, all run on October 1st at 1 PM, with a top 30 progressive round which will be run at 8 AM on October 2. Only the first three in each go-round will be required to run in order. Extras will be used to replace sick or injured animals. The misdraw procedure will not be used. $80 stock charge per go-round. Contestants who qualify for the progressive round will be required to pay an additional $80 stock charge.",
-        "NOTE - Contestants are required to compete in the SR event at a minimum of 15 PRCA rodeos in the 2026 rodeo year for the money at this even to count towards 2026 World standings or the 2026 Rookie of the year standings. Money won at this event will count towards circuit standings and the event will count towards a contestants required circuit participation count. Money won at this event will not count towards All Around standings.",
+        "NOTE - Contestants are required to compete in the SR event at a minimum of 15 PRCA rodeos in the 2027 rodeo year for the money at this even to count towards 2027 World standings or the 2027 Rookie of the year standings. Money won at this event will count towards circuit standings and the event will count towards a contestants required circuit participation count. Money won at this event will not count towards All Around standings.",
         "STK CONT.: Various",
         "EOO: 9/21/2026 12:00:00 PM",
         "EC: 9/22/2026 12:00:00 PM"
       ],
-      "detailText": "Eaton CO NPP October 1-2 Chris Glover Memorial Steer Roping ARENA: Double Check Arena ADDRESS: 37440 County Rd 43 PERFS: 2 Perfs: October 1- 1:00 PM; October 2- 8:00 AMEVENTS: SR @ $7500 SPECIAL ENTRY FEES: SR-$400 PERMITS: SR GROUND RULES: SR - 3 go-rounds, all run on October 1st at 1 PM, with a top 30 progressive round which will be run at 8 AM on October 2. Only the first three in each go-round will be required to run in order. Extras will be used to replace sick or injured animals. The misdraw procedure will not be used. $80 stock charge per go-round. Contestants who qualify for the progressive round will be required to pay an additional $80 stock charge.NOTE - Contestants are required to compete in the SR event at a minimum of 15 PRCA rodeos in the 2026 rodeo year for the money at this even to count towards 2026 World standings or the 2026 Rookie of the year standings. Money won at this event will count towards circuit standings and the event will count towards a contestants required circuit participation count. Money won at this event will not count towards All Around standings. STK CONT.: VariousEOO: 9/21/2026 12:00:00 PMEC: 9/22/2026 12:00:00 PM"
+      "detailText": "Eaton CO NPP October 1-2 Chris Glover Memorial Steer Roping ARENA: Double Check Arena ADDRESS: 37440 County Rd 43 PERFS: 2 Perfs: October 1- 1:00 PM; October 2- 8:00 AMEVENTS: SR @ $7500 SPECIAL ENTRY FEES: SR-$400 PERMITS: SR GROUND RULES: SR - 3 go-rounds, all run on October 1st at 1 PM, with a top 30 progressive round which will be run at 8 AM on October 2. Only the first three in each go-round will be required to run in order. Extras will be used to replace sick or injured animals. The misdraw procedure will not be used. $80 stock charge per go-round. Contestants who qualify for the progressive round will be required to pay an additional $80 stock charge.NOTE - Contestants are required to compete in the SR event at a minimum of 15 PRCA rodeos in the 2027 rodeo year for the money at this even to count towards 2027 World standings or the 2027 Rookie of the year standings. Money won at this event will count towards circuit standings and the event will count towards a contestants required circuit participation count. Money won at this event will not count towards All Around standings. STK CONT.: VariousEOO: 9/21/2026 12:00:00 PMEC: 9/22/2026 12:00:00 PM"
     },
     {
       "index": 85,
@@ -7674,7 +7676,7 @@
             "fees": "$225 IF 1/$350 IF 2"
           }
         ],
-        "permits": "BB SB BR SW TR; CIR MAX - TD",
+        "permits": "BB SB BR SW TR; MAX - TD",
         "groundRules": "Only actual contestant and one companion allowed gate access.",
         "stockContractor": "Pete Carr Pro Rodeo",
         "subContractors": null,
@@ -7691,7 +7693,7 @@
         "SLACKS: September 30- 8:00 AM",
         "EVENTS: BB SB BR TD SW @ $5000 TR-HD, TR-HL @ $5000",
         "SPECIAL ENTRY FEES: TR-$225 IF 1/$350 IF 2",
-        "PERMITS: BB SB BR SW TR; CIR MAX - TD",
+        "PERMITS: BB SB BR SW TR; MAX - TD",
         "GROUND RULES: Only actual contestant and one companion allowed gate access.",
         "ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.",
         "ALL EVENTS - Re-entries will be accepted for available positions on Thur., Sept. 24 between 9 AM and 12 PM. See Rodeo Entry Information page of the business journal.",
@@ -7705,7 +7707,7 @@
         "EOO: 9/14/2026 9:30:00 AM",
         "EC: 9/16/2026 9:30:00 AM"
       ],
-      "detailText": "Hempstead TX October 1-3 Waller County Fair & Rodeo ARENA: Mustang Cat Arena ADDRESS: 22000 Fairgrounds Rd. PERFS: 3 Perfs: October 1- 7:00 PM; October 2- 7:00 PM; October 3- 7:00 PMSLACKS: September 30- 8:00 AM EVENTS: BB SB BR TD SW @ $5000 TR-HD, TR-HL @ $5000 SPECIAL ENTRY FEES: TR-$225 IF 1/$350 IF 2 PERMITS: BB SB BR SW TR; CIR MAX - TD GROUND RULES: Only actual contestant and one companion allowed gate access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Thur., Sept. 24 between 9 AM and 12 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Weds., Sept. 23 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ATTENTION ALL CONTESTANTS: The champion in each event from the 2026 Pasadena Livestock Show and Rodeo (Sept 20-26), the champion in each event from the 2026 Waller County Fair and Rodeo in Hempstead TX (Oct 1-3), and the champion in each event from the Fort Bend County Fair and Rodeo in Rosenberg TX (Oct 2-4) will be accepted as entries at the Houston Livestock Show and Rodeo. Contestants must enter Houston through PROCOM to be accepted. If co-champions exist, only one entry will be accepted as an entry for Houston. The tied contestant with the highest ranking in the 2026 PRCA World Standings will be accepted for the position at Houston. In the Team Roping, if co-champions exist, only one header and one heeler will be accepted. The tied header and the tied heeler with the highest ranking in the 2026 PRCA World Standings will be accepted as an entry for Houston even if that qualified header and heeler were not partners at the qualifying rodeo(s). If the same contestant (or team) is the champion at both qualifying rodeos, he will be accepted as the champion of one of the qualifying rodeos and the position reserved for the champion of the other qualifying rodeo will be filled by the next highest ranked contestant who enters based on 2026 PRCA World Standings.ALL CONTESTANTS WITH HORSES - Must have proof of current Coggins Test and Health papers.TR - Will be the first event in slack on Sept. 30 at 8 AM.QUALIFICATIONS: BB, SB - 36 minimum entries. No compensation. No slack.BR - 45 minimum entries. No compensation. No slack. STK CONT.: Pete Carr Pro RodeoEOO: 9/14/2026 9:30:00 AMEC: 9/16/2026 9:30:00 AM"
+      "detailText": "Hempstead TX October 1-3 Waller County Fair & Rodeo ARENA: Mustang Cat Arena ADDRESS: 22000 Fairgrounds Rd. PERFS: 3 Perfs: October 1- 7:00 PM; October 2- 7:00 PM; October 3- 7:00 PMSLACKS: September 30- 8:00 AM EVENTS: BB SB BR TD SW @ $5000 TR-HD, TR-HL @ $5000 SPECIAL ENTRY FEES: TR-$225 IF 1/$350 IF 2 PERMITS: BB SB BR SW TR; MAX - TD GROUND RULES: Only actual contestant and one companion allowed gate access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Thur., Sept. 24 between 9 AM and 12 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Weds., Sept. 23 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.ATTENTION ALL CONTESTANTS: The champion in each event from the 2026 Pasadena Livestock Show and Rodeo (Sept 20-26), the champion in each event from the 2026 Waller County Fair and Rodeo in Hempstead TX (Oct 1-3), and the champion in each event from the Fort Bend County Fair and Rodeo in Rosenberg TX (Oct 2-4) will be accepted as entries at the Houston Livestock Show and Rodeo. Contestants must enter Houston through PROCOM to be accepted. If co-champions exist, only one entry will be accepted as an entry for Houston. The tied contestant with the highest ranking in the 2026 PRCA World Standings will be accepted for the position at Houston. In the Team Roping, if co-champions exist, only one header and one heeler will be accepted. The tied header and the tied heeler with the highest ranking in the 2026 PRCA World Standings will be accepted as an entry for Houston even if that qualified header and heeler were not partners at the qualifying rodeo(s). If the same contestant (or team) is the champion at both qualifying rodeos, he will be accepted as the champion of one of the qualifying rodeos and the position reserved for the champion of the other qualifying rodeo will be filled by the next highest ranked contestant who enters based on 2026 PRCA World Standings.ALL CONTESTANTS WITH HORSES - Must have proof of current Coggins Test and Health papers.TR - Will be the first event in slack on Sept. 30 at 8 AM.QUALIFICATIONS: BB, SB - 36 minimum entries. No compensation. No slack.BR - 45 minimum entries. No compensation. No slack. STK CONT.: Pete Carr Pro RodeoEOO: 9/14/2026 9:30:00 AMEC: 9/16/2026 9:30:00 AM"
     },
     {
       "index": 87,
@@ -8131,7 +8133,7 @@
     {
       "index": 92,
       "tour": "DIVISION 2 X-BULLS EVENT",
-      "summaryText": "DIVISION 2 X-BULLS EVENT Phoenix AZ NPP October 4 Arizona State Fair Xtreme Bulls BR @ $25000 Special Entry Fees: BR-$250 Pending",
+      "summaryText": "DIVISION 2 X-BULLS EVENT Phoenix AZ NPP October 4 Arizona State Fair Xtreme Bulls BR @ $25000 Special Entry Fees: BR-$250",
       "publishDate": "2026 September 04",
       "location": "Phoenix AZ NPP",
       "eventDates": "October 4",
@@ -8188,10 +8190,9 @@
         "NOTE - For additional ground rules see \"Xbulls with no Finals\" in rodeo entry information section of the business journal. EF's: $250 EF plus $35 Central Entry Office/Supplement Insurance Fee.",
         "STK CONT.: Various",
         "EOO: 9/17/2026 12:00:00 PM",
-        "EC: 9/18/2026 12:00:00 PM",
-        "PENDING"
+        "EC: 9/18/2026 12:00:00 PM"
       ],
-      "detailText": "Phoenix AZ NPP October 4 Arizona State Fair Xtreme Bulls ARENA: Arizona State Fair Arena ADDRESS: 1826 W. Mcdowell Rd. PERFS: 1 Perf: October 4- 7:00 PMEVENTS: BR @ $25000 SPECIAL ENTRY FEES: BR-$250 PERMITS: BR GROUND RULES: Only actual contestant and one companion allowed gate access.ALL CONTESTANTS - The \"30-hour\" and \"walk-up\" replacement policies will be in effect. The check-in deadline for this event will be one hour prior to the performance.ALL CONTESTANTS - Re-entries will be accepted for available positions on Weds., Sept. 30 between 9 AM and 11 AM. See Rodeo Entry Information page of the business journal.COMPETITION FORMAT - 40 minimum entries. May be two go-rounds, back to back, same performance, depending on the number of entries. If two go-rounds, the number of entries accepted during the re-entry period will not exceed one half the original limit.QUALIFICATIONS: 70% top money, 30% top circuit. No exemptions. A contestant will not be accepted as an entry at an X-Bulls event if he is already placed in a position at another PRCA rodeo or event that on the same day as the X-Bulls event.NOTE - For additional ground rules see \"Xbulls with no Finals\" in rodeo entry information section of the business journal. EF's: $250 EF plus $35 Central Entry Office/Supplement Insurance Fee. STK CONT.: VariousEOO: 9/17/2026 12:00:00 PMEC: 9/18/2026 12:00:00 PMPENDING"
+      "detailText": "Phoenix AZ NPP October 4 Arizona State Fair Xtreme Bulls ARENA: Arizona State Fair Arena ADDRESS: 1826 W. Mcdowell Rd. PERFS: 1 Perf: October 4- 7:00 PMEVENTS: BR @ $25000 SPECIAL ENTRY FEES: BR-$250 PERMITS: BR GROUND RULES: Only actual contestant and one companion allowed gate access.ALL CONTESTANTS - The \"30-hour\" and \"walk-up\" replacement policies will be in effect. The check-in deadline for this event will be one hour prior to the performance.ALL CONTESTANTS - Re-entries will be accepted for available positions on Weds., Sept. 30 between 9 AM and 11 AM. See Rodeo Entry Information page of the business journal.COMPETITION FORMAT - 40 minimum entries. May be two go-rounds, back to back, same performance, depending on the number of entries. If two go-rounds, the number of entries accepted during the re-entry period will not exceed one half the original limit.QUALIFICATIONS: 70% top money, 30% top circuit. No exemptions. A contestant will not be accepted as an entry at an X-Bulls event if he is already placed in a position at another PRCA rodeo or event that on the same day as the X-Bulls event.NOTE - For additional ground rules see \"Xbulls with no Finals\" in rodeo entry information section of the business journal. EF's: $250 EF plus $35 Central Entry Office/Supplement Insurance Fee. STK CONT.: VariousEOO: 9/17/2026 12:00:00 PMEC: 9/18/2026 12:00:00 PM"
     },
     {
       "index": 93,
@@ -8778,7 +8779,7 @@
         "ALL CONTESTANTS - Re-entries will be accepted for available positions on Tues., Sept. 22 between 9 AM and 12 PM. Re-entries will be accepted if the number of entries for an event at the original entry closing time is less than limit defined in the ground rules. If more contestants enter during the \"re-entry\" period than there are positions available, the contestants accepted will be based on the qualification procedures defined in the Circuit Finals ground rules. Under no circumstances will a contestant who entered during the re-entry period be able to displace a contestant who entered during the original entry period. If a contestant TO's or DR's prior to the \"re-entry\" period, that position may be filled during the \"re-entry\" period.",
         "GRACE PERIOD - Will expire one hour after entries close.",
         "ALL CONTESTANTS - Stalls are available for $40/night. A $50 cleaning charge will be assessed if stall is not cleaned when leaving. Camping is available at $40/night with electric service. Reserve and pay for stalls and camping online through rodeoticket.com.",
-        "ALL CONTESTANTS - Contestants are required to attend back number party on Thursday, October 9th to be held at the arena concessions area. Failure to attend will require contestant to purchase contestant jacket. Jackets are $125.00.",
+        "ALL CONTESTANTS - Contestants are required to attend back number party on Thursday, October 8th to be held at the arena concessions area. Failure to attend will require contestant to purchase contestant jacket. Jackets are $125.00.",
         "ALL EVENTS - Will pay four places in go-rounds and average.",
         "ALL EVENTS - Three go-rounds.",
         "TE - If a timed event animal escapes or a re-run is given for any other reason, the extra will be used. Only escaped animals go back into the herd.",
@@ -8788,7 +8789,7 @@
         "EOO: 9/16/2026 11:00:00 AM",
         "EC: 9/17/2026 11:00:00 AM"
       ],
-      "detailText": "Minot ND NPP October 9-11 Badlands Circuit Finals ARENA: All Seasons Arena ADDRESS: 2005 East Burdick Expressway PERFS: 3 Perfs: October 9- 7:00 PM; October 10- 7:00 PM; October 11- 1:00 PMEVENTS: BB SB BR TD SW @ $7500 + $17738 SPON TR-HD, TR-HL @ $7500 + $35476 SPON SPECIAL ENTRY FEES: BB-$225; SB-$225; BR-$225; TD-$225; SW-$225; TR-$225 PERMITS: CIR - BB SB BR TD SW TR GROUND RULES: Click here for additional ground rules The 2026 Badlands Circuit Finals cut-off date will be September 9, 2026. Any rodeo ending on or before this date will count towards the 2026 rodeo season. Any rodeo ending after this will count towards the 2027 rodeo season. Each event plus year-end circuit dollars. Total money above includes the committee purse of $7,500, estimated PRCA matching funds of $4,000, estimated sponsor dollar amount of $13,738, estimated $3 amount of TBD.ALL CONTESTANTS - Re-entries will be accepted for available positions on Tues., Sept. 22 between 9 AM and 12 PM. Re-entries will be accepted if the number of entries for an event at the original entry closing time is less than limit defined in the ground rules. If more contestants enter during the \"re-entry\" period than there are positions available, the contestants accepted will be based on the qualification procedures defined in the Circuit Finals ground rules. Under no circumstances will a contestant who entered during the re-entry period be able to displace a contestant who entered during the original entry period. If a contestant TO's or DR's prior to the \"re-entry\" period, that position may be filled during the \"re-entry\" period.GRACE PERIOD - Will expire one hour after entries close.ALL CONTESTANTS - Stalls are available for $40/night. A $50 cleaning charge will be assessed if stall is not cleaned when leaving. Camping is available at $40/night with electric service. Reserve and pay for stalls and camping online through rodeoticket.com.ALL CONTESTANTS - Contestants are required to attend back number party on Thursday, October 9th to be held at the arena concessions area. Failure to attend will require contestant to purchase contestant jacket. Jackets are $125.00.ALL EVENTS - Will pay four places in go-rounds and average.ALL EVENTS - Three go-rounds.TE - If a timed event animal escapes or a re-run is given for any other reason, the extra will be used. Only escaped animals go back into the herd.QUALIFICATIONS: Top 12. COMPLETE CIRCUIT FINALS GROUND RULES can be found by clicking on the red link above. STK CONT.: VariousEOO: 9/16/2026 11:00:00 AMEC: 9/17/2026 11:00:00 AM"
+      "detailText": "Minot ND NPP October 9-11 Badlands Circuit Finals ARENA: All Seasons Arena ADDRESS: 2005 East Burdick Expressway PERFS: 3 Perfs: October 9- 7:00 PM; October 10- 7:00 PM; October 11- 1:00 PMEVENTS: BB SB BR TD SW @ $7500 + $17738 SPON TR-HD, TR-HL @ $7500 + $35476 SPON SPECIAL ENTRY FEES: BB-$225; SB-$225; BR-$225; TD-$225; SW-$225; TR-$225 PERMITS: CIR - BB SB BR TD SW TR GROUND RULES: Click here for additional ground rules The 2026 Badlands Circuit Finals cut-off date will be September 9, 2026. Any rodeo ending on or before this date will count towards the 2026 rodeo season. Any rodeo ending after this will count towards the 2027 rodeo season. Each event plus year-end circuit dollars. Total money above includes the committee purse of $7,500, estimated PRCA matching funds of $4,000, estimated sponsor dollar amount of $13,738, estimated $3 amount of TBD.ALL CONTESTANTS - Re-entries will be accepted for available positions on Tues., Sept. 22 between 9 AM and 12 PM. Re-entries will be accepted if the number of entries for an event at the original entry closing time is less than limit defined in the ground rules. If more contestants enter during the \"re-entry\" period than there are positions available, the contestants accepted will be based on the qualification procedures defined in the Circuit Finals ground rules. Under no circumstances will a contestant who entered during the re-entry period be able to displace a contestant who entered during the original entry period. If a contestant TO's or DR's prior to the \"re-entry\" period, that position may be filled during the \"re-entry\" period.GRACE PERIOD - Will expire one hour after entries close.ALL CONTESTANTS - Stalls are available for $40/night. A $50 cleaning charge will be assessed if stall is not cleaned when leaving. Camping is available at $40/night with electric service. Reserve and pay for stalls and camping online through rodeoticket.com.ALL CONTESTANTS - Contestants are required to attend back number party on Thursday, October 8th to be held at the arena concessions area. Failure to attend will require contestant to purchase contestant jacket. Jackets are $125.00.ALL EVENTS - Will pay four places in go-rounds and average.ALL EVENTS - Three go-rounds.TE - If a timed event animal escapes or a re-run is given for any other reason, the extra will be used. Only escaped animals go back into the herd.QUALIFICATIONS: Top 12. COMPLETE CIRCUIT FINALS GROUND RULES can be found by clicking on the red link above. STK CONT.: VariousEOO: 9/16/2026 11:00:00 AMEC: 9/17/2026 11:00:00 AM"
     },
     {
       "index": 99,
@@ -9349,14 +9350,14 @@
     },
     {
       "index": 104,
-      "tour": "NPP",
-      "summaryText": "Billings MT NPP October 16-17 The Riggin Masters Xtreme Broncs BB @ $100000 Special Entry Fees: BB-$250 Finals: October 17- 7:00 PM BB",
+      "tour": "X-BRONCS EVENT",
+      "summaryText": "X-BRONCS EVENT Billings MT NPP October 16-17 The Riggin Masters Xtreme Broncs BB @ $100000 Special Entry Fees: BB-$250 Finals: October 17- 7:00 PM BB",
       "publishDate": "2026 September 04",
       "location": "Billings MT NPP",
       "eventDates": "October 16-17",
       "eventName": "The Riggin Masters Xtreme Broncs",
       "fields": {
-        "tour": "NPP",
+        "tour": "X-BRONCS EVENT",
         "arena": "Metrapark",
         "address": "308 6th Ave. North",
         "eventDateRange": {
@@ -11811,6 +11812,138 @@
     },
     {
       "index": 131,
+      "tour": "NPP",
+      "summaryText": "Louisville KY NPP November 12-14 North American Championship Rodeo BB SB BR TD SW @ $10000 + $18088 SPON TR-HD, TR-HL @ $10000 + $36176 SPON Special Entry Fees: BB-$300; SB-$300; BR-$300; TD-$300; SW-$300; TR-$300",
+      "publishDate": "2026 September 04",
+      "location": "Louisville KY NPP",
+      "eventDates": "November 12-14",
+      "eventName": "North American Championship Rodeo",
+      "fields": {
+        "tour": "NPP",
+        "arena": "Freedom Hall",
+        "address": "937 Phillips Lane",
+        "eventDateRange": {
+          "startDate": "2026-11-12",
+          "endDate": "2026-11-14"
+        },
+        "perfs": {
+          "perfsCount": 3,
+          "perfDates": [
+            "2026-11-12T19:00:00",
+            "2026-11-13T19:00:00",
+            "2026-11-14T19:00:00"
+          ]
+        },
+        "slacks": {
+          "raw": null,
+          "isoDateTimes": []
+        },
+        "events": [
+          {
+            "event": "BB",
+            "addedMoney": 10000
+          },
+          {
+            "event": "SB",
+            "addedMoney": 10000
+          },
+          {
+            "event": "BR",
+            "addedMoney": 10000
+          },
+          {
+            "event": "TD",
+            "addedMoney": 10000
+          },
+          {
+            "event": "SW",
+            "addedMoney": 10000
+          },
+          {
+            "event": "+",
+            "addedMoney": 10000
+          },
+          {
+            "event": "$18088",
+            "addedMoney": 10000
+          },
+          {
+            "event": "SPON",
+            "addedMoney": 10000
+          },
+          {
+            "event": "TR-HD",
+            "addedMoney": 10000
+          },
+          {
+            "event": "TR-HL",
+            "addedMoney": 10000
+          }
+        ],
+        "entryFees": [
+          {
+            "event": "BB",
+            "fees": "$300"
+          },
+          {
+            "event": "SB",
+            "fees": "$300"
+          },
+          {
+            "event": "BR",
+            "fees": "$300"
+          },
+          {
+            "event": "TD",
+            "fees": "$300"
+          },
+          {
+            "event": "SW",
+            "fees": "$300"
+          },
+          {
+            "event": "TR",
+            "fees": "$300"
+          }
+        ],
+        "permits": "CIR - BB SB BR TD SW TR",
+        "groundRules": "Click here for additional ground rules",
+        "stockContractor": "Various",
+        "subContractors": null,
+        "entriesOpen": "2026-10-15T11:00:00",
+        "entriesClose": "2026-10-16T11:00:00"
+      },
+      "detailLines": [
+        "Louisville KY NPP",
+        "November 12-14",
+        "North American Championship Rodeo",
+        "ARENA: Freedom Hall",
+        "ADDRESS: 937 Phillips Lane",
+        "PERFS: 3 Perfs: November 12- 7:00 PM; November 13- 7:00 PM; November 14- 7:00 PM",
+        "EVENTS: BB SB BR TD SW @ $10000 + $18088 SPON TR-HD, TR-HL @ $10000 + $36176 SPON",
+        "SPECIAL ENTRY FEES: BB-$300; SB-$300; BR-$300; TD-$300; SW-$300; TR-$300",
+        "PERMITS: CIR - BB SB BR TD SW TR",
+        "GROUND RULES: Click here for additional ground rules",
+        "The 2026 Great Lakes Circuit Finals cut-off date will be September 30, 2026.",
+        "All events plus year-end circuit dollars. Money above includes estimated committee purse of $10,000, estimated PRCA matching funds of $4,000, estimated sponsor dollar amount of $14,088, estimated $3 circuit dollar amount of TBD.",
+        "ALL EVENTS - Re-entries Tues., Oct. 20 between 9 AM and 12 PM. Re-entries will be accepted if the number of entries for an event at the original entry closing time is less than limit defined in the ground rules. If more contestants enter during the \"re-entry\" period than there are positions available, the contestants accepted will be based on the qualification procedures defined in the Circuit Finals ground rules. Under no circumstances will a contestant who entered during the re-entry period be able to displace a contestant who entered during the original entry period. If a contestant TO's or DR'S prior to the \"re-entry\" period, that position may be filled during the \"re-entry\" period.",
+        "ALL EVENTS - Mandatory contestant meeting in Freedom Hall Ballroom Nov. 12 at 4 PM. All events will pay four places in the go-rounds and average.",
+        "ALL EVENTS - Special entry fees $300",
+        "RE: BB - Hand in rigging when previous horse leaves the arena. SB - Rein measured, back cinch pulled, and above horse when previous horse leaves the arena. BR - Hand in rope pulling when previous bull leaves the arena.",
+        "ALL EVENTS - Failure to be ready when called will result in a $250 fine, progressively doubling thereafter.",
+        "TE - Cattle will be prepared on Nov. 11 after arena preparation.",
+        "TE - All horse and equipment change will occur outside the competition arena. Failure to comply may result in a $100 fine per person, progressively doubling there after.",
+        "TE - If a timed event animal escapes, or a re-run is awarded for any other reason, the extra will be used. Only escaped animals go back into the herd.",
+        "QUALIFICATIONS: Top 12.",
+        "COMPLETE CIRCUIT FINALS GROUND RULES can be found by clicking on the red link above.",
+        "STK CONT.: Various",
+        "EOO: 10/15/2026 11:00:00 AM",
+        "EC: 10/16/2026 11:00:00 AM"
+      ],
+      "detailText": "Louisville KY NPP November 12-14 North American Championship Rodeo ARENA: Freedom Hall ADDRESS: 937 Phillips Lane PERFS: 3 Perfs: November 12- 7:00 PM; November 13- 7:00 PM; November 14- 7:00 PMEVENTS: BB SB BR TD SW @ $10000 + $18088 SPON TR-HD, TR-HL @ $10000 + $36176 SPON SPECIAL ENTRY FEES: BB-$300; SB-$300; BR-$300; TD-$300; SW-$300; TR-$300 PERMITS: CIR - BB SB BR TD SW TR GROUND RULES: Click here for additional ground rules The 2026 Great Lakes Circuit Finals cut-off date will be September 30, 2026. All events plus year-end circuit dollars. Money above includes estimated committee purse of $10,000, estimated PRCA matching funds of $4,000, estimated sponsor dollar amount of $14,088, estimated $3 circuit dollar amount of TBD.ALL EVENTS - Re-entries Tues., Oct. 20 between 9 AM and 12 PM. Re-entries will be accepted if the number of entries for an event at the original entry closing time is less than limit defined in the ground rules. If more contestants enter during the \"re-entry\" period than there are positions available, the contestants accepted will be based on the qualification procedures defined in the Circuit Finals ground rules. Under no circumstances will a contestant who entered during the re-entry period be able to displace a contestant who entered during the original entry period. If a contestant TO's or DR'S prior to the \"re-entry\" period, that position may be filled during the \"re-entry\" period.ALL EVENTS - Mandatory contestant meeting in Freedom Hall Ballroom Nov. 12 at 4 PM. All events will pay four places in the go-rounds and average.ALL EVENTS - Special entry fees $300RE: BB - Hand in rigging when previous horse leaves the arena. SB - Rein measured, back cinch pulled, and above horse when previous horse leaves the arena. BR - Hand in rope pulling when previous bull leaves the arena.ALL EVENTS - Failure to be ready when called will result in a $250 fine, progressively doubling thereafter.TE - Cattle will be prepared on Nov. 11 after arena preparation.TE - All horse and equipment change will occur outside the competition arena. Failure to comply may result in a $100 fine per person, progressively doubling there after.TE - If a timed event animal escapes, or a re-run is awarded for any other reason, the extra will be used. Only escaped animals go back into the herd.QUALIFICATIONS: Top 12. COMPLETE CIRCUIT FINALS GROUND RULES can be found by clicking on the red link above. STK CONT.: VariousEOO: 10/15/2026 11:00:00 AMEC: 10/16/2026 11:00:00 AM"
+    },
+    {
+      "index": 132,
       "tour": null,
       "summaryText": "Brawley CA November 13-15 Brawley Cattle Call Rodeo BB SB BR TD SW @ $7000 TR-HD, TR-HL @ $7000",
       "publishDate": "2026 September 04",
@@ -11903,7 +12036,7 @@
       "detailText": "Brawley CA November 13-15 Brawley Cattle Call Rodeo ARENA: Cattle Call Arena ADDRESS: 550 West Cattle Call Drive PERFS: 3 Perfs: November 13- 7:00 PM; November 14- 7:00 PM; November 15- 1:00 PMEVENTS: BB SB BR TD SW @ $7000 TR-HD, TR-HL @ $7000 SPECIAL ENTRY FEES: PERMITS: BB SB BR SW TR GROUND RULES: CO-APPROVED WITH TURQUOISE AND WILDERNESS CIRCUITS. Only actual contestant and one companion allowed gate access.ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information section of the business journalALL EVENTS - Re-entries will be accepted for available positions on Mon., Nov. 9 between 9 AM and 12 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Fri., Nov. 6 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.RE - Back to back, same performance if two go-rounds B10.2.7.TD - There will be a disqualification for a jerk down as long as all criteria are in compliance with the jerk down policy.QUALIFICATIONS: BB, SB, - 36 minimum entries. No compensation. No slack.BR - 45 minimum entries. No compensation. No slack. STK CONT.: Rosser RodeoSUB. CONT.: Flying U Rodeo EOO: 10/26/2026 10:00:00 AMEC: 10/27/2026 10:00:00 AM"
     },
     {
-      "index": 132,
+      "index": 133,
       "tour": "SOUTHEASTERN CIRCUIT FINALS",
       "summaryText": "SOUTHEASTERN CIRCUIT FINALS Davie FL NPP November 13-15 Southeastern Circuit Finals BB SB BR TD SW @ $10000 + $18088 SPON TR-HD, TR-HL @ $10000 + $36176 SPON Special Entry Fees: BB-$225; SB-$225; BR-$225; TD-$225; SW-$225; TR-$225",
       "publishDate": "2026 September 04",
@@ -12036,7 +12169,7 @@
       "detailText": "Davie FL NPP November 13-15 Southeastern Circuit Finals ARENA: Bergeron Rodeo Grounds ADDRESS: 4931 Davie Rd. PERFS: 3 Perfs: November 13- 7:30 PM; November 14- 7:30 PM; November 15- 2:00 PMEVENTS: BB SB BR TD SW @ $10000 + $18088 SPON TR-HD, TR-HL @ $10000 + $36176 SPON SPECIAL ENTRY FEES: BB-$225; SB-$225; BR-$225; TD-$225; SW-$225; TR-$225 PERMITS: CIR - BB SB BR TD SW TR GROUND RULES: Only actual contestant allowed gate access. All CDC, Florida Department of Health, and Broward County Guidelines will be followed. The cutoff date for the 2026 Southeastern Circuit Finals will be Sept. 30, 2026. Total money above includes estimated committee purse of $10,000, estimated PRCA matching funds of $4,000, estimated sponsor money of $14,088 and estimated $3 is TBD.ALL CONTESTANTS - Re-entries will be accepted for available positions on Fri., Oct. 23 between 9 AM and 12 PM. Re-entries will be accepted if the number of entries for an event at the original entry closing time is less than limit defined in the ground rules. If more contestants enter during the \"re-entry\" period than there are positions available, the contestants accepted will be based on the qualification procedures defined in the Circuit Finals ground rules. Under no circumstances will a contestant who entered during the re-entry period be able to displace a contestant who entered during the original entry period. If a contestant TO's or DR's prior to the \"re-entry\" period, that position may be filled during the \"re-entry\" period.ALL CONTESTANTS - Must check-in with secretary by 2 PM on Nov. 13th to receive the packets. Late check-in fine will be $100.MUG SHOTS - Contestants must have photo taken by Fri., Nov. 13th by 2 PM. After deadline $25 fine. Cowboy attire required.ALL CONTESTANTS - PARKING: There will be a separate parking area for Southeastern Circuit Contestants, Stock Contractors, and Personnel. Each Contestant, Stock Contractor, and Contract Personnel will receive one parking pass. Additional Parking Passes will not be available. Trailer Parking is limited. You will be provided a 24'x50' parking space. Contestants must check in with Parking Attendant prior to parking and setting your trailer. If you come in after hours, you must check with Parking Attendant the following morning. If you park in a space not specified by the Parking Attendant, you will be asked to move. For all illegally parked trailers the Southeast Circuit will receive a fine, and you will be responsible to the Southeastern Circuit for the fine.ALL CONTESTANTS - PASSES: A. Each Stock Contracting Company and Contract Personnel will be given one Companion Pass. Each Contestant will receive one Companion Pass. PRCA Membership cards or PRCA membership companion passes will not be accepted for admittance. B. Stock Contractors, Contract Personnel, and Contestants needing additional tickets will need to be purchased from the arena box office or online ticket sales.STOCK CONTRACTORS: No consideration will be given for death, or loss. Feed and housing of Livestock will be furnished from check-in time to the conclusion of the Southeastern Circuit Finals Rodeo.STOCK DELIVERY/LOADING/USE: A. Stock must be delivered to the Bergeron Rodeo Grounds by Thurs., November 12, 2026. B. Animals that are unfit, sick, or lame prior to delivery (\"delivery\" defined as having completely exited the trailer upon arrival during designated stock delivery timeframe) will not be accepted or paid for. C. All riding event livestock must be delivered with a readable permanent ownership and number brand in accordance with the PRCA Rulebook. D. All bulls must be tipped in accordance with PRCA Rule R7.10.5 prior to delivery to Bergeron Rodeo Grounds.ALL CONTESTANTS - See parking attendant prior to parking trailers.ALL EVENTS - Will pay four places in all go rounds and average.QUALIFICATIONS: Top 12. COMPLETE CIRCUIT FINALS GROUND RULES can be found by clicking on the red link above. STK CONT.: VariousEOO: 10/20/2026 11:00:00 AMEC: 10/21/2026 11:00:00 AM"
     },
     {
-      "index": 133,
+      "index": 134,
       "tour": null,
       "summaryText": "Las Vegas NV November 13-14 Helldorado Days Rodeo BB SB BR TD SW @ $5000 TR-HD, TR-HL @ $5000",
       "publishDate": "2026 September 04",
