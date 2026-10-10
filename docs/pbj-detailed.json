@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-03T14:25:07.521Z",
+  "scrapedAt": "2026-10-10T15:19:33.380Z",
   "source": "https://pbj.prorodeo.org/longlistings",
   "attemptedCount": 54,
   "listingCount": 54,
@@ -1973,14 +1973,14 @@
     },
     {
       "index": 23,
-      "tour": null,
-      "summaryText": "Indianapolis IN October 21-23 Three Hills Rodeo FFA Edition BB SB BR @ $20000 Special Entry Fees: BB-$100; SB-$100; BR-$100",
+      "tour": "WTR",
+      "summaryText": "WTR Indianapolis IN October 21-23 Three Hills Rodeo FFA Edition BB SB BR @ $20000 Special Entry Fees: BB-$100; SB-$100; BR-$100",
       "publishDate": "2026 October 02",
       "location": "Indianapolis IN",
       "eventDates": "October 21-23",
       "eventName": "Three Hills Rodeo FFA Edition",
       "fields": {
-        "tour": null,
+        "tour": "WTR",
         "arena": "Indiana Farmers Coliseum",
         "address": "1202 E. 38th Street",
         "eventDateRange": {
@@ -3382,7 +3382,7 @@
     {
       "index": 37,
       "tour": null,
-      "summaryText": "Glens Falls NY November 6-7 Adirondack Stampede Rodeo BB SB BR TD SW @ $1500 TR-HD, TR-HL @ $1500 Pending",
+      "summaryText": "Glens Falls NY November 6-7 Adirondack Stampede Rodeo BB SB BR TD SW @ $1500 TR-HD, TR-HL @ $1500",
       "publishDate": "2026 October 02",
       "location": "Glens Falls NY",
       "eventDates": "November 6-7",
@@ -3460,10 +3460,9 @@
         "TRADE DEADLINE - Fri., Oct. 30 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.",
         "STK CONT.: Painted Pony Championship Rodeo",
         "EOO: 10/23/2026 10:00:00 AM",
-        "EC: 10/26/2026 10:00:00 AM",
-        "PENDING"
+        "EC: 10/26/2026 10:00:00 AM"
       ],
-      "detailText": "Glens Falls NY November 6-7 Adirondack Stampede Rodeo ARENA: Harding Mazzotti Arena ADDRESS: 1 Civic Center Plaza PERFS: 2 Perfs: November 6- 7:30 PM; November 7- 7:30 PMEVENTS: BB SB BR TD SW @ $1500 TR-HD, TR-HL @ $1500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon., Nov. 2 between 9 AM and 1 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Fri., Oct. 30 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM. STK CONT.: Painted Pony Championship RodeoEOO: 10/23/2026 10:00:00 AMEC: 10/26/2026 10:00:00 AMPENDING"
+      "detailText": "Glens Falls NY November 6-7 Adirondack Stampede Rodeo ARENA: Harding Mazzotti Arena ADDRESS: 1 Civic Center Plaza PERFS: 2 Perfs: November 6- 7:30 PM; November 7- 7:30 PMEVENTS: BB SB BR TD SW @ $1500 TR-HD, TR-HL @ $1500 SPECIAL ENTRY FEES: PERMITS: BB SB BR TD SW TR GROUND RULES: ALL EVENTS - The \"30-hour replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - The \"walk-up replacement\" policy will be in effect. See Rodeo Entry Information page of the business journal.ALL EVENTS - Re-entries will be accepted for available positions on Mon., Nov. 2 between 9 AM and 1 PM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Fri., Oct. 30 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM. STK CONT.: Painted Pony Championship RodeoEOO: 10/23/2026 10:00:00 AMEC: 10/26/2026 10:00:00 AM"
     },
     {
       "index": 38,
@@ -4239,8 +4238,8 @@
         "perfs": {
           "perfsCount": 2,
           "perfDates": [
-            "2026-11-13T19:30:00",
-            "2026-11-14T19:30:00"
+            "2026-11-13T20:00:00",
+            "2026-11-14T20:00:00"
           ]
         },
         "slacks": {
@@ -4272,7 +4271,7 @@
         "Little Apple Xtreme Bulls",
         "ARENA: Bilbrey Family Event Center",
         "ADDRESS: 2200 Denison Avenue",
-        "PERFS: 2 Perfs: November 13- 7:30 PM; November 14- 7:30 PM",
+        "PERFS: 2 Perfs: November 13- 8:00 PM; November 14- 8:00 PM",
         "EVENTS: BR @ $40000",
         "SPECIAL ENTRY FEES: BR-$250",
         "PERMITS: BR",
@@ -4288,7 +4287,7 @@
         "EOO: 10/29/2026 11:00:00 AM",
         "EC: 10/30/2026 11:00:00 AM"
       ],
-      "detailText": "Manhattan KS November 13-14 Little Apple Xtreme Bulls ARENA: Bilbrey Family Event Center ADDRESS: 2200 Denison Avenue PERFS: 2 Perfs: November 13- 7:30 PM; November 14- 7:30 PMEVENTS: BR @ $40000 SPECIAL ENTRY FEES: BR-$250 PERMITS: BR GROUND RULES: ALL CONTESTANTS - The \"30-hour and walk-up replacement\" policies will be in effect. The check-in deadline for this event will be one hour prior to the performance. The alternate list for replacements for this event will be based on random draw.ALL CONTESTANTS - Re-entries will be accepted for available positions on Mon., Nov. 9 between 9 AM and 11 AM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Fri., Nov. 6 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire one hour after entries close.QUALIFICATIONS: 100% top money. No exemptions. A contestant will not be accepted as an entry at an X-Bulls Event if he is already placed in a position at another PRCA rodeo or event on the same day as the X-Bulls Event.COMPETITION FORMAT - 90 minimum entries (45 each performance). One go-round. Format may change depending on the number of entries. If two go-rounds, the number of entries accepted during the re-entry period will not exceed one half the original limit.NOTE: For additional ground rules see \"Xbulls ground rules with no finals\" in the Rodeo Entry Information section of the business journal. EF's: $250 EF plus $35 Central Entry Office/Supplemental Insurance Fee. STK CONT.: VariousSUB. CONT.: Rafter H Rodeo LivestockEOO: 10/29/2026 11:00:00 AMEC: 10/30/2026 11:00:00 AM"
+      "detailText": "Manhattan KS November 13-14 Little Apple Xtreme Bulls ARENA: Bilbrey Family Event Center ADDRESS: 2200 Denison Avenue PERFS: 2 Perfs: November 13- 8:00 PM; November 14- 8:00 PMEVENTS: BR @ $40000 SPECIAL ENTRY FEES: BR-$250 PERMITS: BR GROUND RULES: ALL CONTESTANTS - The \"30-hour and walk-up replacement\" policies will be in effect. The check-in deadline for this event will be one hour prior to the performance. The alternate list for replacements for this event will be based on random draw.ALL CONTESTANTS - Re-entries will be accepted for available positions on Mon., Nov. 9 between 9 AM and 11 AM. See Rodeo Entry Information page of the business journal.TRADE DEADLINE - Fri., Nov. 6 at 4 PM. All confirmed trades will be final and will be processed immediately after both involved parties have confirmed through PROCOM.GRACE PERIOD - Will expire one hour after entries close.QUALIFICATIONS: 100% top money. No exemptions. A contestant will not be accepted as an entry at an X-Bulls Event if he is already placed in a position at another PRCA rodeo or event on the same day as the X-Bulls Event.COMPETITION FORMAT - 90 minimum entries (45 each performance). One go-round. Format may change depending on the number of entries. If two go-rounds, the number of entries accepted during the re-entry period will not exceed one half the original limit.NOTE: For additional ground rules see \"Xbulls ground rules with no finals\" in the Rodeo Entry Information section of the business journal. EF's: $250 EF plus $35 Central Entry Office/Supplemental Insurance Fee. STK CONT.: VariousSUB. CONT.: Rafter H Rodeo LivestockEOO: 10/29/2026 11:00:00 AMEC: 10/30/2026 11:00:00 AM"
     },
     {
       "index": 46,
@@ -4606,7 +4605,7 @@
         "ALL CONTESTANTS - Must wear back numbers while in arena and to access hospitality area.",
         "ALL EVENTS - Will pay 4 places in the go-rounds and average.",
         "TE - If a timed event animal escapes or re-run is given for any other reason the extra will be used. Only escaped animals go back into the herd.",
-        "SR - Top 15. Three go-rounds. The first 2 go-rounds will be run during slack on Thurs., Nov. 19 at 10 AM. The third go-round will be run during the performances (5 contestants per performance. No trades). $80 stock charge per go-round.",
+        "SR - Top 15. Three go-rounds. The first 2 go-rounds will be run during slack on Thurs., Nov. 19 at 12 PM. The third go-round will be run during the performances (5 contestants per performance. No trades). $80 stock charge per go-round.",
         "QUALIFICATIONS: BB, SB, BR, TD, SW, TR - Top 12 qualifiers in each event that enter will be accepted.",
         "COMPLETE CIRCUIT FINALS GROUND RULES can be found under Member Services online at www.prorodeo.com.",
         "STK CONT.: Various",
@@ -4614,7 +4613,7 @@
         "EC: 10/30/2026 11:00:00 AM",
         "PENDING"
       ],
-      "detailText": "Mulvane KS NPP November 19-21 Prairie Circuit Finals ARENA: Kansas Star Arena ADDRESS: 777 Kansas Star Dr PERFS: 3 Perfs: November 19- 7:30 PM; November 20- 7:30 PM; November 21- 7:30 PMSLACKS: November 19- 10:00 AM EVENTS: BB SB BR TD SW SR @ $4000 + $17116 SPON TR-HD, TR-HL @ $4000 + $34232 SPON SPECIAL ENTRY FEES: BB-$375; SB-$375; BR-$375; TD-$500; SW-$500; TR-$500; SR-$500 PERMITS: CIR - BB SB BR TD SW TR SR GROUND RULES: Click here for additional ground rules The 2026 Prairie Circuit Finals cut-off date will be September 30, 2026. Any rodeo ending on or before this date will count toward the 2026 rodeo season. Any rodeo ending after this will count towards the 2027 rodeo season. Only actual contestant and one companion allowed gate access (contestants children under 14 years of age will also be allowed gate access). All events plus year-end circuit dollars. Money above includes estimated committee purse of $4,000 estimated, estimated PRCA matching funds $4,000, estimated sponsor dollar amount of $13,116 (SR $11,277) and $3 fund of TBD ( SR).ALL EVENTS - Re-entries Tues., Nov. 3 between 9 AM and 12 PM. Re-entries will be accepted if the number of entries for an event at the original entry closing time is less than limit defined in the ground rules. If more contestants enter during the \"re-entry\" period than there are positions available, the contestants accepted will be based on the qualification procedures defined in the Circuit Finals ground rules. Under no circumstances will a contestant who entered during the re-entry period be able to displace a contestant who entered during the original entry period. If a contestant TO's or DR'S prior to the \"re-entry\" period, that position may be filled during the \"re-entry\" period.ALL CONTESTANTS - Mandatory check-in of all contestants between 1 PM and 3:15 PM on Thurs., Nov. 19, 2026. Mandatory meeting for contestants at 3:30 PM failure to attend check-in and meeting may result in a $100 fine.ALL CONTESTANTS - Must wear back numbers while in arena and to access hospitality area.ALL EVENTS - Will pay 4 places in the go-rounds and average.TE - If a timed event animal escapes or re-run is given for any other reason the extra will be used. Only escaped animals go back into the herd.SR - Top 15. Three go-rounds. The first 2 go-rounds will be run during slack on Thurs., Nov. 19 at 10 AM. The third go-round will be run during the performances (5 contestants per performance. No trades). $80 stock charge per go-round.QUALIFICATIONS: BB, SB, BR, TD, SW, TR - Top 12 qualifiers in each event that enter will be accepted. COMPLETE CIRCUIT FINALS GROUND RULES can be found under Member Services online at www.prorodeo.com. STK CONT.: VariousEOO: 10/29/2026 11:00:00 AMEC: 10/30/2026 11:00:00 AMPENDING"
+      "detailText": "Mulvane KS NPP November 19-21 Prairie Circuit Finals ARENA: Kansas Star Arena ADDRESS: 777 Kansas Star Dr PERFS: 3 Perfs: November 19- 7:30 PM; November 20- 7:30 PM; November 21- 7:30 PMSLACKS: November 19- 10:00 AM EVENTS: BB SB BR TD SW SR @ $4000 + $17116 SPON TR-HD, TR-HL @ $4000 + $34232 SPON SPECIAL ENTRY FEES: BB-$375; SB-$375; BR-$375; TD-$500; SW-$500; TR-$500; SR-$500 PERMITS: CIR - BB SB BR TD SW TR SR GROUND RULES: Click here for additional ground rules The 2026 Prairie Circuit Finals cut-off date will be September 30, 2026. Any rodeo ending on or before this date will count toward the 2026 rodeo season. Any rodeo ending after this will count towards the 2027 rodeo season. Only actual contestant and one companion allowed gate access (contestants children under 14 years of age will also be allowed gate access). All events plus year-end circuit dollars. Money above includes estimated committee purse of $4,000 estimated, estimated PRCA matching funds $4,000, estimated sponsor dollar amount of $13,116 (SR $11,277) and $3 fund of TBD ( SR).ALL EVENTS - Re-entries Tues., Nov. 3 between 9 AM and 12 PM. Re-entries will be accepted if the number of entries for an event at the original entry closing time is less than limit defined in the ground rules. If more contestants enter during the \"re-entry\" period than there are positions available, the contestants accepted will be based on the qualification procedures defined in the Circuit Finals ground rules. Under no circumstances will a contestant who entered during the re-entry period be able to displace a contestant who entered during the original entry period. If a contestant TO's or DR'S prior to the \"re-entry\" period, that position may be filled during the \"re-entry\" period.ALL CONTESTANTS - Mandatory check-in of all contestants between 1 PM and 3:15 PM on Thurs., Nov. 19, 2026. Mandatory meeting for contestants at 3:30 PM failure to attend check-in and meeting may result in a $100 fine.ALL CONTESTANTS - Must wear back numbers while in arena and to access hospitality area.ALL EVENTS - Will pay 4 places in the go-rounds and average.TE - If a timed event animal escapes or re-run is given for any other reason the extra will be used. Only escaped animals go back into the herd.SR - Top 15. Three go-rounds. The first 2 go-rounds will be run during slack on Thurs., Nov. 19 at 12 PM. The third go-round will be run during the performances (5 contestants per performance. No trades). $80 stock charge per go-round.QUALIFICATIONS: BB, SB, BR, TD, SW, TR - Top 12 qualifiers in each event that enter will be accepted. COMPLETE CIRCUIT FINALS GROUND RULES can be found under Member Services online at www.prorodeo.com. STK CONT.: VariousEOO: 10/29/2026 11:00:00 AMEC: 10/30/2026 11:00:00 AMPENDING"
     },
     {
       "index": 50,
@@ -5057,7 +5056,7 @@
         ],
         "entryFees": [],
         "permits": null,
-        "groundRules": "Click here for additional ground rules",
+        "groundRules": "Contestants must confirm entry by calling PROCOM between 12 PM, Oct. 13th and 12 PM, Oct. 14th. Contestants not confirmed by 12 PM, Oct. 15th may be fined and/or disqualified.",
         "stockContractor": "Various",
         "subContractors": null,
         "entriesOpen": "2026-10-13T12:00:00",
@@ -5073,15 +5072,14 @@
         "EVENTS: BB SB BR TD SW @ $1783842 TR-HD, TR-HL @ $1783842",
         "SPECIAL ENTRY FEES:",
         "PERMITS:",
-        "GROUND RULES: Click here for additional ground rules",
-        "Contestants must confirm entry by calling PROCOM between 12 PM, Oct. 13th and 12 PM, Oct. 14th. Contestants not confirmed by 12 PM, Oct. 15th may be fined and/or disqualified.",
+        "GROUND RULES: Contestants must confirm entry by calling PROCOM between 12 PM, Oct. 13th and 12 PM, Oct. 14th. Contestants not confirmed by 12 PM, Oct. 15th may be fined and/or disqualified.",
         "TR - Headers and heelers must designate their partners for the NFR in accordance with the \"Procedures for Pairing Team Roping Headers and Heelers\".",
         "FOR COMPLETE 2026 NFR GROUND RULES can be found by clicking on the red link above.",
         "STK CONT.: Various",
         "EOO: 10/13/2026 12:00:00 PM",
         "EC: 10/14/2026 12:00:00 PM"
       ],
-      "detailText": "Las Vegas NV NPP December 3-12 2026 Wrangler National Finals Rodeo ARENA: Thomas & Mack Arena ADDRESS: 4505 S. Maryland Pkwy PERFS: 10 Perfs: December 3- 5:45 PM; December 4- 5:45 PM; December 5- 5:45 PM; December 6- 5:45 PM; December 7- 5:45 PM; December 8- 5:45 PM; December 9- 5:45 PM; December 10- 5:45 PM; December 11- 5:45 PM; December 12- 5:45 PMEVENTS: BB SB BR TD SW @ $1783842 TR-HD, TR-HL @ $1783842 SPECIAL ENTRY FEES: PERMITS: GROUND RULES: Click here for additional ground rules Contestants must confirm entry by calling PROCOM between 12 PM, Oct. 13th and 12 PM, Oct. 14th. Contestants not confirmed by 12 PM, Oct. 15th may be fined and/or disqualified.TR - Headers and heelers must designate their partners for the NFR in accordance with the \"Procedures for Pairing Team Roping Headers and Heelers\". FOR COMPLETE 2026 NFR GROUND RULES can be found by clicking on the red link above. STK CONT.: VariousEOO: 10/13/2026 12:00:00 PMEC: 10/14/2026 12:00:00 PM"
+      "detailText": "Las Vegas NV NPP December 3-12 2026 Wrangler National Finals Rodeo ARENA: Thomas & Mack Arena ADDRESS: 4505 S. Maryland Pkwy PERFS: 10 Perfs: December 3- 5:45 PM; December 4- 5:45 PM; December 5- 5:45 PM; December 6- 5:45 PM; December 7- 5:45 PM; December 8- 5:45 PM; December 9- 5:45 PM; December 10- 5:45 PM; December 11- 5:45 PM; December 12- 5:45 PMEVENTS: BB SB BR TD SW @ $1783842 TR-HD, TR-HL @ $1783842 SPECIAL ENTRY FEES: PERMITS: GROUND RULES: Contestants must confirm entry by calling PROCOM between 12 PM, Oct. 13th and 12 PM, Oct. 14th. Contestants not confirmed by 12 PM, Oct. 15th may be fined and/or disqualified.TR - Headers and heelers must designate their partners for the NFR in accordance with the \"Procedures for Pairing Team Roping Headers and Heelers\". FOR COMPLETE 2026 NFR GROUND RULES can be found by clicking on the red link above. STK CONT.: VariousEOO: 10/13/2026 12:00:00 PMEC: 10/14/2026 12:00:00 PM"
     }
   ]
 }
